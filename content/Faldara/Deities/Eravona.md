@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T03:02:01.901-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
+{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T03:03:51.669-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
 ---
 
 
@@ -31,7 +31,7 @@
 
 Eravona embodies the unpredictable nature of the ocean, both its beauty and its terror. Fishermen, sailors, and coastal dwellers respect and fear her, as her moods can shift from serene to vengeful in an instant.
 
-> [!dm]
+> [!dm] What about this?
 > ## Notes
 > 
 > Followers: Called "Wavewalkers", the followers of Eravona tend to be sailors, fisherman, and storm sorcerers.
