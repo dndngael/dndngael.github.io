@@ -1,9 +1,10 @@
 ---
-{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T03:12:45.777-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
+{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T04:10:08.158-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
 ---
 
 
 > [!infobox]+
+> ![[4 Assets/Eravona.png]]
 > #### Basic Information
 > |||
 > |---|---|
