@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+{"publish":true,"title":"Index","created":"2025-11-21T00:02:01.612-06:00","modified":"2025-11-21T00:03:39.453-06:00","cssclasses":""}
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Index
+
+This is a test!
