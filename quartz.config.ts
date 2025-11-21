@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "D&D & Gael",
+    pageTitleSuffix: "Notes and information on D&D5e games Gael DMs",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
