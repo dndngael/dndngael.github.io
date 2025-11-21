@@ -1,16 +1,29 @@
 ---
-{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T02:48:05.126-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
+{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T03:02:01.901-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
 ---
 
 
 > [!infobox]+
-> # Eravona
-> ###### Bio
+> # Basic Information
 > |||
 > |---|---|
 > |**Title(s)** | Goddess of Storms, Goddess of the Sea |
+> |**Adjective(s)** | Eravonan |
+> |**Symbol** | - |
 > |**Pronouns** | She/Her |
 > |**Alignment** | Chaotic Neutral |
+> |**Status** | Alive |
+>
+>> [!dm] More Information
+> > ---
+> > # Influence
+> > |||
+> > |---|---|
+> > |Portfolio||
+> > ---
+> > # Worshippers
+> > ---
+> > # Pre-Apotheosis
 
 # **Eravona** <span style="font-size: medium">"air-uh-VOH-nuh"</span>
 
