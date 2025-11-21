@@ -1,4 +1,4 @@
-import { QuartzTransformerPlugin } from "../types"
+import { QuartzTransformerPlugin } from "../../types"
 
 export const StripDmCallouts: QuartzTransformerPlugin = () => ({
   name: "StripDmCallouts",
@@ -7,8 +7,6 @@ export const StripDmCallouts: QuartzTransformerPlugin = () => ({
       {
         name: "strip-dm-callouts",
         transformHtml: ({ html }) => {
-          // This regex finds any <blockquote ... data-callout="dm"> ... </blockquote>
-          // and removes it entirely from the HTML output.
           const dmCalloutRegex =
             /<blockquote\b[^>]*\bdata-callout=["']dm["'][\s\S]*?<\/blockquote>/gi
 
