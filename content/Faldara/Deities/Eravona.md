@@ -1,10 +1,10 @@
 ---
-{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T03:03:51.669-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
+{"publish":true,"aliases":"\\-","title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-21T03:12:45.777-06:00","tags":["Character","Deity","NPC"],"cssclasses":""}
 ---
 
 
 > [!infobox]+
-> # Basic Information
+> #### Basic Information
 > |||
 > |---|---|
 > |**Title(s)** | Goddess of Storms, Goddess of the Sea |
@@ -13,17 +13,24 @@
 > |**Pronouns** | She/Her |
 > |**Alignment** | Chaotic Neutral |
 > |**Status** | Alive |
->
->> [!dm] More Information
-> > ---
-> > # Influence
-> > |||
-> > |---|---|
-> > |Portfolio||
-> > ---
-> > # Worshippers
-> > ---
-> > # Pre-Apotheosis
+> ---
+> #### Influence
+> |||
+> |---|---|
+> |**Portfolio**||
+> ---
+> #### Worshippers
+> |||
+> |---|---|
+> |**Worshippers**||
+> ---
+> #### Pre-Apotheosis
+> |||
+> |---|---|
+> |**Race**||
+> |**Sex**||
+> |**Mortal Home**||
+> |**Apotheosis**||
 
 # **Eravona** <span style="font-size: medium">"air-uh-VOH-nuh"</span>
 
@@ -31,7 +38,7 @@
 
 Eravona embodies the unpredictable nature of the ocean, both its beauty and its terror. Fishermen, sailors, and coastal dwellers respect and fear her, as her moods can shift from serene to vengeful in an instant.
 
-> [!dm] What about this?
+> [!dm]
 > ## Notes
 > 
 > Followers: Called "Wavewalkers", the followers of Eravona tend to be sailors, fisherman, and storm sorcerers.
