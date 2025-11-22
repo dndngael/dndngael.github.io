@@ -2,7 +2,7 @@ import { QuartzTransformerPlugin } from "../../types"
 import { visit } from "unist-util-visit"
 import type { Root, Element } from "hast"
 
-export const StripDMetadataCallouts: QuartzTransformerPlugin = () => {
+export const StripMetadataCallouts: QuartzTransformerPlugin = () => {
   return {
     name: "StripMetadataCallouts",
     htmlPlugins() {
