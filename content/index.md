@@ -8,4 +8,4 @@
 
 | Name                                                                                | Players |
 | ----------------------------------------------------------------------------------- | ------- |
-| [[1 Adventures/Candlekeep Mysteries/Candlekeep Mysteries\|Candlekeep Mysteries]] | \-      |
+| [[1 Adventures/Candlekeep Mysteries/Candlekeep Mysteries\|Candlekeep Mysteries]] |         |
