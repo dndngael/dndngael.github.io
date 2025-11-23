@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T01:45:06.206-06:00","tags":["character","npc"],"cssclasses":""}
+{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T01:47:48.253-06:00","tags":["character","npc"],"cssclasses":""}
 ---
 
 
@@ -28,7 +28,6 @@
 > |:-----------:|:---------------:|:----------------:|
 > |             |                 |                  |
 
-
 > [!infobox]+
 > #### General Information
 > |||
@@ -39,15 +38,21 @@
 > | **Location** ||
 > | **Mask** ||
 
-# NPC 1
-## `=this.aka`
+## NPC 1
+### 123,456
 
-```dataviewjs
-dv.pages("[[]] and #info")
-  .where(p => p.publish)
-  .forEach(page => {
-    dv.paragraph("![[" + page.file.path + "]] \n ---")
-  })
+Test
+
+```yaml
+tags: [info]
+publish: true
 ```
 
-## This is a test
+[[5 Templates/NPC\|NPC]]
+
+<a href="tags/info" class="tag-link">info</a>  
+[[Faldara/Information/NPC 1\|NPC 1]]
+
+---
+
+### This is a Test
