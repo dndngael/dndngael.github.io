@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T22:57:21.816-06:00","tags":["character","npc"],"cssclasses":""}
+{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T23:02:53.298-06:00","tags":["character","npc"],"cssclasses":""}
 ---
 
 
@@ -41,7 +41,12 @@
 ## NPC 1
 ### 123,456
 
-- [[Faldara/Information/Test\|Test]]
+
+
+[[5 Templates/NPC\|NPC]]
+
+#info
+[[Faldara/Information/NPC 1]]
 
 Test
 
