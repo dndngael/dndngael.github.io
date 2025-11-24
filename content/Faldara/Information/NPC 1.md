@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T01:47:48.253-06:00","tags":["character","npc"],"cssclasses":""}
+{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T22:33:40.649-06:00","tags":["character","npc"],"cssclasses":""}
 ---
 
 
@@ -40,8 +40,6 @@
 
 ## NPC 1
 ### 123,456
-
-Test
 
 ```yaml
 tags: [info]
