@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T23:37:06.315-06:00","tags":["character","npc"],"cssclasses":""}
+{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-24T00:09:00.867-06:00","tags":["character","npc"],"cssclasses":""}
 ---
 
 
