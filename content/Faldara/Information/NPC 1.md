@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T23:07:04.849-06:00","tags":["character","npc"],"cssclasses":""}
+{"publish":true,"title":"NPC Test","created":"2025-11-23T01:44:50.074-06:00","modified":"2025-11-23T23:12:23.816-06:00","tags":["character","npc"],"cssclasses":""}
 ---
 
 
@@ -48,17 +48,7 @@
 #info
 [[Faldara/Information/NPC 1]]
 
-Test
-
-```yaml
-tags: [info]
-publish: true
-```
-
-[[5 Templates/NPC\|NPC]]
-
-<a href="tags/info" class="tag-link">info</a>  
-[[Faldara/Information/NPC 1\|NPC 1]]
+[[Faldara/Information/Test\|Test]]
 
 ---
 
