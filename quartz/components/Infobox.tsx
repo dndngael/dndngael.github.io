@@ -29,23 +29,23 @@ Infobox.afterDOMLoaded = `
   // Show container
   container.style.display = "block";
 
-  // Hide all original infoboxes in the body that are NOT already in the container
+  // Hide originals in the body (not in our container)
   infoboxes.forEach(function (el) {
     if (!container.contains(el)) {
       el.style.display = "none";
     }
   });
 
-  // Prefer an infobox already inside the container, if present
-  var existingInside = container.querySelector(".callout[data-callout='infobox']");
-  if (existingInside) {
-    existingInside.style.display = "block";
-    existingInside.classList.add("infobox-relocated");
+  // Prefer an infobox already rendered inside the container
+  var inside = container.querySelector(".callout[data-callout='infobox']");
+  if (inside) {
+    inside.style.display = "block";
+    inside.classList.add("infobox-relocated");
     console.log("[Infobox] Using existing infobox in container");
     return;
   }
 
-  // Otherwise, clone the first one from the body into the container
+  // Otherwise clone the first from the body
   var first = infoboxes[0];
   var cloned = first.cloneNode(true);
   cloned.style.display = "block";
@@ -59,10 +59,21 @@ Infobox.css = `
     margin-bottom: 1.5rem;
   }
 
-  /* Force infobox inside the container to be visible, even if global CSS hides infobox callouts */
+  /* Make the relocated infobox super obvious */
   .infobox-container .callout[data-callout="infobox"],
   .infobox-container .infobox-relocated {
     display: block !important;
+    border: 3px solid #ffcc00 !important;
+    border-radius: 12px;
+    padding: 1rem !important;
+    background: #2b2b2b !important; /* dark gray background */
+    color: #ffffff !important;      /* white text so it's very visible */
+  }
+
+  /* Title area more visible */
+  .infobox-container .callout-title-inner {
+    font-weight: 700;
+    color: #ffcc00 !important;
   }
 `
 
