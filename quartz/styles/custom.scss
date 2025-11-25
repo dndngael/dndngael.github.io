@@ -1,4 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-
+/* Only hide infoboxes in the main content, not inside our component */
+.pageBody .callout[data-callout="infobox"] {
+  display: none;
+}
