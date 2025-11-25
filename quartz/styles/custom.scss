@@ -1,3 +1,6 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.callout[data-callout="infobox"] {
+  display: none; /* hide original in the body */
+}
