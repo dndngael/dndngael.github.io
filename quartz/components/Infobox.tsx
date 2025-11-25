@@ -4,38 +4,39 @@ import { classNames } from "../util/lang"
 const Infobox: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
     <div class={classNames(displayClass, "infobox-container")} id="infobox-mount">
-      {/* Content will be inserted here after DOM load if there is an infobox callout */}
+      {/* Infobox content will be inserted here client-side if present */}
     </div>
   )
 }
 
+// IMPORTANT: everything in this string must be plain JavaScript, no "as", no ": type"
 Infobox.afterDOMLoaded = `
   console.log("[Infobox] afterDOMLoaded script running");
 
-  const container = document.getElementById("infobox-mount");
+  var container = document.getElementById("infobox-mount");
   if (!container) {
     console.log("[Infobox] No container found with id 'infobox-mount'");
     return;
   }
 
-  // Find the first infobox callout in the page
-  const infobox = document.querySelector(".callout[data-callout='infobox']");
-  if (!infobox) {
+  // Find all infobox callouts in the page
+  var infoboxes = document.querySelectorAll(".callout[data-callout='infobox']");
+  if (!infoboxes || infoboxes.length === 0) {
     console.log("[Infobox] No infobox callout found on this page.");
     container.style.display = "none";
     return;
   }
 
-  console.log("[Infobox] Found infobox callout:", infobox);
+  console.log("[Infobox] Found", infoboxes.length, "infobox callout(s)");
 
-  // Hide all infobox callouts in the body
-  const allInfoboxes = document.querySelectorAll(".callout[data-callout='infobox']");
-  allInfoboxes.forEach(el => {
-    (el as HTMLElement).style.display = "none";
+  // Hide all original infoboxes in the body
+  infoboxes.forEach(function (el) {
+    el.style.display = "none";
   });
 
-  // Clone the first one into our container
-  const cloned = infobox.cloneNode(true) as HTMLElement;
+  // Clone the first infobox into our container
+  var first = infoboxes[0];
+  var cloned = first.cloneNode(true);
   cloned.style.display = "";
   cloned.classList.add("infobox-relocated");
 
@@ -49,8 +50,13 @@ Infobox.css = `
     margin-bottom: 1.5rem;
   }
 
+  /* Optional extra styling for relocated infobox */
   .infobox-relocated {
-    /* optional extra styling if you want the relocated infobox to stand out */
+    /* Customize as you like, e.g.: */
+    /* border: 2px solid var(--secondary); */
+    /* border-radius: 8px; */
+    /* padding: 1rem; */
+    /* background: var(--highlight); */
   }
 `
 
