@@ -1,17 +1,14 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-// This component renders a container where the infobox will be moved.
 const Infobox: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
     <div class={classNames(displayClass, "infobox-container")} id="infobox-mount">
-      {/* Debug text so we know this component is rendering */}
       <div class="infobox-debug">[Infobox component mounted]</div>
     </div>
   )
 }
 
-// Client-side script that runs after the DOM is loaded.
 Infobox.afterDOMLoaded = `
   console.log("[Infobox] afterDOMLoaded script running");
 
@@ -22,21 +19,19 @@ Infobox.afterDOMLoaded = `
     console.log("[Infobox] Container found", container);
   }
 
-  // Try to find any callout with data-callout="infobox"
   const infobox = document.querySelector(".callout[data-callout='infobox']");
   if (!infobox) {
     console.log("[Infobox] No infobox callout found on this page.");
-    // Hide container if there is no infobox
     if (container) container.style.display = "none";
   } else {
     console.log("[Infobox] Found infobox callout:", infobox);
 
     // Hide the original in-body infobox
-    (infobox as HTMLElement).style.display = "none";
+    infobox.style.display = "none";
 
     if (container) {
       // Clone the infobox and move it into our container
-      const cloned = infobox.cloneNode(true) as HTMLElement;
+      const cloned = infobox.cloneNode(true);
       cloned.style.display = "";
       cloned.classList.add("infobox-relocated");
       container.appendChild(cloned);
@@ -49,7 +44,7 @@ Infobox.afterDOMLoaded = `
 
 Infobox.css = `
   .infobox-container {
-    display: none; /* hidden by default; shown when an infobox exists */
+    display: none;
     margin-bottom: 1.5rem;
   }
 
