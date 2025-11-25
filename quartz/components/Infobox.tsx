@@ -4,7 +4,7 @@ import { classNames } from "../util/lang"
 const Infobox: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
     <div class={classNames(displayClass, "infobox-container")} id="infobox-mount">
-      {/* Infobox content will be inserted here client-side if present */}
+      {/* Infobox content will be inserted / reused here */}
     </div>
   )
 }
@@ -36,11 +36,10 @@ Infobox.afterDOMLoaded = `
     }
   });
 
-  // If there is already an infobox inside the container (from server-side HTML),
-  // just use it and ensure it's visible
+  // Prefer an infobox already inside the container, if present
   var existingInside = container.querySelector(".callout[data-callout='infobox']");
   if (existingInside) {
-    existingInside.style.display = "";
+    existingInside.style.display = "block";
     existingInside.classList.add("infobox-relocated");
     console.log("[Infobox] Using existing infobox in container");
     return;
@@ -49,7 +48,7 @@ Infobox.afterDOMLoaded = `
   // Otherwise, clone the first one from the body into the container
   var first = infoboxes[0];
   var cloned = first.cloneNode(true);
-  cloned.style.display = "";
+  cloned.style.display = "block";
   cloned.classList.add("infobox-relocated");
   container.appendChild(cloned);
   console.log("[Infobox] Cloned first infobox into container");
@@ -60,8 +59,10 @@ Infobox.css = `
     margin-bottom: 1.5rem;
   }
 
-  .infobox-relocated {
-    /* optional styling */
+  /* Force infobox inside the container to be visible, even if global CSS hides infobox callouts */
+  .infobox-container .callout[data-callout="infobox"],
+  .infobox-container .infobox-relocated {
+    display: block !important;
   }
 `
 
