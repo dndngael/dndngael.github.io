@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Forgotten Realms","created":"2025-11-26T00:57:49.189-06:00","modified":"2025-11-26T01:15:58.443-06:00","cssclasses":""}
+{"publish":true,"title":"The Forgotten Realms","created":"2025-11-26T00:57:49.189-06:00","modified":"2025-11-26T01:22:14.774-06:00","cssclasses":""}
 ---
 
 # The Forgotten Realms
@@ -50,8 +50,7 @@ The various dwarven communities of the North are the heirs and survivors of Delz
 
 Holds that survive from the days of Delzoun include Mithral Hall, Citadel Adbar, and Citadel Felbarr. The fabled city of Gauntlgrym, built by the Delzoun dwarves and recently taken back from the drow, stands as a beacon of resurgent dwarven strength in the North. Stoneshaft Hold and Ironmaster are lonely settlements continually girding themselves for threats real and imagined. Sundabar and Mirabar are also generally considered dwarfholds, despite their substantial human populations.
 
-![](4 Assets\SCAG\scag01-02.webp#center)
-![[4 Assets/SCAG/scag01-02.webp]]
+![[4 Assets/SCAG/scag01-02.webp|center|256]]
 
 Until recently, many of the dwarfholds were members of the Silver Marches (also known as Luruar), an alliance of cities that provided mutual protection across the North. Disagreements and failed obligations during a war with the orc kingdom of Many-Arrows destroyed the remaining trust between members of the Marches, and that pact is no more. The dwarfholds still ally with one another, and individually with nearby human realms, but no longer pledge to stand unified with all their neighbors.
 
