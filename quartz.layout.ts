@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.Graph(),],
   footer: Component.Footer({
     links: {
       "YouTube Playlist": "https://youtu.be/dQw4w9WgXcQ?si=-lip_jG7-u9OLR-O",
@@ -38,7 +38,6 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.Graph(),
   ],
   right: [
     Component.Infobox(),
