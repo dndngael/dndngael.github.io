@@ -58,23 +58,6 @@ Infobox.css = `
   .infobox-container {
     margin-bottom: 1.5rem;
   }
-
-  /* Make the relocated infobox super obvious */
-  .infobox-container .callout[data-callout="infobox"],
-  .infobox-container .infobox-relocated {
-    display: block !important;
-    border: 3px solid #ffcc00 !important;
-    border-radius: 12px;
-    padding: 1rem !important;
-    background: #2b2b2b !important; /* dark gray background */
-    color: #ffffff !important;      /* white text so it's very visible */
-  }
-
-  /* Title area more visible */
-  .infobox-container .callout-title-inner {
-    font-weight: 700;
-    color: #ffcc00 !important;
-  }
 `
 
 export default (() => Infobox) satisfies QuartzComponentConstructor
