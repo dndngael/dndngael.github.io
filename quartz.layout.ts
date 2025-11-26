@@ -6,12 +6,13 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: [Component.Footer({
-    links: {
-      "YouTube Playlist": "https://youtu.be/dQw4w9WgXcQ?si=-lip_jG7-u9OLR-O",
-    },
-  }),
-  Component.Graph(),
+  footer: [
+    Component.Footer({
+      links: {
+        "YouTube Playlist": "https://youtu.be/dQw4w9WgXcQ?si=-lip_jG7-u9OLR-O",
+      },
+    }),
+    Component.Graph(),
   ],
 }
 
