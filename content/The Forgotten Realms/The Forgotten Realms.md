@@ -1,11 +1,14 @@
 ---
-{"publish":true,"title":"The Forgotten Realms","created":"2025-11-26T00:57:49.189-06:00","modified":"2025-11-26T23:35:38.517-06:00","cssclasses":""}
+{"publish":true,"title":"The Forgotten Realms","created":"2025-11-26T00:57:49.189-06:00","modified":"2025-11-27T00:44:40.186-06:00","tags":["world"],"cssclasses":""}
 ---
 
 
 # The Forgotten Realms
+## Adventures:
+- [[1 Adventures/Candlekeep Mysteries/Candlekeep Mysteries\|Candlekeep Mysteries]]
 
-## Welcome to the Realms
+
+# Welcome to the Realms
 *Source: Sword Coast Adventurer's Guide, ch. 1* 
 
 On the world of Toril, between the windswept Sea of Swords to the west and the mysterious lands of Kara-Tur to the east, lies the continent of Faerûn. A place of varied cultures and races, Faerûn is dominated by human lands, be they kingdoms, city-states, or carefully maintained alliances of rural communities. Interspersed among the lands of humans are old dwarven kingdoms and hidden elven enclaves, assimilated populations of gnomes and halflings, and more exotic folk.
