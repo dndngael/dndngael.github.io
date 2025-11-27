@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Infobox()
+    Component.Infobox(),
     //Component.DesktopOnly(Component.Infobox()),
     Component.Graph(),
     Component.Backlinks(),
