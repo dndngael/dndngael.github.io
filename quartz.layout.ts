@@ -18,6 +18,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
+      component: Component.Graph(),
       condition: (page) => page.fileData.slug !== "index",
     }),
     //Component.ArticleTitle(),
@@ -43,7 +44,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Infobox(),
     //Component.DesktopOnly(Component.Infobox()),
-    Component.Graph(),
     Component.Backlinks(),
   ],
 }
