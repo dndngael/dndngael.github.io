@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-22T22:59:51.574-06:00","tags":["character","deity","npc"],"cssclasses":""}
+{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2025-11-28T23:56:11.253-06:00","tags":["character","deity","npc"],"cssclasses":""}
 ---
 
+# Eravona
+
+## **Eravona** <span style="font-size: medium">"air-uh-VOH-nuh"</span>
 
 > [!infobox]+
 > ![[4 Assets/Eravona.png]]
