@@ -27,8 +27,8 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.MobileOnly(Component.Infobox()),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    //Component.PageTitle(),
+    //Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    //Component.Explorer(),
   ],
   right: [
     //Component.Infobox(),
