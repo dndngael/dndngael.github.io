@@ -23,7 +23,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
-import Infobox from "./Infobox"
+//import Infobox from "./Infobox"
 
 export {
   ArticleTitle,
@@ -51,5 +51,5 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  Infobox,
+  //Infobox,
 }
