@@ -16,22 +16,22 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    /*
+    
     Component.ConditionalRender({
-      //component: Component.Breadcrumbs(),
-      //component: Component.Graph(),
+      component: Component.Breadcrumbs(),
+      component: Component.Graph(),
       condition: (page) => page.fileData.slug !== "index",
     }),
     //Component.ArticleTitle(),
     //Component.ContentMeta(),
     //Component.TagList(),
     //Component.MobileOnly(Component.Infobox()),
-  */
+  
     ],
   left: [
-    /*
-    //Component.PageTitle(),
-    //Component.MobileOnly(Component.Spacer()),
+    
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
@@ -42,13 +42,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    //Component.Explorer(),
-  */
+    Component.Explorer(),
+  
   ],
   right: [
     //Component.Infobox(),
     //Component.DesktopOnly(Component.Infobox()),
-    //Component.Backlinks(),
+    Component.Backlinks(),
   ],
 }
 
@@ -56,7 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [/*Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()*/],
   left: [
-    /*
+    
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
@@ -69,7 +69,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    */
+    
   ],
   right: [],
 }
