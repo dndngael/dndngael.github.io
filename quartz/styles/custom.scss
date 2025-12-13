@@ -397,3 +397,76 @@ footer a {
 ::selection {
   background: rgba(139, 30, 30, 0.18);
 }
+
+/* =========================================================
+   Quartz layout safety: prevent center/right overlap
+   Put this near the end so it wins.
+   ========================================================= */
+
+/* 1) Make sizing predictable everywhere */
+#quartz-root,
+#quartz-root * {
+  box-sizing: border-box;
+}
+
+/* 2) Ensure the 3-column layout can shrink correctly */
+#quartz-body {
+  display: flex;          /* Quartz already does something like this; harmless if repeated */
+  align-items: stretch;
+  gap: 1.25rem;           /* controls spacing between columns */
+}
+
+/* Key fix: allow flex children to actually shrink.
+   Without min-width: 0, long content (tables/code) forces overlap. */
+#quartz-body > .left.sidebar,
+#quartz-body > .center,
+#quartz-body > .right.sidebar {
+  min-width: 0;
+}
+
+/* 3) Prevent the center column from exceeding available space */
+#quartz-body > .center {
+  flex: 1 1 auto;
+  max-width: 100%;
+  overflow-x: hidden;     /* avoid pushing into sidebar */
+}
+
+/* 4) Keep sidebars from being “covered” and give them stable widths */
+#quartz-body > .left.sidebar {
+  flex: 0 0 18rem;        /* adjust to taste */
+  max-width: 18rem;
+}
+
+#quartz-body > .right.sidebar {
+  flex: 0 0 20rem;        /* adjust to taste */
+  max-width: 20rem;
+}
+
+/* 5) Constrain common offenders that cause horizontal overflow */
+.center article,
+.center .popover-hint {
+  max-width: 100%;
+}
+
+.table-container {
+  max-width: 100%;
+  overflow-x: auto;       /* tables scroll instead of widening layout */
+}
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* 6) Mobile: stack columns */
+@media (max-width: 900px) {
+  #quartz-body {
+    flex-direction: column;
+  }
+
+  #quartz-body > .left.sidebar,
+  #quartz-body > .right.sidebar {
+    flex: 0 0 auto;
+    max-width: 100%;
+  }
+}
