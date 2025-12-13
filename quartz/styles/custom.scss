@@ -2,433 +2,302 @@
 
 // put your custom CSS here!
 
-/* =========================================================
-   Quartz 4 + SCSS: D&D 5e (2014 module-book inspired)
-   Mobile + desktop friendly
-   ========================================================= */
+/* =========================
+   D&D 5e (2014) module feel
+   Quartz 4 (SCSS) theme
+   ========================= */
 
-/* ---------- Tokens ---------- */
+/* ---- 1) Fonts ----
+   You can host fonts yourself or use system fallbacks.
+   D&D 5e vibe: a bookish serif for body + a display serif for headings.
+*/
 :root {
-  --dnd-paper: #f6f0e2;
-  --dnd-paper-2: #efe4cf;
-  --dnd-ink: #1f1a14;
-  --dnd-ink-2: #3b3127;
-  --dnd-muted: #6b5a4a;
+  /* Body serif stack (free-ish substitutes first) */
+  --dnd-body-font: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua",
+    "Cormorant Garamond", Garamond, serif;
 
-  --dnd-red: #8a1f1a;
-  --dnd-red-2: #b33a2f;
-  --dnd-rule: rgba(138, 31, 26, 0.35);
+  /* Display / chapter heading vibe */
+  --dnd-display-font: "Cinzel", "IM Fell English SC", "Baskerville",
+    "Goudy Old Style", serif;
 
-  --dnd-box: rgba(243, 234, 215, 0.80);
-  --dnd-box-border: rgba(31, 26, 20, 0.18);
-  --dnd-shadow: rgba(0, 0, 0, 0.12);
+  /* ---- 2) Palette ---- */
+  --dnd-ink: #1b1a16;         /* warm black */
+  --dnd-ink-soft: #2a2822;
+  --dnd-paper: #f5f0e3;       /* parchment */
+  --dnd-paper-2: #efe6d2;
+  --dnd-edge: #cdbb93;        /* aged border */
+  --dnd-rule: #b79d66;        /* gold-ish rules */
+  --dnd-red: #8b1e1e;         /* deep module red */
+  --dnd-blue: #1f4e79;        /* muted ink blue */
+  --dnd-green: #295b3a;       /* muted ink green */
 
-  --dnd-link: #7a1b17;
-  --dnd-link-hover: #b33a2f;
+  /* Texture: subtle repeating noise via CSS-only gradient.
+     (No external image required.) */
+  --dnd-texture: radial-gradient(
+      circle at 20% 10%,
+      rgba(0, 0, 0, 0.035),
+      transparent 45%
+    ),
+    radial-gradient(
+      circle at 80% 30%,
+      rgba(0, 0, 0, 0.03),
+      transparent 50%
+    ),
+    radial-gradient(
+      circle at 40% 80%,
+      rgba(0, 0, 0, 0.025),
+      transparent 55%
+    );
 
+  /* Shadows and borders */
+  --dnd-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
+  --dnd-border: 1px solid rgba(88, 67, 25, 0.35);
+  --dnd-border-strong: 2px solid rgba(88, 67, 25, 0.5);
+
+  /* Layout rhythm */
   --dnd-radius: 10px;
-
-  /* Comfortable reading line length */
-  --dnd-max-width: 78ch;
-
-  /* Fonts (system-ish); swap in hosted fonts if you want */
-  --dnd-body-font: "Georgia", "Iowan Old Style", "Palatino Linotype", Palatino, serif;
-  --dnd-heading-font: "Georgia", "Garamond", "Palatino Linotype", Palatino, serif;
-  --dnd-mono-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  --dnd-leading: 1.65;
 }
 
-/* ---------- Global background + text ---------- */
-html, body {
-  background:
-    radial-gradient(1200px 700px at 30% 0%,
-      var(--dnd-paper) 0%,
-      var(--dnd-paper-2) 55%,
-      #e9dcc5 100%);
-  color: var(--dnd-ink);
-  font-family: var(--dnd-body-font);
-}
-
-/* Better text rendering for “print” feel */
+/* ---- Global typography ---- */
+html,
 body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-rendering: geometricPrecision;
-}
-
-/* ---------- Main reading column (Quartz-friendly, broad selectors) ---------- */
-/* Quartz 4 often renders content inside article/main. These are intentionally broad. */
-main, article, .content, .page {
+  font-family: var(--dnd-body-font);
   color: var(--dnd-ink);
 }
 
-/* The actual prose container */
+body {
+  line-height: var(--dnd-leading);
+  /* parchment background behind the site */
+  background:
+    var(--dnd-texture),
+    linear-gradient(180deg, var(--dnd-paper), var(--dnd-paper-2));
+}
+
+/* Quartz often uses CSS variables; we can gently align */
+:root {
+  /* If Quartz exposes variables like these, they’ll be picked up;
+     if not, no harm done. */
+  --text-normal: var(--dnd-ink);
+  --background-primary: var(--dnd-paper);
+}
+
+/* ---- 3) Page “book sheet” look ----
+   Targets the main reading area without requiring exact Quartz markup.
+*/
+main,
+article,
+.page,
+.content,
+[data-slug] {
+  /* Keep it subtle: only apply if the element is the central content container */
+}
+
 article {
-  max-width: var(--dnd-max-width);
-  line-height: 1.65;
-
-  /* responsive font sizing: good on mobile, not huge on desktop */
-  font-size: clamp(1.0rem, 0.95rem + 0.35vw, 1.08rem);
+  background:
+    var(--dnd-texture),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0)),
+    linear-gradient(180deg, var(--dnd-paper), var(--dnd-paper-2));
+  border: var(--dnd-border);
+  border-radius: var(--dnd-radius);
+  box-shadow: var(--dnd-shadow);
+  padding: clamp(1.1rem, 2.2vw, 2rem);
 }
 
-/* “Paper card” feel on desktop, lighter on mobile */
-article {
-  background: rgba(246, 240, 226, 0.65);
-  border: 1px solid rgba(31, 26, 20, 0.10);
-  border-radius: 14px;
-  box-shadow: 0 6px 24px var(--dnd-shadow);
-
-  /* responsive padding */
-  padding: clamp(1rem, 2.5vw, 1.6rem);
+/* If Quartz wraps article with a container, give spacing */
+main {
+  padding-top: 1.25rem;
+  padding-bottom: 2rem;
 }
 
-/* On very small screens, reduce shadow and keep edges clean */
-@media (max-width: 520px) {
-  article {
-    border-radius: 12px;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.10);
-  }
-}
-
-/* ---------- Headings (module-like rules + small-caps vibe) ---------- */
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--dnd-heading-font);
+/* ---- 4) Headings like module chapters ---- */
+article h1,
+article h2,
+article h3 {
+  font-family: var(--dnd-display-font);
+  letter-spacing: 0.02em;
   color: var(--dnd-ink);
-  letter-spacing: 0.2px;
-
-  /* Prevent awkward wrap on narrow screens */
-  overflow-wrap: anywhere;
 }
 
-h1 {
-  font-size: clamp(1.65rem, 1.35rem + 1.2vw, 2.15rem);
-  line-height: 1.12;
-  margin: 0.2rem 0 1rem;
-  padding-bottom: 0.65rem;
-  border-bottom: 3px solid var(--dnd-rule);
-}
-
-h2 {
-  font-size: clamp(1.3rem, 1.12rem + 0.7vw, 1.65rem);
-  margin-top: 2.0rem;
+/* Big chapter title */
+article h1 {
+  font-size: clamp(2rem, 3.2vw, 2.8rem);
+  text-transform: uppercase;
+  color: var(--dnd-red);
+  border-bottom: 3px double rgba(139, 30, 30, 0.55);
   padding-bottom: 0.35rem;
-  border-bottom: 2px solid var(--dnd-rule);
+  margin-bottom: 1rem;
+}
 
+/* Section headers with a thin rule */
+article h2 {
+  font-size: clamp(1.35rem, 2.2vw, 1.9rem);
+  margin-top: 2.2rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid rgba(183, 157, 102, 0.6);
+}
+
+/* Subsections */
+article h3 {
+  font-size: 1.2rem;
+  margin-top: 1.6rem;
+}
+
+/* Optional: smallcaps feel where supported */
+article h2,
+article h3 {
   font-variant: small-caps;
-  letter-spacing: 0.6px;
 }
 
-h3 {
-  font-size: clamp(1.12rem, 1.02rem + 0.45vw, 1.32rem);
-  margin-top: 1.55rem;
-  padding-left: 0.65rem;
-  border-left: 4px solid var(--dnd-rule);
-
-  font-variant: small-caps;
-  letter-spacing: 0.6px;
-}
-
-h4 {
-  font-size: 1.05rem;
-  color: var(--dnd-ink-2);
-}
-
-/* ---------- Paragraphs + inline elements ---------- */
-p { margin: 0.75rem 0; }
-
-strong { color: var(--dnd-ink); }
-em { color: var(--dnd-ink-2); }
-
-/* Links: module-ish red with underline rule */
-a {
-  color: var(--dnd-link);
+/* ---- 5) Links: module red accent ---- */
+article a {
+  color: var(--dnd-red);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 27, 23, 0.35);
+  border-bottom: 1px solid rgba(139, 30, 30, 0.35);
 }
-a:hover {
-  color: var(--dnd-link-hover);
-  border-bottom-color: rgba(179, 58, 47, 0.65);
-}
-
-/* ---------- Rules ---------- */
-hr {
-  border: none;
-  height: 2px;
-  background: linear-gradient(to right, transparent, var(--dnd-rule), transparent);
-  margin: 1.6rem 0;
+article a:hover {
+  border-bottom-color: rgba(139, 30, 30, 0.8);
+  filter: saturate(1.1);
 }
 
-/* ---------- Lists ---------- */
-ul, ol { padding-left: 1.3rem; }
-li::marker { color: rgba(138, 31, 26, 0.70); }
-
-/* ---------- Blockquotes (good for read-aloud if you don’t use callouts) ---------- */
-blockquote {
-  margin: 1.1rem 0;
-  padding: 0.95rem 1.1rem;
-  background: linear-gradient(180deg, rgba(255,255,255,0.32), var(--dnd-box));
-  border: 1px solid var(--dnd-box-border);
-  border-left: 6px solid var(--dnd-red);
-  border-radius: var(--dnd-radius);
-  box-shadow: 0 4px 14px var(--dnd-shadow);
-  color: var(--dnd-ink-2);
-
-  /* avoid horizontal overflow on mobile */
-  overflow-wrap: anywhere;
-}
-blockquote p:first-child { margin-top: 0; }
-blockquote p:last-child { margin-bottom: 0; }
-
-/* ---------- Obsidian callouts (Quartz base plugin commonly supports these) ---------- */
-.callout {
-  margin: 1.1rem 0;
-  border-radius: var(--dnd-radius);
-  border: 1px solid var(--dnd-box-border);
-  background: var(--dnd-box);
-  box-shadow: 0 4px 14px var(--dnd-shadow);
-  overflow: hidden;
-
-  /* ensure callout doesn’t create horizontal scroll on mobile */
-  min-width: 0;
-}
-
-.callout-title {
-  padding: 0.55rem 0.85rem;
-  background: rgba(138, 31, 26, 0.10);
-  border-bottom: 1px solid rgba(138, 31, 26, 0.18);
-  font-variant: small-caps;
-  letter-spacing: 0.6px;
-  color: var(--dnd-ink);
-}
-
-.callout-content {
-  padding: 0.85rem 0.95rem;
-  color: var(--dnd-ink-2);
-
-  /* prevent long strings/URLs from breaking layout */
-  overflow-wrap: anywhere;
-}
-
-/* Custom callout types (use in Obsidian like > [!readaloud]) */
-.callout[data-callout="readaloud"],
-.callout[data-callout="read-aloud"],
-.callout[data-callout="boxed-text"] {
-  background: linear-gradient(180deg, rgba(255,255,255,0.35), var(--dnd-box));
-  border-left: 6px solid var(--dnd-red);
-}
-
-.callout[data-callout="readaloud"] .callout-title,
-.callout[data-callout="read-aloud"] .callout-title,
-.callout[data-callout="boxed-text"] .callout-title {
-  background: rgba(138, 31, 26, 0.14);
-}
-
-.callout[data-callout="dm"],
-.callout[data-callout="dmnote"],
-.callout[data-callout="note"] {
-  border-left: 6px solid rgba(31, 26, 20, 0.35);
-}
-
-.callout[data-callout="loot"],
-.callout[data-callout="treasure"],
-.callout[data-callout="tip"] {
-  border-left: 6px solid rgba(171, 120, 22, 0.55);
-}
-
-/* ---------- Tables (module-ish) ---------- */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.1rem 0;
-  font-size: 0.98rem;
-
-  /* mobile: allow horizontal scroll if needed */
-  display: block;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
-thead th {
-  text-align: left;
-  font-variant: small-caps;
-  letter-spacing: 0.6px;
-  color: var(--dnd-ink);
-  background: rgba(138, 31, 26, 0.10);
-  border-bottom: 2px solid rgba(138, 31, 26, 0.30);
-  padding: 0.55rem 0.6rem;
-  white-space: nowrap;
-}
-
-tbody td {
-  border-bottom: 1px solid rgba(31, 26, 20, 0.12);
-  padding: 0.55rem 0.6rem;
-  color: var(--dnd-ink-2);
-}
-
-tbody tr:nth-child(odd) td {
-  background: rgba(243, 234, 215, 0.45);
-}
-
-/* ---------- Code ---------- */
-code, pre { font-family: var(--dnd-mono-font); }
-
-code {
-  background: rgba(31, 26, 20, 0.08);
-  padding: 0.12rem 0.35rem;
-  border-radius: 6px;
-  color: #2a211a;
-}
-
-pre {
-  background: rgba(31, 26, 20, 0.08);
-  border: 1px solid rgba(31, 26, 20, 0.14);
-  border-radius: 10px;
+/* ---- 6) Blockquotes: “boxed text” feel ---- */
+article blockquote {
+  margin: 1.2rem 0;
   padding: 0.9rem 1rem;
+  background: rgba(239, 230, 210, 0.55);
+  border-left: 4px solid rgba(183, 157, 102, 0.8);
+  border-radius: 6px;
+  color: var(--dnd-ink-soft);
+}
+
+/* ---- 7) Callouts (Obsidian-style) ----
+   Quartz renders callouts; classnames vary. We handle common ones:
+   - .callout
+   - .callout-title
+*/
+.callout {
+  background:
+    var(--dnd-texture),
+    rgba(239, 230, 210, 0.65);
+  border: var(--dnd-border);
+  border-radius: 8px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.callout .callout-title {
+  font-family: var(--dnd-display-font);
+  letter-spacing: 0.03em;
+  color: var(--dnd-ink);
+}
+
+/* Variants if Quartz adds type classes; harmless if not present */
+.callout.is-note,
+.callout[data-callout="note"] {
+  border-left: 6px solid rgba(31, 78, 121, 0.9);
+}
+.callout.is-warning,
+.callout[data-callout="warning"] {
+  border-left: 6px solid rgba(139, 30, 30, 0.9);
+}
+.callout.is-tip,
+.callout[data-callout="tip"] {
+  border-left: 6px solid rgba(41, 91, 58, 0.9);
+}
+
+/* ---- 8) Inline code + code blocks: ink-on-paper ---- */
+article code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+  font-size: 0.95em;
+  background: rgba(205, 187, 147, 0.35);
+  border: 1px solid rgba(88, 67, 25, 0.25);
+  border-radius: 6px;
+  padding: 0.1em 0.35em;
+}
+
+article pre {
+  background:
+    var(--dnd-texture),
+    rgba(27, 26, 22, 0.92);
+  color: #f6f0e4;
+  border-radius: 10px;
+  border: 1px solid rgba(205, 187, 147, 0.35);
+  padding: 1rem;
   overflow: auto;
 }
 
-/* ---------- Images (keep them in the column; no overflow on mobile) ---------- */
-img, svg, video {
-  max-width: 100%;
-  height: auto;
+/* ---- 9) Tables: ruled like appendices ---- */
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  background: rgba(245, 240, 227, 0.6);
+  border: var(--dnd-border);
+  border-radius: 10px;
+  overflow: hidden; /* keeps radius on headers */
 }
 
-/* ---------- Quartz-ish navigation / side areas: soften into parchment ---------- */
-/* Selectors vary by Quartz config; these are safe-ish and won’t break layout. */
-nav, .toc, .sidebar, .right-sidebar, .left-sidebar {
-  color: var(--dnd-ink-2);
+article thead th {
+  font-family: var(--dnd-display-font);
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  background: rgba(183, 157, 102, 0.22);
+  border-bottom: 1px solid rgba(183, 157, 102, 0.6);
+  padding: 0.6rem 0.75rem;
 }
 
-/* If your TOC looks too stark, this helps without assuming structure */
-.toc a, nav a {
-  border-bottom-color: rgba(122, 27, 23, 0.20);
+article tbody td {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid rgba(88, 67, 25, 0.18);
 }
 
-/* ---------- Print ---------- */
-@media print {
-  html, body { background: white !important; }
-  article {
-    box-shadow: none !important;
-    border: none !important;
-    background: white !important;
-    max-width: 100% !important;
-    padding: 0 !important;
-  }
-  a {
-    color: black !important;
-    border-bottom: none !important;
-    text-decoration: underline !important;
-  }
+article tbody tr:nth-child(even) {
+  background: rgba(239, 230, 210, 0.4);
 }
 
-/* =========================================================
-   Dark theme overrides (token swap)
-   Keeps the same layout/typography, but in “ink on dark vellum”
-   ========================================================= */
-
-/* 1) System dark mode fallback */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --dnd-paper: #12100d;     /* deep vellum */
-    --dnd-paper-2: #171410;
-    --dnd-ink: #efe7db;       /* warm off-white */
-    --dnd-ink-2: #d7cbb8;
-    --dnd-muted: #b7a892;
-
-    --dnd-red: #d06055;       /* brighter for contrast */
-    --dnd-red-2: #f08b80;
-    --dnd-rule: rgba(208, 96, 85, 0.45);
-
-    --dnd-box: rgba(24, 20, 16, 0.72);
-    --dnd-box-border: rgba(239, 231, 219, 0.14);
-    --dnd-shadow: rgba(0, 0, 0, 0.55);
-
-    --dnd-link: #f08b80;
-    --dnd-link-hover: #ffd0ca;
-  }
-
-  /* A couple of targeted dark tweaks */
-  article {
-    background: rgba(18, 16, 13, 0.72);
-    border-color: rgba(239, 231, 219, 0.10);
-    box-shadow: 0 10px 32px rgba(0, 0, 0, 0.55);
-  }
-
-  code, pre {
-    color: var(--dnd-ink);
-  }
-
-  code {
-    background: rgba(239, 231, 219, 0.08);
-  }
-
-  pre {
-    background: rgba(239, 231, 219, 0.06);
-    border-color: rgba(239, 231, 219, 0.12);
-  }
-
-  blockquote,
-  .callout {
-    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.55);
-  }
-
-  thead th {
-    background: rgba(208, 96, 85, 0.14);
-    border-bottom-color: rgba(208, 96, 85, 0.35);
-  }
-
-  tbody tr:nth-child(odd) td {
-    background: rgba(239, 231, 219, 0.04);
-  }
+/* ---- 10) HR and separators: “ornamental rule” ---- */
+article hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(183, 157, 102, 0.9),
+    transparent
+  );
+  margin: 2rem 0;
 }
 
-/* 2) If Quartz uses an explicit theme attribute */
-:root[data-theme="dark"] {
-  --dnd-paper: #12100d;
-  --dnd-paper-2: #171410;
-  --dnd-ink: #efe7db;
-  --dnd-ink-2: #d7cbb8;
-  --dnd-muted: #b7a892;
-
-  --dnd-red: #d06055;
-  --dnd-red-2: #f08b80;
-  --dnd-rule: rgba(208, 96, 85, 0.45);
-
-  --dnd-box: rgba(24, 20, 16, 0.72);
-  --dnd-box-border: rgba(239, 231, 219, 0.14);
-  --dnd-shadow: rgba(0, 0, 0, 0.55);
-
-  --dnd-link: #f08b80;
-  --dnd-link-hover: #ffd0ca;
+/* ---- 11) Optional: “stat block” helper class ----
+   Use in markdown: <div class="statblock"> ... </div>
+*/
+.statblock {
+  background:
+    var(--dnd-texture),
+    rgba(239, 230, 210, 0.75);
+  border: var(--dnd-border-strong);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.14);
 }
 
-/* 3) If Quartz uses a .dark class somewhere up the tree */
-.dark {
-  --dnd-paper: #12100d;
-  --dnd-paper-2: #171410;
-  --dnd-ink: #efe7db;
-  --dnd-ink-2: #d7cbb8;
-  --dnd-muted: #b7a892;
-
-  --dnd-red: #d06055;
-  --dnd-red-2: #f08b80;
-  --dnd-rule: rgba(208, 96, 85, 0.45);
-
-  --dnd-box: rgba(24, 20, 16, 0.72);
-  --dnd-box-border: rgba(239, 231, 219, 0.14);
-  --dnd-shadow: rgba(0, 0, 0, 0.55);
-
-  --dnd-link: #f08b80;
-  --dnd-link-hover: #ffd0ca;
+.statblock > h3,
+.statblock > h4 {
+  margin-top: 0;
+  color: var(--dnd-red);
+  font-family: var(--dnd-display-font);
+  text-transform: uppercase;
 }
 
-/* Optional: ensure the *page background* follows the swapped tokens
-   even if Quartz sets its own background on body/html elsewhere. */
-@media (prefers-color-scheme: dark) {
-  html, body {
-    background:
-      radial-gradient(1200px 700px at 30% 0%,
-        var(--dnd-paper) 0%,
-        var(--dnd-paper-2) 60%,
-        #0e0c0a 100%);
-  }
+.statblock strong {
+  color: var(--dnd-ink);
+}
+
+/* ---- 12) Sidebars / nav: keep readable, slightly “leather” ---- */
+nav,
+.sidebar,
+header {
+  /* Don’t over-style until you confirm Quartz selectors.
+     This keeps contrast and doesn’t break layout. */
 }
