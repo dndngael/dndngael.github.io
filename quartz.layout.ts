@@ -19,7 +19,6 @@ export const defaultContentPageLayout: PageLayout = {
     
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      component: Component.Graph(),
       condition: (page) => page.fileData.slug !== "index",
     }),
     //Component.ArticleTitle(),
@@ -48,13 +47,14 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     //Component.Infobox(),
     //Component.DesktopOnly(Component.Infobox()),
+    Component.Graph(),
     Component.Backlinks(),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [/*Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()*/],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     
     Component.PageTitle(),
