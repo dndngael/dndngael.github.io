@@ -319,3 +319,116 @@ nav, .toc, .sidebar, .right-sidebar, .left-sidebar {
     text-decoration: underline !important;
   }
 }
+
+/* =========================================================
+   Dark theme overrides (token swap)
+   Keeps the same layout/typography, but in “ink on dark vellum”
+   ========================================================= */
+
+/* 1) System dark mode fallback */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --dnd-paper: #12100d;     /* deep vellum */
+    --dnd-paper-2: #171410;
+    --dnd-ink: #efe7db;       /* warm off-white */
+    --dnd-ink-2: #d7cbb8;
+    --dnd-muted: #b7a892;
+
+    --dnd-red: #d06055;       /* brighter for contrast */
+    --dnd-red-2: #f08b80;
+    --dnd-rule: rgba(208, 96, 85, 0.45);
+
+    --dnd-box: rgba(24, 20, 16, 0.72);
+    --dnd-box-border: rgba(239, 231, 219, 0.14);
+    --dnd-shadow: rgba(0, 0, 0, 0.55);
+
+    --dnd-link: #f08b80;
+    --dnd-link-hover: #ffd0ca;
+  }
+
+  /* A couple of targeted dark tweaks */
+  article {
+    background: rgba(18, 16, 13, 0.72);
+    border-color: rgba(239, 231, 219, 0.10);
+    box-shadow: 0 10px 32px rgba(0, 0, 0, 0.55);
+  }
+
+  code, pre {
+    color: var(--dnd-ink);
+  }
+
+  code {
+    background: rgba(239, 231, 219, 0.08);
+  }
+
+  pre {
+    background: rgba(239, 231, 219, 0.06);
+    border-color: rgba(239, 231, 219, 0.12);
+  }
+
+  blockquote,
+  .callout {
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.55);
+  }
+
+  thead th {
+    background: rgba(208, 96, 85, 0.14);
+    border-bottom-color: rgba(208, 96, 85, 0.35);
+  }
+
+  tbody tr:nth-child(odd) td {
+    background: rgba(239, 231, 219, 0.04);
+  }
+}
+
+/* 2) If Quartz uses an explicit theme attribute */
+:root[data-theme="dark"] {
+  --dnd-paper: #12100d;
+  --dnd-paper-2: #171410;
+  --dnd-ink: #efe7db;
+  --dnd-ink-2: #d7cbb8;
+  --dnd-muted: #b7a892;
+
+  --dnd-red: #d06055;
+  --dnd-red-2: #f08b80;
+  --dnd-rule: rgba(208, 96, 85, 0.45);
+
+  --dnd-box: rgba(24, 20, 16, 0.72);
+  --dnd-box-border: rgba(239, 231, 219, 0.14);
+  --dnd-shadow: rgba(0, 0, 0, 0.55);
+
+  --dnd-link: #f08b80;
+  --dnd-link-hover: #ffd0ca;
+}
+
+/* 3) If Quartz uses a .dark class somewhere up the tree */
+.dark {
+  --dnd-paper: #12100d;
+  --dnd-paper-2: #171410;
+  --dnd-ink: #efe7db;
+  --dnd-ink-2: #d7cbb8;
+  --dnd-muted: #b7a892;
+
+  --dnd-red: #d06055;
+  --dnd-red-2: #f08b80;
+  --dnd-rule: rgba(208, 96, 85, 0.45);
+
+  --dnd-box: rgba(24, 20, 16, 0.72);
+  --dnd-box-border: rgba(239, 231, 219, 0.14);
+  --dnd-shadow: rgba(0, 0, 0, 0.55);
+
+  --dnd-link: #f08b80;
+  --dnd-link-hover: #ffd0ca;
+}
+
+/* Optional: ensure the *page background* follows the swapped tokens
+   even if Quartz sets its own background on body/html elsewhere. */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background:
+      radial-gradient(1200px 700px at 30% 0%,
+        var(--dnd-paper) 0%,
+        var(--dnd-paper-2) 60%,
+        #0e0c0a 100%);
+  }
+}
