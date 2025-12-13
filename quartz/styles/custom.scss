@@ -2,3 +2,398 @@
 
 // put your custom CSS here! idk
 
+/* =========================================================
+   D&D 5e 2014-module-inspired skin for Quartz v4
+   Drop into Quartz custom SCSS.
+   ========================================================= */
+
+/* ---------- Design tokens ---------- */
+:root {
+  /* Parchment + ink */
+  --dd-parchment: #f4efe2;
+  --dd-parchment-2: #efe6cf;
+  --dd-ink: #241f1a;
+  --dd-ink-soft: #3a332c;
+
+  /* Accent (classic “5e red”) */
+  --dd-red: #8b1e1e;
+  --dd-red-2: #b32626;
+
+  /* Lines + shadows */
+  --dd-rule: rgba(139, 30, 30, 0.55);
+  --dd-border: rgba(36, 31, 26, 0.18);
+  --dd-shadow: rgba(36, 31, 26, 0.18);
+
+  /* Links */
+  --dd-link: #7a1a1a;
+  --dd-link-hover: #b32626;
+
+  /* Code */
+  --dd-code-bg: rgba(36, 31, 26, 0.06);
+  --dd-code-border: rgba(36, 31, 26, 0.14);
+
+  /* Layout rhythm */
+  --dd-radius: 10px;
+  --dd-radius-sm: 8px;
+  --dd-pad: 1rem;
+
+  /* Typography */
+  /* Use user fonts if installed; fall back gracefully */
+  --dd-serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --dd-display: "Cinzel", "IM Fell English SC", "Copperplate", "Palatino Linotype", Palatino, Georgia, serif;
+  --dd-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
+
+/* Optional: make dark mode still “book-ish” instead of pure dark UI */
+:root[saved-theme="dark"], html[data-theme="dark"] {
+  --dd-parchment: #171411;
+  --dd-parchment-2: #1f1a15;
+  --dd-ink: #f1e8d8;
+  --dd-ink-soft: #dbcdb5;
+
+  --dd-rule: rgba(179, 38, 38, 0.55);
+  --dd-border: rgba(241, 232, 216, 0.18);
+  --dd-shadow: rgba(0, 0, 0, 0.35);
+
+  --dd-link: #ffb4b4;
+  --dd-link-hover: #ffd1d1;
+
+  --dd-code-bg: rgba(241, 232, 216, 0.06);
+  --dd-code-border: rgba(241, 232, 216, 0.14);
+}
+
+/* ---------- Global surface ---------- */
+#quartz-root.page {
+  color: var(--dd-ink);
+  font-family: var(--dd-serif);
+  line-height: 1.55;
+
+  /* parchment: layered gradients for subtle “paper” */
+  background:
+    radial-gradient(1200px 800px at 20% 10%, rgba(0,0,0,0.06), transparent 60%),
+    radial-gradient(1000px 700px at 85% 25%, rgba(0,0,0,0.05), transparent 65%),
+    linear-gradient(0deg, var(--dd-parchment), var(--dd-parchment));
+}
+
+/* Make the main content panel feel like a page sitting on a desk */
+#quartz-body .center {
+  background:
+    linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.0)),
+    linear-gradient(0deg, var(--dd-parchment), var(--dd-parchment-2));
+  border: 1px solid var(--dd-border);
+  border-radius: var(--dd-radius);
+  box-shadow: 0 10px 28px var(--dd-shadow);
+  padding: 1.25rem 1.5rem;
+}
+
+/* Sidebars as “margins” */
+#quartz-body .left.sidebar,
+#quartz-body .right.sidebar {
+  color: var(--dd-ink-soft);
+  font-family: var(--dd-serif);
+}
+
+#quartz-body .left.sidebar .page-title a {
+  font-family: var(--dd-display);
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--dd-ink);
+  text-decoration: none;
+}
+
+#quartz-body .left.sidebar,
+#quartz-body .right.sidebar {
+  /* faint margin tint */
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: var(--dd-radius);
+}
+
+/* ---------- Links ---------- */
+a {
+  color: var(--dd-link);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--dd-link-hover);
+}
+
+/* Internal “anchor” icons: keep subtle */
+a[role="anchor"].internal svg {
+  opacity: 0.55;
+}
+a[role="anchor"].internal:hover svg {
+  opacity: 0.9;
+}
+
+/* ---------- Headings (5e-ish) ---------- */
+article h1,
+article h2,
+article h3 {
+  font-family: var(--dd-display);
+  color: var(--dd-ink);
+  letter-spacing: 0.01em;
+}
+
+article h1 {
+  font-size: clamp(1.8rem, 1.2rem + 2vw, 2.6rem);
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
+article h2 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.35rem;
+  font-size: 1.55rem;
+  text-transform: uppercase;
+}
+
+/* “section rule” like the books */
+article h2::after {
+  content: "";
+  display: block;
+  margin-top: 0.35rem;
+  height: 2px;
+  background: linear-gradient(90deg, var(--dd-rule), transparent 70%);
+}
+
+article h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.25rem;
+}
+
+article h4,
+article h5 {
+  font-family: var(--dd-display);
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--dd-ink);
+}
+
+/* ---------- Paragraph + block elements ---------- */
+article p {
+  color: var(--dd-ink);
+}
+
+article hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--dd-rule), transparent);
+  margin: 1.25rem 0;
+}
+
+/* Blockquotes: more like “boxed text intro” */
+article blockquote:not(.callout) {
+  margin: 1rem 0;
+  padding: 0.9rem 1rem;
+  background: rgba(255, 255, 255, 0.28);
+  border-left: 4px solid var(--dd-red);
+  border-radius: var(--dd-radius-sm);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+/* ---------- Callouts (your infobox) ---------- */
+.callout {
+  background:
+    radial-gradient(800px 240px at 30% 0%, rgba(0,0,0,0.06), transparent 70%),
+    linear-gradient(0deg, rgba(255,255,255,0.20), rgba(255,255,255,0.05));
+  border: 1px solid var(--dd-border);
+  border-left: 6px solid var(--dd-red);
+  border-radius: var(--dd-radius);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.10);
+}
+
+.callout .callout-title {
+  font-family: var(--dd-display);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--dd-ink);
+  padding-top: 0.75rem;
+}
+
+.callout .callout-title-inner p {
+  margin: 0;
+}
+
+/* Make the infobox feel like a “sidebar” on the page */
+.callout.infobox {
+  max-width: 28rem;
+  float: right;
+  margin: 0.25rem 0 1rem 1.25rem;
+}
+
+/* Infobox images: framed */
+.callout.infobox img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: calc(var(--dd-radius) - 2px);
+  border: 1px solid var(--dd-border);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+/* Collapse icon / fold affordance subtle */
+.callout .fold-callout-icon {
+  opacity: 0.7;
+}
+
+/* Mobile: don’t float, keep readable */
+@media (max-width: 900px) {
+  .callout.infobox {
+    float: none;
+    max-width: 100%;
+    margin: 0.75rem 0 1rem 0;
+  }
+}
+
+/* ---------- Tables (stat-blocky) ---------- */
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.98rem;
+  background: rgba(255, 255, 255, 0.18);
+  border: 1px solid var(--dd-border);
+  border-radius: var(--dd-radius-sm);
+  overflow: hidden;
+}
+
+.table-container th,
+.table-container td {
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  vertical-align: top;
+}
+
+.table-container thead th {
+  font-family: var(--dd-display);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-size: 0.9rem;
+  background: rgba(139, 30, 30, 0.10);
+}
+
+.table-container tr:last-child td {
+  border-bottom: none;
+}
+
+.table-container td strong {
+  font-family: var(--dd-display);
+  letter-spacing: 0.02em;
+}
+
+/* ---------- Inline code + code blocks ---------- */
+code, pre, kbd {
+  font-family: var(--dd-mono);
+}
+
+article code {
+  background: var(--dd-code-bg);
+  border: 1px solid var(--dd-code-border);
+  border-radius: 6px;
+  padding: 0.1rem 0.35rem;
+}
+
+article pre {
+  background: var(--dd-code-bg);
+  border: 1px solid var(--dd-code-border);
+  border-radius: var(--dd-radius-sm);
+  padding: 0.9rem 1rem;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+}
+
+/* ---------- Explorer (left tree) ---------- */
+.explorer {
+  border: 1px solid var(--dd-border);
+  border-radius: var(--dd-radius);
+  background: rgba(255, 255, 255, 0.10);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+}
+
+.explorer h2, .explorer h3 {
+  font-family: var(--dd-display);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.explorer a {
+  color: var(--dd-ink-soft);
+  text-decoration: none;
+}
+
+.explorer a:hover {
+  color: var(--dd-link-hover);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.explorer a.active {
+  color: var(--dd-ink);
+  font-family: var(--dd-display);
+  letter-spacing: 0.02em;
+}
+
+/* ---------- Search / buttons polish ---------- */
+.search-button,
+button.darkmode,
+button.readermode,
+.explorer-toggle {
+  border: 1px solid var(--dd-border);
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+.search-button:hover,
+button.darkmode:hover,
+button.readermode:hover,
+.explorer-toggle:hover {
+  border-color: var(--dd-rule);
+}
+
+.search-bar {
+  border: 1px solid var(--dd-border);
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 999px;
+  font-family: var(--dd-serif);
+}
+
+/* ---------- Right sidebar boxes (graph/backlinks) ---------- */
+.right.sidebar .graph,
+.right.sidebar .backlinks {
+  border: 1px solid var(--dd-border);
+  border-radius: var(--dd-radius);
+  background: rgba(255, 255, 255, 0.10);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+  padding: 0.75rem;
+}
+
+.right.sidebar h3 {
+  font-family: var(--dd-display);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-top: 0.25rem;
+}
+
+/* ---------- Footer ---------- */
+footer {
+  color: var(--dd-ink-soft);
+  font-family: var(--dd-serif);
+}
+
+footer a {
+  color: var(--dd-link);
+}
+
+/* ---------- “Reader mode” friendly tightening ---------- */
+#quartz-root.reader-mode #quartz-body .center {
+  box-shadow: none;
+  border-color: rgba(0,0,0,0.10);
+}
+
+/* ---------- Optional: slightly “inked” selection ---------- */
+::selection {
+  background: rgba(139, 30, 30, 0.18);
+}
