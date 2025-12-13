@@ -397,76 +397,60 @@ footer a {
 ::selection {
   background: rgba(139, 30, 30, 0.18);
 }
-
 /* =========================================================
-   Quartz layout safety: prevent center/right overlap
-   Put this near the end so it wins.
+   Quartz layout safety: keep default layout/borders/sizing
+   and move “page” styling onto inner content instead.
    ========================================================= */
 
-/* 1) Make sizing predictable everywhere */
-#quartz-root,
-#quartz-root * {
-  box-sizing: border-box;
+/* 1) Stop our theme from changing column geometry */
+#quartz-body .center,
+#quartz-body .left.sidebar,
+#quartz-body .right.sidebar {
+  background: transparent !important;
+  border: initial !important;      /* return to Quartz defaults */
+  border-radius: initial !important;
+  box-shadow: none !important;
+  padding: initial !important;
 }
 
-/* 2) Ensure the 3-column layout can shrink correctly */
-#quartz-body {
-  display: flex;          /* Quartz already does something like this; harmless if repeated */
-  align-items: stretch;
-  gap: 1.25rem;           /* controls spacing between columns */
+/* 2) Put the “module page” look on the actual document content */
+#quartz-body .center article {
+  background:
+    linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.0)),
+    linear-gradient(0deg, var(--dd-parchment), var(--dd-parchment-2));
+  border: 1px solid var(--dd-border);
+  border-radius: var(--dd-radius);
+  box-shadow: 0 10px 28px var(--dd-shadow);
+  padding: 1.25rem 1.5rem;
 }
 
-/* Key fix: allow flex children to actually shrink.
-   Without min-width: 0, long content (tables/code) forces overlap. */
-#quartz-body > .left.sidebar,
-#quartz-body > .center,
-#quartz-body > .right.sidebar {
-  min-width: 0;
+/* Keep header/footer aligned with the “page” */
+#quartz-body .center .page-header,
+#quartz-body .center .page-footer {
+  background: transparent;
 }
 
-/* 3) Prevent the center column from exceeding available space */
-#quartz-body > .center {
-  flex: 1 1 auto;
-  max-width: 100%;
-  overflow-x: hidden;     /* avoid pushing into sidebar */
+/* 3) Sidebars: style inner widgets only (not the sidebar column itself) */
+.right.sidebar .graph,
+.right.sidebar .backlinks,
+.left.sidebar .explorer {
+  /* keep your book-ish boxes, but don’t touch column sizing */
+  border: 1px solid var(--dd-border);
+  border-radius: var(--dd-radius);
+  background: rgba(255, 255, 255, 0.10);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+  padding: 0.75rem;
 }
 
-/* 4) Keep sidebars from being “covered” and give them stable widths */
-#quartz-body > .left.sidebar {
-  flex: 0 0 18rem;        /* adjust to taste */
-  max-width: 18rem;
+/* 4) Prevent accidental width overflow inside sidebars/center */
+#quartz-body .center,
+#quartz-body .right.sidebar,
+#quartz-body .left.sidebar {
+  min-width: 0; /* important in grid/flex layouts to prevent overlap */
 }
 
-#quartz-body > .right.sidebar {
-  flex: 0 0 20rem;        /* adjust to taste */
-  max-width: 20rem;
-}
-
-/* 5) Constrain common offenders that cause horizontal overflow */
-.center article,
-.center .popover-hint {
-  max-width: 100%;
-}
-
-.table-container {
-  max-width: 100%;
-  overflow-x: auto;       /* tables scroll instead of widening layout */
-}
-
-pre {
-  max-width: 100%;
-  overflow-x: auto;
-}
-
-/* 6) Mobile: stack columns */
-@media (max-width: 900px) {
-  #quartz-body {
-    flex-direction: column;
-  }
-
-  #quartz-body > .left.sidebar,
-  #quartz-body > .right.sidebar {
-    flex: 0 0 auto;
-    max-width: 100%;
-  }
+#quartz-body .center article,
+#quartz-body .right.sidebar,
+#quartz-body .left.sidebar {
+  overflow-wrap: anywhere;
 }
