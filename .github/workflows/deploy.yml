@@ -6,7 +6,7 @@ on:
       - v4
 
 env:
-  THEME_NAME: its-theme.ttrpg-wotc
+  THEME_NAME: blue-topaz #its-theme.ttrpg-wotc
 
 permissions:
   contents: read
