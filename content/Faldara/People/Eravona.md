@@ -1,15 +1,22 @@
 ---
-{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2026-03-03T18:50:59.368-06:00","tags":["character","deity","npc"],"cssclasses":""}
+{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2026-03-03T19:19:51.965-06:00","tags":["character","deity","npc"],"cssclasses":""}
 ---
 
 
-> [!Frontmatter]
+> [!Frontmatter]-
+> #### Misc
+> |||
+> |---|---|
+> | **publish** | `INPUT[toggle:publish]` |
+> | **title** | `INPUT[text:title]` |
+> | **tags** | `INPUT[inlineList:tags]` |
+> | **aliases** | `INPUT[inlineList:aliases]` |
 > #### Basic Information
 > |||
 > |---|---|
-> |**Title(s)** | `INPUT[inlineList:Titles]`  |
-> |**Adjective(s)** | Eravonan |
-> |**Symbol** | - |
+> |**Titles** | `INPUT[inlineList:Titles]`  |
+> |**Adjective** | `INPUT[text:Adjective]` |
+> |**Symbol** | `INPUT[textArea:Symbol]` |
 > |**Pronouns** | She/Her |
 > |**Alignment** | Chaotic Neutral |
 > |**Status** | Alive |
@@ -37,8 +44,8 @@
 > #### Basic Information
 > |||
 > |---|---|
-> |**Title(s)** | Goddess of the Sea,Goddess of Storms |
-> |**Adjective(s)** | Eravonan |
+> |**Titles** | Goddess of the Sea,Goddess of Storms |
+> |**Adjective** | Eravonan |
 > |**Symbol** | - |
 > |**Pronouns** | She/Her |
 > |**Alignment** | Chaotic Neutral |
@@ -68,7 +75,7 @@
 
 Eravona embodies the unpredictable nature of the ocean, both its beauty and its terror. Fishermen, sailors, and coastal dwellers respect and fear her, as her moods can shift from serene to vengeful in an instant.
 
-> [!dm]
+> [!dm]+
 > ## Notes
 > 
 > Followers: Called "Wavewalkers", the followers of Eravona tend to be sailors, fisherman, and storm sorcerers.
