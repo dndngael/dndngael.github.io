@@ -24,8 +24,11 @@ export const StripMetadataCallouts: QuartzTransformerPlugin = () => {
                   : []
 
               const isMetadata =
+                dataCallout === "frontmatter" ||
                 dataCallout === "metadata" ||
+                classes.includes("frontmatter") ||
                 classes.includes("metadata") ||
+                classes.includes("callout-frontmatter") ||
                 classes.includes("callout-metadata")
 
               if (isMetadata) {
