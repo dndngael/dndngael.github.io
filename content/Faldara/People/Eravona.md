@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2026-03-03T17:10:55.067-06:00","tags":["character","deity","npc"],"cssclasses":""}
+{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2026-03-03T18:28:24.068-06:00","tags":["character","deity","npc"],"cssclasses":""}
 ---
 
 
@@ -36,6 +36,8 @@
 # **Eravona** <span style="font-size: medium">"air-uh-VOH-nuh"</span>
 
 # Overview
+
+`INPUT[text:test]`
 
 Eravona embodies the unpredictable nature of the ocean, both its beauty and its terror. Fishermen, sailors, and coastal dwellers respect and fear her, as her moods can shift from serene to vengeful in an instant.
 
