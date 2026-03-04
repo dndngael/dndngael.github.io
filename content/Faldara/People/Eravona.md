@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2026-03-03T19:19:51.965-06:00","tags":["character","deity","npc"],"cssclasses":""}
+{"publish":true,"title":"Eravona","created":"2025-11-21T00:30:25.821-06:00","modified":"2026-03-03T21:49:10.189-06:00","tags":["deity","npc"],"cssclasses":""}
 ---
 
 
-> [!Frontmatter]-
+> [!frontmatter]-
 > #### Misc
 > |||
 > |---|---|
