@@ -1,47 +1,67 @@
 ---
-{"publish":true,"aliases":"Choose Your Adventure!","title":"index","created":"2025-11-21T00:02:01.612-06:00","modified":"2026-03-04T20:55:14.527-06:00","tags":["index","moc"],"cssclasses":""}
+{"publish":true,"aliases":"The Sacred Herb","created":"2025-11-21T00:02:01.612-06:00","modified":"2026-03-04T21:25:30.167-06:00","tags":["#Item"],"cssclasses":""}
 ---
 
 
-# Choose Your Adventure!
+:::h
+> [!metadata|metadata]- Metadata 
+>> [!metadata|metadataoption]- System
+>> #### System
+>>  |
+>> ---|---|
+>> **Publish** | `INPUT[toggle:dg-publish]`
+>> **Star** | `INPUT[toggle:starred]`
+>> **Tags** | `INPUT[Tags][inlineListSuggester:tags]` |
+>
+>> [!metadata|metadataoption]- Art
+>> #### Art
+>>  |
+>> ---|---|
+>> **Art** | `INPUT[imageSuggester(optionQuery("")):art]` |
+>
+>> [!metadata|metadataoption]- Info
+>> #### Info
+>>  |
+>> ---|---|
+>> **Aliases** | `INPUT[list:aliases]` |
+>> **Type** | `INPUT[ItemType][:itemtype]` |
+>> **Rarity** | `INPUT[Rarity][:rarity]` |
 
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Player Characters/Alvin Draper\|Alvin Draper]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Player Characters/Paul Seragon\|Paul Seragon]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Player Characters/Happy\|Happy]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Player Characters/Lheani\|Lheani]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 2\|Session 2]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 1\|Session 1]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 6\|Session 6]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 11\|Session 11]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 12\|Session 12]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 13\|Session 13]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 14\|Session 14]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 15\|Session 15]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 16\|Session 16]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 19\|Session 19]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 17\|Session 17]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 18\|Session 18]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Adventure\|Adventure]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Become Champions of the Lowgates\|Become Champions of the Lowgates]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Retrieve Paul's Mask\|Retrieve Paul's Mask]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Save The Apotheon\|Save The Apotheon]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Cleanse Tur'Farinil\|Cleanse Tur'Farinil]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Discover the source of the crying\|Discover the source of the crying]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Investigate Faylen\|Investigate Faylen]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Cure Fineks's Discord\|Cure Fineks's Discord]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Find Farinia's Codex\|Find Farinia's Codex]]
-- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Quests/Faylen's Request\|Faylen's Request]]
+:::
 
+> [!infobox]+
+> # index
+> ###### Details
+> | | | 
+> |-|-|
+> | **Aliases** | The Sacred Herb |
+> | **Type** | Wondrous item |
+> | **Rarity** | Common |
 
-## Worlds:
+#  **index**
 
-| [[Faldara/Faldara]] | [[The Forgotten Realms/The Forgotten Realms]] |
-|:-----------:|:------------------------:|
+## Details
 
-- [[The Forgotten Realms/The Forgotten Realms\|The Forgotten Realms]]
+> [!recite]- Description
+> Juwanna is a plant that can be smoked. Its appearance isn't explicitly detailed, but it is referred to as a "sacred herb" and is kept in handfuls.
 
+**In-Game Effects:**
+- Can be smoked to help creatures relax.
+- May provide clarity or inspiration for some.
+- Wards away demons???.
 
----
-## Ongoing Adventures:
+## Notes:
 
+- [[Faldara/People/Donneran]], a firbolg who maintains [[Faldara/Places/The Dilapidated Temple]], grows and shares Juwanna.
+- [[1 Adventures/Adventures in Vualio/SPP3 4eva/Player Characters/27]] partook in smoking Juwanna with [[Faldara/People/Donneran]].
+- Paul has the "tempt to take a little bit of Juwanna and do a little smoke".
 
+:::h
+## DM Notes:
+
+- The effects of Juwanna on individuals can vary. For 27, it seemed to offer clarity regarding the ongoing situation and the riddle.
+- The term "Juwanna" is a playful reference to marijuana, hinting at its relaxing and perception-altering properties.
+- It is implied that using Juwanna can lead to "off-topic visions" or make things "too easy" for the players by providing insights the DM didn't intend.
+- The "dream blunt rotation" is mentioned, implying its use within the player group for creative problem-solving or gaining insights.
+
+:::
