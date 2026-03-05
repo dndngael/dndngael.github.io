@@ -1,0 +1,43 @@
+---
+{"publish":true,"created":"2025-11-25T23:26:40.863-06:00","modified":"2026-03-04T22:21:41.783-06:00","tags":["#Rumour"],"cssclasses":""}
+---
+
+
+:::h
+> [!metadata|metadata]- Metadata 
+>> [!metadata|metadataoption]- System
+>> #### System
+>>  |
+>> ---|---|
+>> **Publish** | `INPUT[toggle:dg-publish]`
+>> **Star** | `INPUT[toggle:starred]`
+>> **Tags** | `INPUT[Tags][inlineListSuggester:tags]` |
+>
+>> [!metadata|metadataoption]- Info
+>> #### Info
+>>  |
+>> ---|---|
+>> **Quick Notes** |  `INPUT[textArea:quicknote]`
+>> **Subject** | `INPUT[inlineListSuggester(optionQuery("Campaign"), useLinks(partial)):subject]` |
+>> **Origin** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):origin]` |
+>> **Related Sessions** | `INPUT[inlineListSuggester(optionQuery(#SessionNote AND !"z_Templates"), useLinks(partial)):session]` |
+>> **Accuracy** | `INPUT[RumourAccuracy][:accuracy]` |
+
+:::
+
+> [!infobox]+
+> #### Rumor Info
+> |||
+> |---|---|
+> |**Subject** | [[Faldara/People/Fineks\|Fineks]] |
+> |**Origin** | [[Faldara/People/Fineks\|Fineks]] |
+> |**Related Session** | [[1 Adventures/Adventures in Vualio/SPP3 4eva/Sessions/Session 6\|Session 6]] |
+
+:::h
+**Accuracy**: `=this.accuracy`
+
+:::
+
+# **Fineks is a Druid**
+
+27 learned that Fineks is a druid while having a conversation with her when heading out of the [[Faldara/Places/Lazuli Grotto]].
