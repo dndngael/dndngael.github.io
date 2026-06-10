@@ -1,5 +1,5 @@
 ---
-title: D&D Campaign Notes
+title: "D&D Campaign Notes"
 dg-publish: true
 publish: true
 visibility: player
