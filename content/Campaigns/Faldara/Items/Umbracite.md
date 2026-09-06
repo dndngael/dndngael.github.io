@@ -11,11 +11,23 @@ tags:
   - "#Item"
   - "#Mystery"
 status: discovered
+art: "[[4 Assets/Umbracite.png]]"
+item_type: Strange crystalline material
+rarity: Mythic
 first_seen: Session 014
 last_updated: Session 015
 ---
 
 # Umbracite
+
+> [!infobox]+ Umbracite
+> ![[4 Assets/Umbracite.png]]
+> **Type:** Strange crystalline material
+> **Rarity:** Mythic
+> **Appearance:** Pitch-black, jagged, non-reflective
+> **Known effect:** Interferes with soul resonance
+> **Status:** Discovered, dangerous
+> **First seen:** Session 014
 
 Umbracite is a pitch-black, jagged crystal-like material that absorbs light and gives off no reflection. It feels unnaturally cold. When sensed psionically, it produces an overwhelming, chaotic cacophony.
 
