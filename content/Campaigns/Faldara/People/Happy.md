@@ -27,18 +27,20 @@ last_updated: Session 022
 # Happy
 
 > [!infobox]+ Happy
-> **Played by:** Emily
-> **Ancestry:** Half-Elf
-> **Age:** About 40
-> **Pronouns:** He/Him
-> **Class:** Artificer
-> **Subclass:** Armorer
-> **Level:** 5
-> **Occupation:** Merchant, artisan, mask maker
-> **Party:** [[Campaigns/Faldara/Groups/You Guys|You Guys]]
-> **Current location:** [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
-> **Status:** Active
-> **First seen:** Session 009
+> | | |
+> | --- | --- |
+> | **Played by** | Emily |
+> | **Ancestry** | Half-Elf |
+> | **Age** | About 40 |
+> | **Pronouns** | He/Him |
+> | **Class** | Artificer |
+> | **Subclass** | Armorer |
+> | **Level** | 5 |
+> | **Occupation** | Merchant, artisan, mask maker |
+> | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Status** | Active |
+> | **First seen** | Session 009 |
 
 Happy is a half-elf Armorer artificer, artisan, traveling merchant, and mask maker who joined [[Campaigns/Faldara/Groups/You Guys|the party]] on the road to Arbaroŝirm.
 
