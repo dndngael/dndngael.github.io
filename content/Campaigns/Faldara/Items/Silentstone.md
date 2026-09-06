@@ -9,11 +9,24 @@ publish: true
 tags:
   - "#Item"
 status: in use
+art: "[[4 Assets/Silentstone.webp]]"
+item_type: Wondrous item
+rarity: Very Rare
+current_holder: "[[Campaigns/Faldara/People/Fineks|Fineks]]"
 first_seen: Session 015
 last_updated: Session 015
 ---
 
 # Silentstone
+
+> [!infobox]+ Silentstone
+> ![[4 Assets/Silentstone.webp]]
+> **Type:** Wondrous item
+> **Rarity:** Very Rare
+> **Current use:** Embedded in [[Campaigns/Faldara/People/Fineks|Fineks's]] mask
+> **Known property:** Absorbs psychic energy
+> **Status:** In use
+> **First seen:** Session 015
 
 Silentstone is a small, clear crystal-like stone that is difficult to see except when light catches its edges. It is smooth and unusually "quiet" when examined through magical resonance.
 
@@ -21,7 +34,7 @@ Silentstone is a small, clear crystal-like stone that is difficult to see except
 
 ## Fineks's Mask
 
-Nephil suggested that Silentstone might help counteract the effects of [[Campaigns/Faldara/Items/Umbracite|Umbracite]] on [[Campaigns/Faldara/People/Fineks|Fineks]]. He also warned that Silentstone is not normally used on living beings.
+Nephil suggested that Silentstone might help counteract the effects of [[Campaigns/Faldara/Items/Umbracite|Umbracite]] on Fineks. He also warned that Silentstone is not normally used on living beings.
 
 [[Campaigns/Faldara/People/Happy|Happy]] successfully embedded the stone into Fineks's mask.
 
