@@ -33,7 +33,7 @@
   margin: -0.8rem -0.8rem 0.8rem;
   padding: 0.65rem 0.8rem;
   border-bottom: 1px solid var(--lightgray);
-  background: color-mix(in srgb, var(--lightgray) 48%, var(--light));
+  background: color-mix(in srgb, var(--lightgray) 42%, var(--light));
 }
 
 .callout[data-callout="infobox"] .callout-icon,
@@ -55,23 +55,27 @@
 }
 
 /* ---------------------------------------------------------
-   Real wiki-table infobox rows
+   Clean wiki-table infobox rows
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"] .table-container {
   width: 100%;
-  margin: 0;
+  margin: 0 !important;
+  padding: 0 !important;
   overflow: visible;
 }
 
+.callout[data-callout="infobox"] .table-container > table,
 .callout[data-callout="infobox"] table {
   width: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0;
   border-collapse: collapse;
-  table-layout: auto;
+  border-spacing: 0;
+  table-layout: fixed;
   font-size: 0.93rem;
-  line-height: 1.35rem;
+  line-height: 1.35rem !important;
 }
 
 /* Markdown tables require a header row. Infobox tables use an empty one. */
@@ -79,35 +83,46 @@
   display: none;
 }
 
-.callout[data-callout="infobox"] table tbody,
+.callout[data-callout="infobox"] table tbody {
+  width: 100%;
+  line-height: 1.35rem !important;
+}
+
 .callout[data-callout="infobox"] table tr {
   width: 100%;
+  border: 0 !important;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 38%, var(--lightgray)) !important;
+  line-height: 1.35rem !important;
+}
+
+.callout[data-callout="infobox"] table tr:last-child {
+  border-bottom: 0 !important;
 }
 
 .callout[data-callout="infobox"] table td {
-  padding: 0.48rem 0.6rem;
-  border: 1px solid var(--lightgray);
+  min-width: 0 !important;
+  padding: 0.48rem 0.55rem !important;
+  border: 0 !important;
   vertical-align: top;
   background: transparent;
+  line-height: 1.35rem !important;
 }
 
 .callout[data-callout="infobox"] table td:first-child {
-  width: 42%;
+  width: 39%;
   font-weight: 600;
   color: var(--dark);
-  background: color-mix(in srgb, var(--lightgray) 34%, var(--light));
+  background: color-mix(in srgb, var(--lightgray) 20%, var(--light));
+  border-right: 1px solid color-mix(in srgb, var(--gray) 25%, var(--lightgray)) !important;
 }
 
 .callout[data-callout="infobox"] table td:last-child {
-  width: 58%;
-}
-
-.callout[data-callout="infobox"] table tr + tr td {
-  border-top-color: color-mix(in srgb, var(--gray) 55%, var(--lightgray));
+  width: 61%;
 }
 
 .callout[data-callout="infobox"] table p {
   margin: 0;
+  line-height: inherit;
 }
 
 /* ---------------------------------------------------------
@@ -116,13 +131,14 @@
 
 .callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) {
   display: grid;
-  grid-template-columns: minmax(7.25rem, 42%) minmax(0, 1fr);
+  grid-template-columns: minmax(7.25rem, 39%) minmax(0, 1fr);
   column-gap: 0.65rem;
   align-items: stretch;
   box-sizing: border-box;
-  margin: -1px 0 0;
+  margin: 0;
   padding: 0.45rem 0.55rem;
-  border: 1px solid var(--lightgray);
+  border: 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 38%, var(--lightgray));
   font-size: 0.93rem;
   line-height: 1.35rem;
 }
@@ -134,8 +150,8 @@
   box-sizing: border-box;
   margin: -0.45rem 0 -0.45rem -0.55rem;
   padding: 0.45rem 0.55rem;
-  border-right: 1px solid var(--lightgray);
-  background: color-mix(in srgb, var(--lightgray) 34%, var(--light));
+  border-right: 1px solid color-mix(in srgb, var(--gray) 25%, var(--lightgray));
+  background: color-mix(in srgb, var(--lightgray) 20%, var(--light));
   color: var(--dark);
 }
 
@@ -181,17 +197,50 @@
 }
 
 /*
- * Quartz uses <1200px for tablet/mobile layouts. At those widths the
- * infobox becomes a full-width lead card and article text starts below it.
- * Only true desktop layouts keep the side-by-side floated wiki layout.
+ * Below true desktop width, the infobox is a lead card. Strong selectors
+ * and targeted !important declarations ensure no inherited float/layout
+ * rule can leave article text squeezed beside it.
  */
-@media (max-width: 1199px) {
+@media all and (max-width: 1199px) {
+  .page #quartz-body .center > article .callout[data-callout="infobox"] {
+    display: block !important;
+    float: none !important;
+    clear: both !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 1rem 0 1.5rem !important;
+    box-sizing: border-box;
+  }
+
+  .page #quartz-body .center > article .callout[data-callout="infobox"] + * {
+    clear: both !important;
+  }
+
+  .callout[data-callout="infobox"] table td:first-child {
+    width: 36%;
+  }
+
+  .callout[data-callout="infobox"] table td:last-child {
+    width: 64%;
+  }
+
+  .callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) {
+    grid-template-columns: minmax(6.5rem, 36%) minmax(0, 1fr);
+  }
+}
+
+/* Very small phones: keep the infobox readable without forcing tiny cells. */
+@media all and (max-width: 520px) {
   .callout[data-callout="infobox"] {
-    float: none;
-    clear: both;
-    width: 100%;
-    max-width: none;
-    margin: 1rem 0 1.5rem;
+    padding: 0.65rem;
+  }
+
+  .callout[data-callout="infobox"] > .callout-title {
+    margin: -0.65rem -0.65rem 0.65rem;
+  }
+
+  .callout[data-callout="infobox"] table td {
+    padding: 0.42rem 0.48rem !important;
   }
 
   .callout[data-callout="infobox"] table td:first-child {
@@ -200,9 +249,5 @@
 
   .callout[data-callout="infobox"] table td:last-child {
     width: 62%;
-  }
-
-  .callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) {
-    grid-template-columns: minmax(6.5rem, 38%) minmax(0, 1fr);
   }
 }
