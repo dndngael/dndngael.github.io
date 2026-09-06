@@ -5,7 +5,7 @@ aliases:
   - Hurlin' Earl
   - Earl Seragon
 campaign: Faldara
-note_type: player-character
+note_type: pc
 visibility: player
 dg-publish: true
 publish: true
@@ -13,11 +13,34 @@ tags:
   - "#Character"
   - "#Player"
 status: active
+played_by: Nick
+pronouns: He/Him
+ancestry: Tabaxi
+age: Adult
+class: Monk
+level: 5
+party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
+home: Lakeville
+current_location: "[[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]"
 first_seen: Session 001
 last_updated: Session 022
 ---
 
 # Paul Seragon
+
+> [!infobox]+ Paul Seragon
+> **Played by:** Nick
+> **Ancestry:** Tabaxi
+> **Age:** Adult
+> **Pronouns:** He/Him
+> **Class:** Monk
+> **Level:** 5
+> **Occupation:** Noble
+> **Title:** Earl of Lakeville
+> **Party:** [[Campaigns/Faldara/Groups/You Guys|You Guys]]
+> **Current location:** [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
+> **Status:** Active
+> **First seen:** Session 001
 
 Paul Seragon is a tabaxi monk, noble, and Earl of Lakeville. He was one of the original three members of [[Campaigns/Faldara/Groups/You Guys|the party]].
 
