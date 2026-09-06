@@ -1,6 +1,7 @@
 ---
 title: Velmian
-aliases: []
+aliases:
+  - Vermicelli
 campaign: Faldara
 note_type: npc
 visibility: player
@@ -10,11 +11,27 @@ tags:
   - "#Character"
   - "#Mystery"
 status: unknown
+art: "[[4 Assets/Velmian.png]]"
+pronouns: He/Him
+ancestry: High Elf Spirit
+age: "Ancient; appears as a child"
 first_seen: Session 011
 last_updated: Session 019
 ---
 
 # Velmian
+
+> [!infobox]+ Velmian
+> ![[4 Assets/Velmian.png]]
+> **Pronounced:** VEHL-mee-ihn
+> **Ancestry:** High Elf spirit
+> **Age:** Ancient, child-shaped
+> **Pronouns:** He/Him
+> **Appearance:** Small, faintly glowing, purple-eyed
+> **Mask:** None
+> **Known location:** [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] / [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
+> **Status:** Unknown
+> **First seen:** Session 011
 
 Velmian is the name used by a small, slightly glowing, child-shaped spirit first encountered in an abandoned inn in [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]. He does not wear a mask and claims to remember the area from an impossibly long time ago.
 
