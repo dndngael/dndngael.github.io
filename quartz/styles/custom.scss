@@ -62,32 +62,45 @@
 }
 
 /*
- * Facts stay as simple Markdown paragraphs in Obsidian, but render
- * as two-column wiki-table rows in Quartz.
+ * Quartz parses consecutive infobox fact lines into one paragraph separated
+ * by line breaks. Treat that paragraph as a two-column wiki table, use each
+ * line break as a full-width row divider, and style every bold label as the
+ * left-hand cell.
  */
-.callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) {
+.callout[data-callout="infobox"] .callout-content > p:has(> strong) {
   display: grid;
-  grid-template-columns: minmax(7.25rem, 42%) minmax(0, 1fr);
-  column-gap: 0.65rem;
+  grid-template-columns: minmax(7.5rem, 42%) minmax(0, 1fr);
+  column-gap: 0.75rem;
   align-items: stretch;
   box-sizing: border-box;
-  margin: -1px 0 0;
-  padding: 0.45rem 0.55rem;
-  border: 1px solid var(--lightgray);
+  margin: 0;
+  padding: 0;
+  border: 1px solid color-mix(in srgb, var(--gray) 52%, var(--light));
   font-size: 0.93rem;
   line-height: 1.35rem;
 }
 
-.callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) > strong:first-child {
+.callout[data-callout="infobox"] .callout-content > p:has(> strong) > strong {
   display: flex;
   align-items: flex-start;
   align-self: stretch;
   box-sizing: border-box;
-  margin: -0.45rem 0 -0.45rem -0.55rem;
+  margin: 0;
   padding: 0.45rem 0.55rem;
-  border-right: 1px solid var(--lightgray);
+  border-right: 1px solid color-mix(in srgb, var(--gray) 52%, var(--light));
   background: color-mix(in srgb, var(--lightgray) 34%, var(--light));
   color: var(--dark);
+}
+
+.callout[data-callout="infobox"] .callout-content > p:has(> strong) > br {
+  display: block;
+  grid-column: 1 / -1;
+  width: 100%;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 52%, var(--light));
 }
 
 .callout[data-callout="infobox"] .callout-content > p:has(> img),
@@ -140,7 +153,7 @@
     margin: 1rem 0 1.25rem;
   }
 
-  .callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) {
+  .callout[data-callout="infobox"] .callout-content > p:has(> strong) {
     grid-template-columns: minmax(6.5rem, 38%) minmax(0, 1fr);
   }
 }
