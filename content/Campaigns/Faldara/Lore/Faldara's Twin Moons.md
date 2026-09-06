@@ -17,10 +17,26 @@ last_updated: Session 013
 
 # Faldara's Twin Moons
 
+> [!infobox]+ Farin and Zil
+> **Farin:** Large, silver, steady cycle
+> **Zil:** Small, golden, intermittently absent
+> **Known together as:** Faldara's twin moons
+> **Religious connection:** The Twin Light in [[Campaigns/Faldara/Groups/Twinlight Wake|Twinlight Wake]] teaching
+> **First discussed:** Session 002
+
 Faldara has two moons: **Farin** and **Zil**.
 
-- **Farin** is large and silver, with a steady and familiar cycle.
-- **Zil** is smaller and golden, and sometimes disappears from the night sky.
+## Farin
+
+![[4 Assets/Farin.jpg]]
+
+Farin is large and silver, with a steady and familiar cycle. Its name is associated with [[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]], deity of time and fate.
+
+## Zil
+
+![[4 Assets/Zil.jpg]]
+
+Zil is smaller and golden, and sometimes disappears from the night sky.
 
 27 recalled these details during one of the pre-festival riddles in Vualio City.
 
