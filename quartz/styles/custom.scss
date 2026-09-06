@@ -5,15 +5,8 @@
    ========================================================= */
 
 /*
- * Wiki-style infoboxes use ordinary Obsidian callout syntax:
- *
- * > [!infobox]+ Name
- * > ![[4 Assets/example.png]]
- * > **Species:** Elf
- * > **Age:** Adult
- *
- * This keeps the notes readable in Obsidian while Quartz turns the
- * callout into a right-side wiki panel on larger screens.
+ * Wiki-style infoboxes use ordinary Obsidian callout syntax.
+ * New/updated infoboxes should contain a real two-column Markdown table.
  */
 .callout[data-callout="infobox"] {
   position: relative;
@@ -61,46 +54,89 @@
   border-radius: 0.25rem;
 }
 
-/*
- * Quartz parses consecutive infobox fact lines into one paragraph separated
- * by line breaks. Treat that paragraph as a two-column wiki table, use each
- * line break as a full-width row divider, and style every bold label as the
- * left-hand cell.
- */
-.callout[data-callout="infobox"] .callout-content > p:has(> strong) {
-  display: grid;
-  grid-template-columns: minmax(7.5rem, 42%) minmax(0, 1fr);
-  column-gap: 0.75rem;
-  align-items: stretch;
-  box-sizing: border-box;
+/* ---------------------------------------------------------
+   Real wiki-table infobox rows
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .table-container {
+  width: 100%;
+  margin: 0;
+  overflow: visible;
+}
+
+.callout[data-callout="infobox"] table {
+  width: 100%;
   margin: 0;
   padding: 0;
-  border: 1px solid color-mix(in srgb, var(--gray) 52%, var(--light));
+  border-collapse: collapse;
+  table-layout: auto;
   font-size: 0.93rem;
   line-height: 1.35rem;
 }
 
-.callout[data-callout="infobox"] .callout-content > p:has(> strong) > strong {
+/* Markdown tables require a header row. Infobox tables use an empty one. */
+.callout[data-callout="infobox"] table thead {
+  display: none;
+}
+
+.callout[data-callout="infobox"] table tbody,
+.callout[data-callout="infobox"] table tr {
+  width: 100%;
+}
+
+.callout[data-callout="infobox"] table td {
+  padding: 0.48rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  vertical-align: top;
+  background: transparent;
+}
+
+.callout[data-callout="infobox"] table td:first-child {
+  width: 42%;
+  font-weight: 600;
+  color: var(--dark);
+  background: color-mix(in srgb, var(--lightgray) 34%, var(--light));
+}
+
+.callout[data-callout="infobox"] table td:last-child {
+  width: 58%;
+}
+
+.callout[data-callout="infobox"] table tr + tr td {
+  border-top-color: color-mix(in srgb, var(--gray) 55%, var(--lightgray));
+}
+
+.callout[data-callout="infobox"] table p {
+  margin: 0;
+}
+
+/* ---------------------------------------------------------
+   Legacy one-fact-per-line infobox fallback
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) {
+  display: grid;
+  grid-template-columns: minmax(7.25rem, 42%) minmax(0, 1fr);
+  column-gap: 0.65rem;
+  align-items: stretch;
+  box-sizing: border-box;
+  margin: -1px 0 0;
+  padding: 0.45rem 0.55rem;
+  border: 1px solid var(--lightgray);
+  font-size: 0.93rem;
+  line-height: 1.35rem;
+}
+
+.callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) > strong:first-child {
   display: flex;
   align-items: flex-start;
   align-self: stretch;
   box-sizing: border-box;
-  margin: 0;
+  margin: -0.45rem 0 -0.45rem -0.55rem;
   padding: 0.45rem 0.55rem;
-  border-right: 1px solid color-mix(in srgb, var(--gray) 52%, var(--light));
+  border-right: 1px solid var(--lightgray);
   background: color-mix(in srgb, var(--lightgray) 34%, var(--light));
   color: var(--dark);
-}
-
-.callout[data-callout="infobox"] .callout-content > p:has(> strong) > br {
-  display: block;
-  grid-column: 1 / -1;
-  width: 100%;
-  height: 0;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  border-bottom: 1px solid color-mix(in srgb, var(--gray) 52%, var(--light));
 }
 
 .callout[data-callout="infobox"] .callout-content > p:has(> img),
@@ -132,28 +168,41 @@
   min-width: 0;
 }
 
-/* Small factual label used immediately below a page title when useful. */
 .wiki-kicker {
   color: var(--gray);
   font-size: 0.92rem;
   margin-top: -0.4rem;
 }
 
-/* Let normal article content resume cleanly after floated infoboxes. */
 .page article::after {
   content: "";
   display: table;
   clear: both;
 }
 
-@media (max-width: 800px) {
+/*
+ * Quartz uses <1200px for tablet/mobile layouts. At those widths the
+ * infobox becomes a full-width lead card and article text starts below it.
+ * Only true desktop layouts keep the side-by-side floated wiki layout.
+ */
+@media (max-width: 1199px) {
   .callout[data-callout="infobox"] {
     float: none;
+    clear: both;
     width: 100%;
-    margin: 1rem 0 1.25rem;
+    max-width: none;
+    margin: 1rem 0 1.5rem;
   }
 
-  .callout[data-callout="infobox"] .callout-content > p:has(> strong) {
+  .callout[data-callout="infobox"] table td:first-child {
+    width: 38%;
+  }
+
+  .callout[data-callout="infobox"] table td:last-child {
+    width: 62%;
+  }
+
+  .callout[data-callout="infobox"] .callout-content > p:has(> strong:first-child) {
     grid-template-columns: minmax(6.5rem, 38%) minmax(0, 1fr);
   }
 }
