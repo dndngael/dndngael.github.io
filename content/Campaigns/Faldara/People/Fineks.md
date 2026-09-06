@@ -10,13 +10,34 @@ tags:
   - "#Character"
   - "#NPC"
 status: active
+art: "[[4 Assets/Fineks.png]]"
+pronouns: She/Her
+ancestry: Tiefling
+age: Young Adult
+occupation:
+  - Druid
+  - Adventurer
+affiliations:
+  - "[[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]"
 first_seen: Session 002
 last_updated: Session 019
 ---
 
 # Fineks
 
-Fineks is a tiefling member of [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]] and a druid. The party first met her during the Dragon Cake competition in Vualio City, along with her owl-cat-like companion Torĉ.
+> [!infobox]+ Fineks
+> ![[4 Assets/Fineks.png]]
+> **Pronounced:** FEE-niks
+> **Ancestry:** Tiefling
+> **Age:** Young Adult
+> **Pronouns:** She/Her
+> **Occupation:** Druid, adventurer
+> **Affiliation:** [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]
+> **Companion:** Torĉ
+> **Status:** Active, stabilized
+> **First seen:** Session 002
+
+Fineks is a tiefling druid and member of [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]. She has short fiery-orange hair, orange eyes, and is unusually short for a tiefling. Her companion Torĉ, pronounced "Torch," resembles a mixture between a cat and an owl.
 
 ## The Affliction
 
