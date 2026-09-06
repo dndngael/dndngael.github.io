@@ -10,15 +10,33 @@ tags:
   - "#Character"
   - "#NPC"
 status: active
+art: "[[4 Assets/LurviusWithMask.png]]"
+pronouns: He/Him
+ancestry: Eladrin Elf
+age: Adult
+occupation: Adventurer
+affiliations:
+  - "[[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]"
 first_seen: Session 006
 last_updated: Session 019
 ---
 
 # Lurvius
 
+> [!infobox]+ Lurvius
+> ![[4 Assets/LurviusWithMask.png]]
+> **Pronounced:** loor-VEE-oos
+> **Ancestry:** Eladrin Elf
+> **Age:** Adult
+> **Pronouns:** He/Him
+> **Occupation:** Adventurer
+> **Affiliation:** [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]
+> **Status:** Active
+> **First seen:** Session 006
+
 Lurvius is a member and apparent leader of [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]. The party first met his group as rivals during the festival in Vualio City.
 
-Lurvius can be wary and cautious, especially about the customs surrounding masks. His eye color changes with his emotions, something his companions regard as normal for him.
+He is cautious about Vualio's mask customs, and he was notably uneasy about Paul having gone without his mask. His eye color changes with his emotions, something his companions regard as normal for him.
 
 ## The Velmian Connection
 
