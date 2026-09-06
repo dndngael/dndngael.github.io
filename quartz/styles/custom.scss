@@ -1,8 +1,83 @@
 @use "./base.scss";
 
-// put your custom CSS here! idk
-
 /* =========================================================
-   D&D 5e 2014-module-inspired skin for Quartz v4
-   Drop into Quartz custom SCSS.
+   Faldara wiki presentation helpers
    ========================================================= */
+
+/*
+ * Wiki-style infoboxes use ordinary Obsidian callout syntax:
+ *
+ * > [!infobox]+ Name
+ * > ![[4 Assets/example.png]]
+ * > **Species:** Elf
+ * > **Age:** Adult
+ *
+ * This keeps the notes readable in Obsidian while Quartz turns the
+ * callout into a right-side wiki panel on larger screens.
+ */
+.callout[data-callout="infobox"] {
+  float: right;
+  clear: right;
+  width: min(20rem, 42%);
+  margin: 0 0 1.25rem 1.5rem;
+  padding: 0.8rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.4rem;
+  background: var(--light);
+  box-shadow: 0 0.15rem 0.5rem rgba(0, 0, 0, 0.08);
+}
+
+.callout[data-callout="infobox"] > .callout-title {
+  justify-content: center;
+  text-align: center;
+  font-family: var(--headerFont);
+  font-size: 1.15rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+
+.callout[data-callout="infobox"] .callout-icon,
+.callout[data-callout="infobox"] .fold-callout-icon {
+  display: none;
+}
+
+.callout[data-callout="infobox"] img {
+  display: block;
+  width: 100%;
+  max-height: 23rem;
+  object-fit: contain;
+  margin: 0 auto 0.75rem;
+  border-radius: 0.25rem;
+}
+
+.callout[data-callout="infobox"] p {
+  margin: 0.35rem 0;
+}
+
+.callout[data-callout="infobox"] ul {
+  margin: 0.35rem 0 0.35rem 1rem;
+}
+
+/* Small factual label used immediately below a page title when useful. */
+.wiki-kicker {
+  color: var(--gray);
+  font-size: 0.92rem;
+  margin-top: -0.4rem;
+}
+
+/* Let normal article content resume cleanly after floated infoboxes. */
+.page article::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 800px) {
+  .callout[data-callout="infobox"] {
+    float: none;
+    width: auto;
+    margin: 1rem 0 1.25rem;
+  }
+}
