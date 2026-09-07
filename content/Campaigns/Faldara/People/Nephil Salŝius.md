@@ -25,15 +25,17 @@ last_updated: Session 019
 # Nephil Salŝius
 
 > [!infobox]+ Nephil Salŝius
-> **Pronounced:** NEH-fuhl SÆL-shuhs
-> **Ancestry:** Human
-> **Age:** Mature Adult
-> **Pronouns:** He/Him
-> **Occupation:** Scholar
-> **Affiliation:** The Nivela Institute
-> **Last known location:** [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
-> **Status:** Active
-> **First seen:** Session 012
+> | | |
+> | --- | --- |
+> | **Pronounced** | NEH-fuhl SÆL-shuhs |
+> | **Ancestry** | Human |
+> | **Age** | Mature Adult |
+> | **Pronouns** | He/Him |
+> | **Occupation** | Scholar |
+> | **Affiliation** | The Nivela Institute |
+> | **Last known location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Status** | Active |
+> | **First seen** | Session 012 |
 
 Nephil Salŝius is a blind scholar associated with the Nivela Institute who studies magical resonance and unusual frequencies around [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]. He wears a smooth white porcelain mask over the upper half of his face with no eye holes, marked only by a single vertical silver line.
 
@@ -50,6 +52,3 @@ He also possessed [[Campaigns/Faldara/Items/Silentstone|Silentstone]], a materia
 Nephil agreed to give the party use of Silentstone if they helped him recover [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]], an ancient crystal archive believed to store information through psychic frequencies. The party eventually found the Codex inside [[Campaigns/Faldara/Places/Tur'Farinil's Library|Tur'Farinil's hidden library]].
 
 Nephil confirmed the artifact by listening to its resonance.
-
-> [!note]
-> Nephil has a legacy portrait ready to migrate from `z_Assets`. It will be added here once the remaining binary assets are copied into the public vault.
