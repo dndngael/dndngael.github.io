@@ -22,7 +22,7 @@ Faylen had been defeated in the rift chamber, but the rift itself remained open.
 
 ## What Happened
 
-Faylen's final act set a mysterious stone associated with her control of the Vesperaŝ into motion toward the open rift.
+After Faylen's defeat, a mysterious stone associated with the Vesperaŝ began moving toward the open rift.
 
 The stone lifted away and began drifting steadily toward the portal. The party entered a frantic environmental struggle to stop it before it reached the rift.
 
@@ -60,7 +60,7 @@ The party ended the session still in the middle of the crisis, with the stone co
 ### Continued
 
 - Understand the larger purpose of Tur'Farinil and the rift.
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 
 ## Where We Left Off
 
