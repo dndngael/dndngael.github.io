@@ -23,14 +23,16 @@ symbol: Shining star surrounded by rays of light
 # Lumosca
 
 > [!infobox]+ Lumosca
-> **Pronounced:** loo-MOH-skuh
-> **Titles:** Goddess of Light, Goddess of Stars
-> **Pronouns:** She/Her
-> **Domains:** Light, Knowledge, Healing, Protection
-> **Symbol:** Shining star surrounded by rays
-> **Sacred animal:** Dove
-> **Colors:** White and gold
-> **Followers:** Starbringers
+> | | |
+> | --- | --- |
+> | **Pronounced** | loo-MOH-skuh |
+> | **Titles** | Goddess of Light, Goddess of Stars |
+> | **Pronouns** | She/Her |
+> | **Domains** | Light, Knowledge, Healing, Protection |
+> | **Symbol** | Shining star surrounded by rays |
+> | **Sacred animal** | Dove |
+> | **Colors** | White and gold |
+> | **Followers** | Starbringers |
 
 Lumosca is a protector and bringer of hope. Her worship emphasizes carrying light into darkness, healing those in need, and resisting despair.
 
