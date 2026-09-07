@@ -25,15 +25,17 @@ last_updated: Session 022
 # Vual
 
 > [!infobox]+ Vual
-> **Pronounced:** voo-AHL
-> **Title:** Deity of Masks
-> **Pronouns:** He/Him, They/Them
-> **Domains:** Trickery, Twilight, Knowledge
-> **Symbol:** Blank, featureless mask
-> **Sacred animals:** Owls, foxes, ravens, snakes
-> **Colors:** Deep purple, black, silver
-> **Primary faith:** [[Campaigns/Faldara/Groups/The Masked Ones|The Masked Ones]]
-> **Strongest cultural influence:** Vualio
+> | | |
+> | --- | --- |
+> | **Pronounced** | voo-AHL |
+> | **Title** | Deity of Masks |
+> | **Pronouns** | He/Him, They/Them |
+> | **Domains** | Trickery, Twilight, Knowledge |
+> | **Symbol** | Blank, featureless mask |
+> | **Sacred animals** | Owls, foxes, ravens, snakes |
+> | **Colors** | Deep purple, black, silver |
+> | **Primary faith** | [[Campaigns/Faldara/Groups/The Masked Ones\|The Masked Ones]] |
+> | **Strongest cultural influence** | Vualio |
 
 Vual is the god most closely associated with masks, secrecy, hidden knowledge, illusion, and the layers separating truth from appearance. Vual is commonly depicted masked, with the true face concealed.
 
