@@ -19,13 +19,15 @@ last_updated: Session 016
 # The Masked Ones
 
 > [!infobox]+ The Masked Ones
-> **Type:** Religious organization
-> **Faith:** [[Campaigns/Faldara/Lore/Deities/Vual|Vual]]
-> **Highest known authority:** Decidantoj
-> **Headquarters:** [[Campaigns/Faldara/Places/Vualio City|Vualio City]]
-> **Known member:** [[Campaigns/Faldara/People/Umbral Kaz|Umbral Kaz]]
-> **Status:** Active
-> **First seen:** Session 001
+> | | |
+> | --- | --- |
+> | **Type** | Religious organization |
+> | **Faith** | [[Campaigns/Faldara/Lore/Deities/Vual\|Vual]] |
+> | **Highest known authority** | Decidantoj |
+> | **Headquarters** | [[Campaigns/Faldara/Places/Vualio City\|Vualio City]] |
+> | **Known member** | [[Campaigns/Faldara/People/Umbral Kaz\|Umbral Kaz]] |
+> | **Status** | Active |
+> | **First seen** | Session 001 |
 
 The Masked Ones are the official faith dedicated to [[Campaigns/Faldara/Lore/Deities/Vual|Vual]], god of masks. Their religious authority is deeply intertwined with the political and social structure of the Kingdom of Vualio.
 
