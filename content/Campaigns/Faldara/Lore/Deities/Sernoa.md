@@ -23,14 +23,16 @@ symbol: Skull with decaying vines growing through it
 # Sernoa
 
 > [!infobox]+ Sernoa
-> **Pronounced:** sehr-NOH-uh
-> **Titles:** God of Decay, God of Disease
-> **Pronouns:** He/Him
-> **Domains:** Death, Nature, Poison, Undeath
-> **Symbol:** Skull threaded with decaying vines
-> **Sacred animals:** Rats, vultures
-> **Colors:** Green, black, yellow
-> **Followers:** Sernoans
+> | | |
+> | --- | --- |
+> | **Pronounced** | sehr-NOH-uh |
+> | **Titles** | God of Decay, God of Disease |
+> | **Pronouns** | He/Him |
+> | **Domains** | Death, Nature, Poison, Undeath |
+> | **Symbol** | Skull threaded with decaying vines |
+> | **Sacred animals** | Rats, vultures |
+> | **Colors** | Green, black, yellow |
+> | **Followers** | Sernoans |
 
 Sernoa represents inevitable decay, disease, and the entropy that breaks down living and material things. His worshipers often treat death and corruption as forces to be understood, harnessed, endured, or prepared for rather than ignored.
 
