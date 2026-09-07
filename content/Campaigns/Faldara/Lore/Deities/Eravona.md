@@ -28,14 +28,16 @@ symbol: Trident crossing a bolt of lightning
 
 > [!infobox]+ Eravona
 > ![[4 Assets/Eravona.png]]
-> **Pronounced:** air-ah-VOH-nah
-> **Titles:** Deity of Storms, Deity of the Sea
-> **Pronouns:** She/Her, They/Them
-> **Domains:** Tempest, Nature, Ocean, Sea, Storm
-> **Symbol:** Trident crossing a bolt of lightning
-> **Sacred animals:** Sharks, albatrosses
-> **Colors:** Deep blue, silver, stormy gray
-> **Followers:** Wavewalkers
+> | | |
+> | --- | --- |
+> | **Pronounced** | air-ah-VOH-nah |
+> | **Titles** | Deity of Storms, Deity of the Sea |
+> | **Pronouns** | She/Her, They/Them |
+> | **Domains** | Tempest, Nature, Ocean, Sea, Storm |
+> | **Symbol** | Trident crossing a bolt of lightning |
+> | **Sacred animals** | Sharks, albatrosses |
+> | **Colors** | Deep blue, silver, stormy gray |
+> | **Followers** | Wavewalkers |
 
 Eravona embodies the unpredictable nature of the ocean, both its beauty and its terror. Sailors, fishers, coastal communities, and storm-touched magic users respect her because calm seas and violent storms can arrive with very little warning.
 
