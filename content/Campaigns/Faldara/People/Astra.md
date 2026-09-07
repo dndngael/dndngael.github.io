@@ -27,13 +27,15 @@ last_updated: Session 019
 
 > [!infobox]+ Astra
 > ![[4 Assets/Astra.png]]
-> **Ancestry:** Drow Elf
-> **Age:** Adult
-> **Pronouns:** He/Him
-> **Occupation:** Mage, artist
-> **Affiliation:** [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]
-> **Status:** Active
-> **First seen:** Session 002
+> | | |
+> | --- | --- |
+> | **Ancestry** | Drow Elf |
+> | **Age** | Adult |
+> | **Pronouns** | He/Him |
+> | **Occupation** | Mage, artist |
+> | **Affiliation** | [[Campaigns/Faldara/Groups/Dawn's Bane\|Dawn's Bane]] |
+> | **Status** | Active |
+> | **First seen** | Session 002 |
 
 Astra is a drow mage and artist who travels with [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]. He has long braided white hair, pale gray-white eyes, and a taste for dangling gold jewelry.
 
