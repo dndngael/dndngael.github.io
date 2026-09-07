@@ -51,7 +51,7 @@ With Fineks stabilized, [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]] agr
 
 - [[Campaigns/Faldara/Threads/Cure Fineks's Discord|Cure Fineks's Discord]].
 - Investigate Tur'Farinil.
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 
 ## Where We Left Off
 
