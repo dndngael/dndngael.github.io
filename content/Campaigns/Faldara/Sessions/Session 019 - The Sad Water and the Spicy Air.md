@@ -59,7 +59,7 @@ The group then brought Velmian back to the tapestry room and compared him with t
 - Understand the connection between Lurvius and Velmian.
 - [[Campaigns/Faldara/Threads/The Other Altars|Find the Other Altars]].
 - [[Campaigns/Faldara/Threads/Cure Fineks's Discord|Cure Fineks's Discord]].
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 
 ## Where We Left Off
 
