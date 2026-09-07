@@ -25,14 +25,16 @@ symbol: Sword crossed with a pair of scales
 # Vendako
 
 > [!infobox]+ Vendako
-> **Pronounced:** vehn-DAH-koh
-> **Titles:** God of Justice, God of Vengeance
-> **Pronouns:** He/Him
-> **Domains:** War, Order, Vengeance, Balance, Justice, Retribution
-> **Symbol:** Sword crossed with scales
-> **Sacred animals:** Wolves, eagles
-> **Colors:** Black, silver, crimson
-> **Followers:** The Order of Vendako
+> | | |
+> | --- | --- |
+> | **Pronounced** | vehn-DAH-koh |
+> | **Titles** | God of Justice, God of Vengeance |
+> | **Pronouns** | He/Him |
+> | **Domains** | War, Order, Vengeance, Balance, Justice, Retribution |
+> | **Symbol** | Sword crossed with scales |
+> | **Sacred animals** | Wolves, eagles |
+> | **Colors** | Black, silver, crimson |
+> | **Followers** | The Order of Vendako |
 
 Vendako represents justice as a balancing of scales, whether that balance comes through courts, punishment, or personal vengeance. His traditions are generally less concerned with mercy than with ensuring that a wrong receives an answer.
 
