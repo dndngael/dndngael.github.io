@@ -22,13 +22,15 @@ symbol: Salamander
 # Flamiso
 
 > [!infobox]+ Flamiso
-> **Pronounced:** flah-MEE-soh
-> **Title:** God of the Forge
-> **Pronouns:** He/Him
-> **Domains:** Forge, Craft, Fire, Strength
-> **Symbol:** Salamander
-> **Colors:** Red and gold
-> **Followers:** Flamebearers
+> | | |
+> | --- | --- |
+> | **Pronounced** | flah-MEE-soh |
+> | **Title** | God of the Forge |
+> | **Pronouns** | He/Him |
+> | **Domains** | Forge, Craft, Fire, Strength |
+> | **Symbol** | Salamander |
+> | **Colors** | Red and gold |
+> | **Followers** | Flamebearers |
 
 Flamiso governs the fires of creation and the transformation of raw material into tools, weapons, and works of craft. Blacksmiths, artisans, and warriors are common among his followers.
 
