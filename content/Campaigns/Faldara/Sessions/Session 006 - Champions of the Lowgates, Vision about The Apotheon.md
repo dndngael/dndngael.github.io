@@ -52,7 +52,7 @@ The next morning, [[Campaigns/Faldara/People/Umbral Kaz|Umbral Kaz]] met with th
 
 ### New
 
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 
 ## Where We Left Off
 
