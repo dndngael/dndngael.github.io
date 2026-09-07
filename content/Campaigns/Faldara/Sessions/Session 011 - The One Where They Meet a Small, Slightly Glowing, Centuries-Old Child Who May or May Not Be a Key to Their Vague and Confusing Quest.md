@@ -49,7 +49,7 @@ Velmian led the party back to Tur'Farinil. When the riddle sounded again, he rec
 
 ### Continued
 
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 - Investigate Tur'Farinil and the source of the attacks.
 
 ### Resolved
