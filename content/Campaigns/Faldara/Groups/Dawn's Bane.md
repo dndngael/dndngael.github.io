@@ -18,12 +18,14 @@ last_updated: Session 019
 # Dawn's Bane
 
 > [!infobox]+ Dawn's Bane
-> **Type:** Adventuring party
-> **Members:** [[Campaigns/Faldara/People/Lurvius|Lurvius]], [[Campaigns/Faldara/People/Astra|Astra]], [[Campaigns/Faldara/People/Fineks|Fineks]], [[Campaigns/Faldara/People/Ĵura Senkret|Ĵura Senkret]]
-> **Apparent leader:** [[Campaigns/Faldara/People/Lurvius|Lurvius]]
-> **Relationship to the party:** Rivals, allies, friends
-> **Status:** Active
-> **First seen:** Session 002
+> | | |
+> | --- | --- |
+> | **Type** | Adventuring party |
+> | **Members** | [[Campaigns/Faldara/People/Lurvius\|Lurvius]], [[Campaigns/Faldara/People/Astra\|Astra]], [[Campaigns/Faldara/People/Fineks\|Fineks]], [[Campaigns/Faldara/People/Ĵura Senkret\|Ĵura Senkret]] |
+> | **Apparent leader** | [[Campaigns/Faldara/People/Lurvius\|Lurvius]] |
+> | **Relationship to the party** | Rivals, allies, friends |
+> | **Status** | Active |
+> | **First seen** | Session 002 |
 
 **Dawn's Bane** is an adventuring party made up of [[Campaigns/Faldara/People/Lurvius|Lurvius]], [[Campaigns/Faldara/People/Astra|Astra]], [[Campaigns/Faldara/People/Fineks|Fineks]], and [[Campaigns/Faldara/People/Ĵura Senkret|Ĵura Senkret]].
 
