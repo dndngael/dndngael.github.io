@@ -27,14 +27,16 @@ last_updated: Session 006
 # Narvono
 
 > [!infobox]+ Narvono
-> **Pronounced:** nahr-VOH-noh
-> **Titles:** Deity of Dreams, Deity of Nightmares, Dream Weaver
-> **Pronouns:** Any/All
-> **Domains:** Knowledge, Twilight, Mind, Darkness, Moon
-> **Symbol:** Crescent moon with a dark eye
-> **Sacred animals:** Owls, bats
-> **Colors:** Midnight blue, violet, pale white, black
-> **Followers:** Narvonites
+> | | |
+> | --- | --- |
+> | **Pronounced** | nahr-VOH-noh |
+> | **Titles** | Deity of Dreams, Deity of Nightmares, Dream Weaver |
+> | **Pronouns** | Any/All |
+> | **Domains** | Knowledge, Twilight, Mind, Darkness, Moon |
+> | **Symbol** | Crescent moon with a dark eye |
+> | **Sacred animals** | Owls, bats |
+> | **Colors** | Midnight blue, violet, pale white, black |
+> | **Followers** | Narvonites |
 
 Narvono is the deity of sleep, dreams, nightmares, and the subconscious. Their visions may inspire, warn, confuse, or torment, and their worshipers often study dreams as messages worth interpreting rather than dismissing.
 
