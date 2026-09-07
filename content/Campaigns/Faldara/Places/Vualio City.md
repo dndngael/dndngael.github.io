@@ -28,14 +28,16 @@ last_updated: Session 006
 
 > [!infobox]+ Vualio City
 > ![[4 Assets/vualio no districts.png]]
-> **Pronounced:** voo-AHL-ee-oh
-> **Type:** Metropolis
-> **Terrain:** Urban, river, farmland
-> **Population:** About 50,000
-> **Government:** Theocracy and monarchy
-> **Primary faith:** [[Campaigns/Faldara/Groups/The Masked Ones|The Masked Ones]] / [[Campaigns/Faldara/Lore/Deities/Vual|Vual]]
-> **Status:** Active
-> **First visited:** Session 001
+> | | |
+> | --- | --- |
+> | **Pronounced** | voo-AHL-ee-oh |
+> | **Type** | Metropolis |
+> | **Terrain** | Urban, river, farmland |
+> | **Population** | About 50,000 |
+> | **Government** | Theocracy and monarchy |
+> | **Primary faith** | [[Campaigns/Faldara/Groups/The Masked Ones\|The Masked Ones]] / [[Campaigns/Faldara/Lore/Deities/Vual\|Vual]] |
+> | **Status** | Active |
+> | **First visited** | Session 001 |
 
 Vualio City is the capital and heart of the Kingdom of Vualio, a large inland metropolis built along the Kruma River. Wealth, religion, commerce, and the kingdom's mask-centered traditions all converge here.
 
