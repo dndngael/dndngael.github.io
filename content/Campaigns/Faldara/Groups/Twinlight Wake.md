@@ -19,12 +19,14 @@ last_updated: Session 022
 # Twinlight Wake
 
 > [!infobox]+ Twinlight Wake
-> **Type:** Religious movement
-> **Public figure:** [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]]
-> **Core teaching:** The Twin Light of [[Campaigns/Faldara/Lore/Faldara's Twin Moons|Farin and Zil]]
-> **Known sympathizers:** Some soldiers in [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]
-> **Status:** Uncertain after Faylen's death
-> **First seen:** Session 012
+> | | |
+> | --- | --- |
+> | **Type** | Religious movement |
+> | **Public figure** | [[Campaigns/Faldara/People/Faylen Nemyris\|Faylen Nemyris]] |
+> | **Core teaching** | The Twin Light of [[Campaigns/Faldara/Lore/Faldara's Twin Moons\|Farin and Zil]] |
+> | **Known sympathizers** | Some soldiers in [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] |
+> | **Status** | Uncertain after Faylen's death |
+> | **First seen** | Session 012 |
 
 The **Twinlight Wake** is the religious movement associated with [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]] and her teachings about the **Twin Light** of Faldara's two moons.
 
