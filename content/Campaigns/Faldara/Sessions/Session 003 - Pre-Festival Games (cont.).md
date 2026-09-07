@@ -21,7 +21,7 @@ The group had spent the previous session competing in festival events while the 
 
 Over breakfast, Paul revealed that he is the only surviving member of his family. The others had died after becoming sick, while Paul survived.
 
-When the party returned to [[Campaigns/Faldara/People/Captain Roseshade|Captain Roseshade]], they finally received good news: Paul's mask had been found. An elderly woman named Hazel had reported seeing it sticking out of a bag outside her building. By the time guards returned to investigate the bag itself, however, the bag had disappeared.
+When the party returned to Captain Roseshade, they finally received good news: Paul's mask had been found. An elderly woman named Hazel had reported seeing it sticking out of a bag outside her building. By the time guards returned to investigate the bag itself, however, the bag had disappeared.
 
 Paul's enthusiasm for questioning Hazel and the guards became intense enough that Alvin and 27 physically dragged him away.
 
