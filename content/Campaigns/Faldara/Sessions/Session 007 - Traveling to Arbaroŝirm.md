@@ -38,7 +38,7 @@ Later the party heard what seemed to be a bear, only to be attacked by a gloomst
 
 ### Continued
 
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 - Reach Arbaroŝirm and investigate the temple connected to the vision.
 
 ## Where We Left Off
