@@ -25,16 +25,18 @@ last_updated: Session 022
 # Lheani
 
 > [!infobox]+ Lheani
-> **Played by:** PJ
-> **Ancestry:** Tortle
-> **Age:** Young Adult
-> **Pronouns:** He/Him
-> **Class:** Barbarian
-> **Occupation:** Adventurer
-> **Party:** [[Campaigns/Faldara/Groups/You Guys|You Guys]]
-> **Current location:** [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
-> **Status:** Active
-> **First seen:** Session 016
+> | | |
+> | --- | --- |
+> | **Played by** | PJ |
+> | **Ancestry** | Tortle |
+> | **Age** | Young Adult |
+> | **Pronouns** | He/Him |
+> | **Class** | Barbarian |
+> | **Occupation** | Adventurer |
+> | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Status** | Active |
+> | **First seen** | Session 016 |
 
 Lheani is a young tortle adventurer who joined [[Campaigns/Faldara/Groups/You Guys|the party]] inside [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]].
 
