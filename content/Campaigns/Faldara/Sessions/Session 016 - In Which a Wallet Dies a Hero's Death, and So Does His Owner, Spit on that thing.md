@@ -52,7 +52,7 @@ Lheani gave the group a key and joined them as they continued deeper into Tur'Fa
 
 - Find [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]].
 - Explore Tur'Farinil.
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 
 ### New
 
