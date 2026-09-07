@@ -21,12 +21,14 @@ last_updated: Session 015
 
 > [!infobox]+ Silentstone
 > ![[4 Assets/Silentstone.webp]]
-> **Type:** Wondrous item
-> **Rarity:** Very Rare
-> **Current use:** Embedded in [[Campaigns/Faldara/People/Fineks|Fineks's]] mask
-> **Known property:** Absorbs psychic energy
-> **Status:** In use
-> **First seen:** Session 015
+> | | |
+> | --- | --- |
+> | **Type** | Wondrous item |
+> | **Rarity** | Very Rare |
+> | **Current use** | Embedded in [[Campaigns/Faldara/People/Fineks\|Fineks's]] mask |
+> | **Known property** | Absorbs psychic energy |
+> | **Status** | In use |
+> | **First seen** | Session 015 |
 
 Silentstone is a small, clear crystal-like stone that is difficult to see except when light catches its edges. It is smooth and unusually "quiet" when examined through magical resonance.
 
