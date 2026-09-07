@@ -24,14 +24,16 @@ symbol: Radiant sun
 # Solano
 
 > [!infobox]+ Solano
-> **Pronounced:** sohl-AH-noh
-> **Titles:** God of the Sun, God of Healing
-> **Pronouns:** He/Him
-> **Domains:** Light, Life, Sun, Radiance, Healing
-> **Symbol:** Radiant sun
-> **Sacred animals:** Lions, eagles, roosters, snakes
-> **Colors:** Gold, white, orange, yellow, red
-> **Followers:** Sunbearers
+> | | |
+> | --- | --- |
+> | **Pronounced** | sohl-AH-noh |
+> | **Titles** | God of the Sun, God of Healing |
+> | **Pronouns** | He/Him |
+> | **Domains** | Light, Life, Sun, Radiance, Healing |
+> | **Symbol** | Radiant sun |
+> | **Sacred animals** | Lions, eagles, roosters, snakes |
+> | **Colors** | Gold, white, orange, yellow, red |
+> | **Followers** | Sunbearers |
 
 Solano embodies the sun's warmth, healing power, and life-giving light. His worshipers include healers, physicians, farmers, and paladins who carry light into dangerous places.
 
