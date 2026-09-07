@@ -27,16 +27,18 @@ last_updated: Session 019
 # Farinia
 
 > [!infobox]+ Farinia
-> **Pronounced:** far-EE-NEE-ah
-> **Titles:** Deity of Time, Deity of Fate, The Spinner
-> **Pronouns:** They/Them
-> **Domains:** Knowledge, Grave, Time, Patience, Fate
-> **Symbol:** Hourglass
-> **Sacred animals:** Spiders, ravens
-> **Colors:** Silver, black, deep red
-> **Followers:** Fates
-> **Associated moon:** [[Campaigns/Faldara/Lore/Faldara's Twin Moons|Farin]]
-> **Important place:** [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
+> | | |
+> | --- | --- |
+> | **Pronounced** | far-EE-NEE-ah |
+> | **Titles** | Deity of Time, Deity of Fate, The Spinner |
+> | **Pronouns** | They/Them |
+> | **Domains** | Knowledge, Grave, Time, Patience, Fate |
+> | **Symbol** | Hourglass |
+> | **Sacred animals** | Spiders, ravens |
+> | **Colors** | Silver, black, deep red |
+> | **Followers** | Fates |
+> | **Associated moon** | [[Campaigns/Faldara/Lore/Faldara's Twin Moons\|Farin]] |
+> | **Important place** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
 
 Farinia governs the flow of time and the weaving of fate. They are commonly understood as impartial rather than cruel: fate may be difficult, but to their followers it is part of a larger pattern rather than an act of malice.
 
