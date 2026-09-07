@@ -19,7 +19,7 @@ Paul's mask had been stolen shortly after the original trio met in [[Campaigns/F
 
 ## What Happened
 
-[[Campaigns/Faldara/People/Captain Roseshade|Captain Roseshade]] told the group that the guard was still searching for Paul's mask and asked them to remain in the Lowgates. Alvin briefly turned Paul invisible to snoop around the guards, but the effort produced no new information.
+Captain Roseshade told the group that the guard was still searching for Paul's mask and asked them to remain in the Lowgates. Alvin briefly turned Paul invisible to snoop around the guards, but the effort produced no new information.
 
 The day then became a tour of increasingly ridiculous festival competitions.
 
