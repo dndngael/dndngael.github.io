@@ -25,15 +25,17 @@ last_updated: Session 016
 # Yhefff-Two Ua
 
 > [!infobox]+ Yhefff-Two Ua
-> **Played by:** PJ
-> **Ancestry:** Human
-> **Age:** Adult
-> **Pronouns:** He/Him
-> **Class:** Wizard
-> **Alias:** Jeff
-> **Party:** [[Campaigns/Faldara/Groups/You Guys|You Guys]]
-> **Status:** Deceased
-> **First seen:** Session 016
+> | | |
+> | --- | --- |
+> | **Played by** | PJ |
+> | **Ancestry** | Human |
+> | **Age** | Adult |
+> | **Pronouns** | He/Him |
+> | **Class** | Wizard |
+> | **Alias** | Jeff |
+> | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
+> | **Status** | Deceased |
+> | **First seen** | Session 016 |
 
 Yhefff-Two Ua, usually called **Jeff**, was a human wizard from Vualio introduced to the group by [[Campaigns/Faldara/People/Nephil Salŝius|Nephil Salŝius]] shortly before their expedition into [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]].
 
