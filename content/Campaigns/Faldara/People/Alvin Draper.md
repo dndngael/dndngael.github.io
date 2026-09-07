@@ -28,19 +28,21 @@ last_updated: Session 022
 # Alvin Draper
 
 > [!infobox]+ Alvin Draper
-> **Played by:** Haleigh
-> **Ancestry:** Wood Elf
-> **Age:** Adult
-> **Pronouns:** He/Him
-> **Class:** Bard
-> **Subclass:** College of Dance
-> **Level:** 5
-> **Occupation:** Dancer
-> **Alias:** The Twinkler
-> **Party:** [[Campaigns/Faldara/Groups/You Guys|You Guys]]
-> **Current location:** [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
-> **Status:** Active
-> **First seen:** Session 001
+> | | |
+> | --- | --- |
+> | **Played by** | Haleigh |
+> | **Ancestry** | Wood Elf |
+> | **Age** | Adult |
+> | **Pronouns** | He/Him |
+> | **Class** | Bard |
+> | **Subclass** | College of Dance |
+> | **Level** | 5 |
+> | **Occupation** | Dancer |
+> | **Alias** | The Twinkler |
+> | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Status** | Active |
+> | **First seen** | Session 001 |
 
 Alvin Draper is a wood elf bard and dancer known on stage as **The Twinkler**. He was one of the original three members of [[Campaigns/Faldara/Groups/You Guys|the party]].
 
