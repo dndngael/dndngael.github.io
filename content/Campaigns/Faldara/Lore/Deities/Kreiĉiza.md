@@ -28,15 +28,17 @@ last_updated: Session 019
 # Kreiĉiza
 
 > [!infobox]+ Kreiĉiza
-> **Pronounced:** krey-CHEEZ-uh
-> **Titles:** Deity of Transformation, Artistry, and Magic
-> **Pronouns:** They/Them
-> **Domains:** Change, Arcana, Magic, Creation, Craft
-> **Symbol:** Impossible triangle
-> **Sacred animals:** Butterflies, octopuses, spiders, chameleons
-> **Colors:** Iridescent blue, purple, silver
-> **Followers:** Weavers
-> **Modern worship:** Rare
+> | | |
+> | --- | --- |
+> | **Pronounced** | krey-CHEEZ-uh |
+> | **Titles** | Deity of Transformation, Artistry, and Magic |
+> | **Pronouns** | They/Them |
+> | **Domains** | Change, Arcana, Magic, Creation, Craft |
+> | **Symbol** | Impossible triangle |
+> | **Sacred animals** | Butterflies, octopuses, spiders, chameleons |
+> | **Colors** | Iridescent blue, purple, silver |
+> | **Followers** | Weavers |
+> | **Modern worship** | Rare |
 
 Kreiĉiza is associated with creation, transformation, magic, artistry, and the idea that identity itself can be shaped. Their traditions treat change as a creative act rather than merely a loss of what came before.
 
