@@ -18,11 +18,13 @@ last_updated: Session 013
 # Faldara's Twin Moons
 
 > [!infobox]+ Farin and Zil
-> **Farin:** Large, silver, steady cycle
-> **Zil:** Small, golden, intermittently absent
-> **Known together as:** Faldara's twin moons
-> **Religious connection:** The Twin Light in [[Campaigns/Faldara/Groups/Twinlight Wake|Twinlight Wake]] teaching
-> **First discussed:** Session 002
+> | | |
+> | --- | --- |
+> | **Farin** | Large, silver, steady cycle |
+> | **Zil** | Small, golden, intermittently absent |
+> | **Known together as** | Faldara's twin moons |
+> | **Religious connection** | The Twin Light in [[Campaigns/Faldara/Groups/Twinlight Wake\|Twinlight Wake]] teaching |
+> | **First discussed** | Session 002 |
 
 Faldara has two moons: **Farin** and **Zil**.
 
