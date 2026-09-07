@@ -21,15 +21,17 @@ last_updated: Session 019
 # The Apotheon
 
 > [!infobox]+ The Apotheon
-> **Pronounced:** uh-PAH-THEE-ahn
-> **Ancestry:** Unknown
-> **Age:** Ancient
-> **Pronouns:** He/Him
-> **Appearance:** Spectral humanoid of red-and-black vapor
-> **Mask:** Crimson with glittering gold markings
-> **Eyes:** Purple
-> **Status:** Claimed to be imprisoned
-> **First seen:** Session 006
+> | | |
+> | --- | --- |
+> | **Pronounced** | uh-PAH-THEE-ahn |
+> | **Ancestry** | Unknown |
+> | **Age** | Ancient |
+> | **Pronouns** | He/Him |
+> | **Appearance** | Spectral humanoid of red-and-black vapor |
+> | **Mask** | Crimson with glittering gold markings |
+> | **Eyes** | Purple |
+> | **Status** | Claimed to be imprisoned |
+> | **First seen** | Session 006 |
 
 The Apotheon is a mysterious masked figure who appeared to Paul, Alvin, and 27 in the [[Campaigns/Faldara/Lore/Vision in the Lazuli Grotto|Vision in the Lazuli Grotto]].
 
@@ -49,4 +51,4 @@ The party's attempt to understand and rescue the Apotheon led from the hidden pr
 
 His true identity, exact location, and the nature of his imprisonment remain unresolved.
 
-See [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+See [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
