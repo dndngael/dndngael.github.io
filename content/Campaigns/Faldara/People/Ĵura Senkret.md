@@ -30,16 +30,18 @@ last_updated: Session 019
 
 > [!infobox]+ Ĵura Senkret
 > ![[4 Assets/Ĵura.png]]
-> **Pronounced:** JXOO-ruh SEHN-kret
-> **Ancestry:** Human
-> **Age:** Mature Adult
-> **Pronouns:** He/Him
-> **Title:** Lord Ĵura Senkret II
-> **Occupation:** Noble
-> **Affiliation:** [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]
-> **Faith:** [[Campaigns/Faldara/Groups/The Masked Ones|The Masked Ones]] / Vual
-> **Status:** Active
-> **First seen:** Session 006
+> | | |
+> | --- | --- |
+> | **Pronounced** | JXOO-ruh SEHN-kret |
+> | **Ancestry** | Human |
+> | **Age** | Mature Adult |
+> | **Pronouns** | He/Him |
+> | **Title** | Lord Ĵura Senkret II |
+> | **Occupation** | Noble |
+> | **Affiliation** | [[Campaigns/Faldara/Groups/Dawn's Bane\|Dawn's Bane]] |
+> | **Faith** | [[Campaigns/Faldara/Groups/The Masked Ones\|The Masked Ones]] / Vual |
+> | **Status** | Active |
+> | **First seen** | Session 006 |
 
 Lord Ĵura Senkret II is a Vualian noble and member of [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]. He is tall and stout, with blue eyes and shaggy but well-kept blond hair. His silver lion mask is decorated with gold embellishments.
 
