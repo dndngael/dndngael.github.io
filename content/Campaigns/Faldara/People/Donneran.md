@@ -22,15 +22,17 @@ last_updated: Session 015
 # Donneran
 
 > [!infobox]+ Donneran
-> **Pronounced:** DAHN-er-ihn
-> **Ancestry:** Firbolg
-> **Age:** Adult
-> **Pronouns:** He/Him
-> **Occupation:** Herbalist
-> **Faith:** [[Campaigns/Faldara/Lore/Deities/Favaro|Favaro]]
-> **Home:** [[Campaigns/Faldara/Places/The Dilapidated Temple|The Dilapidated Temple]]
-> **Status:** Active
-> **First seen:** Session 011
+> | | |
+> | --- | --- |
+> | **Pronounced** | DAHN-er-ihn |
+> | **Ancestry** | Firbolg |
+> | **Age** | Adult |
+> | **Pronouns** | He/Him |
+> | **Occupation** | Herbalist |
+> | **Faith** | [[Campaigns/Faldara/Lore/Deities/Favaro\|Favaro]] |
+> | **Home** | [[Campaigns/Faldara/Places/The Dilapidated Temple\|The Dilapidated Temple]] |
+> | **Status** | Active |
+> | **First seen** | Session 011 |
 
 Donneran is a friendly firbolg herbalist who has made his home in [[Campaigns/Faldara/Places/The Dilapidated Temple|the Dilapidated Temple]] in [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]. He tends an extensive collection of plants in the old ruins and follows [[Campaigns/Faldara/Lore/Deities/Favaro|Favaro]].
 
