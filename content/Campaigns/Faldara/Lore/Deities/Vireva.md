@@ -24,14 +24,16 @@ symbol: Hammer resting on a coin
 # Vireva
 
 > [!infobox]+ Vireva
-> **Pronounced:** veer-EH-vah
-> **Titles:** Goddess of Craft, Goddess of Trade
-> **Pronouns:** She/Her
-> **Domains:** Forge, Knowledge, Craft, Trade, Charity
-> **Symbol:** Hammer resting on a coin
-> **Sacred animals:** Ants, beavers, camels, monkeys
-> **Colors:** Bronze, gray, emerald
-> **Followers:** Virevans
+> | | |
+> | --- | --- |
+> | **Pronounced** | veer-EH-vah |
+> | **Titles** | Goddess of Craft, Goddess of Trade |
+> | **Pronouns** | She/Her |
+> | **Domains** | Forge, Knowledge, Craft, Trade, Charity |
+> | **Symbol** | Hammer resting on a coin |
+> | **Sacred animals** | Ants, beavers, camels, monkeys |
+> | **Colors** | Bronze, gray, emerald |
+> | **Followers** | Virevans |
 
 Vireva governs skilled craft, commerce, and the prosperity created when ingenuity meets exchange. Her traditions praise good workmanship, fair dealing, useful invention, and the ability to turn labor into lasting value.
 
