@@ -29,18 +29,20 @@ last_updated: Session 022
 # Paul Seragon
 
 > [!infobox]+ Paul Seragon
-> **Played by:** Nick
-> **Ancestry:** Tabaxi
-> **Age:** Adult
-> **Pronouns:** He/Him
-> **Class:** Monk
-> **Level:** 5
-> **Occupation:** Noble
-> **Title:** Earl of Lakeville
-> **Party:** [[Campaigns/Faldara/Groups/You Guys|You Guys]]
-> **Current location:** [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
-> **Status:** Active
-> **First seen:** Session 001
+> | | |
+> | --- | --- |
+> | **Played by** | Nick |
+> | **Ancestry** | Tabaxi |
+> | **Age** | Adult |
+> | **Pronouns** | He/Him |
+> | **Class** | Monk |
+> | **Level** | 5 |
+> | **Occupation** | Noble |
+> | **Title** | Earl of Lakeville |
+> | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Status** | Active |
+> | **First seen** | Session 001 |
 
 Paul Seragon is a tabaxi monk, noble, and Earl of Lakeville. He was one of the original three members of [[Campaigns/Faldara/Groups/You Guys|the party]].
 
