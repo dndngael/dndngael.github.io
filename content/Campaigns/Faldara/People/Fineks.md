@@ -27,15 +27,17 @@ last_updated: Session 019
 
 > [!infobox]+ Fineks
 > ![[4 Assets/Fineks.png]]
-> **Pronounced:** FEE-niks
-> **Ancestry:** Tiefling
-> **Age:** Young Adult
-> **Pronouns:** She/Her
-> **Occupation:** Druid, adventurer
-> **Affiliation:** [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]
-> **Companion:** Torĉ
-> **Status:** Active, stabilized
-> **First seen:** Session 002
+> | | |
+> | --- | --- |
+> | **Pronounced** | FEE-niks |
+> | **Ancestry** | Tiefling |
+> | **Age** | Young Adult |
+> | **Pronouns** | She/Her |
+> | **Occupation** | Druid, adventurer |
+> | **Affiliation** | [[Campaigns/Faldara/Groups/Dawn's Bane\|Dawn's Bane]] |
+> | **Companion** | Torĉ |
+> | **Status** | Active, stabilized |
+> | **First seen** | Session 002 |
 
 Fineks is a tiefling druid and member of [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]. She has short fiery-orange hair, orange eyes, and is unusually short for a tiefling. Her companion Torĉ, pronounced "Torch," resembles a mixture between a cat and an owl.
 
