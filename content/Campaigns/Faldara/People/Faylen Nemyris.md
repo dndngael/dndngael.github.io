@@ -26,15 +26,17 @@ last_updated: Session 022
 # Faylen Nemyris
 
 > [!infobox]+ Faylen Nemyris
-> **Pronounced:** FEY-lehn neh-MEER-ihs
-> **Ancestry:** High Elf
-> **Age:** Adult
-> **Pronouns:** She/Her
-> **Occupation:** Researcher, celestial cartographer
-> **Affiliation:** [[Campaigns/Faldara/Groups/Twinlight Wake|Twinlight Wake]]
-> **Known base:** [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] / [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
-> **Status:** Deceased
-> **First seen:** Session 012
+> | | |
+> | --- | --- |
+> | **Pronounced** | FEY-lehn neh-MEER-ihs |
+> | **Ancestry** | High Elf |
+> | **Age** | Adult |
+> | **Pronouns** | She/Her |
+> | **Occupation** | Researcher, celestial cartographer |
+> | **Affiliation** | [[Campaigns/Faldara/Groups/Twinlight Wake\|Twinlight Wake]] |
+> | **Known base** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] / [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Status** | Deceased |
+> | **First seen** | Session 012 |
 
 Faylen Nemyris was a charismatic preacher and researcher associated with the [[Campaigns/Faldara/Groups/Twinlight Wake|Twinlight Wake]]. She appeared in Arbaroŝirm preaching about the **Twin Light** of Faldara's moons and describing the creatures emerging from [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]] as lost or confused "moon children."
 
@@ -53,6 +55,3 @@ Her stone could resonate with creatures associated with the temple, and one of t
 The party's investigation eventually became a direct confrontation with Faylen inside Tur'Farinil. By the beginning of the latest documented session, Faylen had been defeated and was dead.
 
 The consequences of her work did not end with her. See [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]].
-
-> [!note]
-> Faylen has a legacy portrait ready to migrate from `z_Assets`. It will be added here once the remaining binary assets are copied into the public vault.
