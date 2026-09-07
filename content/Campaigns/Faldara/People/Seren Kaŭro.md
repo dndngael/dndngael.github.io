@@ -30,16 +30,18 @@ last_updated: Session 016
 # Seren Kaŭro
 
 > [!infobox]+ Seren Kaŭro
-> **Pronounced:** SEHR-ehn KAHW-roh
-> **Ancestry:** Wood Elf
-> **Age:** Young Adult
-> **Pronouns:** He/Him
-> **Title:** Grand Duke
-> **Roles:** Noble, soldier, defender of Arbaroŝirm
-> **Affiliation:** House Kaŭro
-> **Current location:** [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]
-> **Status:** Active
-> **First seen:** Session 010
+> | | |
+> | --- | --- |
+> | **Pronounced** | SEHR-ehn KAHW-roh |
+> | **Ancestry** | Wood Elf |
+> | **Age** | Young Adult |
+> | **Pronouns** | He/Him |
+> | **Title** | Grand Duke |
+> | **Roles** | Noble, soldier, defender of Arbaroŝirm |
+> | **Affiliation** | House Kaŭro |
+> | **Current location** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] |
+> | **Status** | Active |
+> | **First seen** | Session 010 |
 
 Grand Duke Seren Kaŭro is the leading authority in [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] and one of the city's most visible defenders against the creatures emerging from [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]].
 
@@ -52,6 +54,3 @@ Seren's first impression of the group deteriorated after their fight with a drun
 Seren knows a great deal about the temple and its dangers. He provided information that led the group to [[Campaigns/Faldara/People/Nephil Salŝius|Nephil Salŝius]] and shared a partial map of Tur'Farinil.
 
 As conditions worsened, Seren eventually declared Tur'Farinil officially off-limits. The party continued investigating despite the order, putting their urgent goals in tension with his responsibility for the city's safety.
-
-> [!note]
-> Seren has a legacy portrait ready to migrate from `z_Assets`. It will be added here once the remaining binary assets are copied into the public vault.
