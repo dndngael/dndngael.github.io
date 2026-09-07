@@ -25,16 +25,18 @@ last_updated: Session 006
 # Umbral Kaz
 
 > [!infobox]+ Umbral Kaz
-> **Pronounced:** Kaz
-> **Ancestry:** Gnome
-> **Age:** Elderly
-> **Pronouns:** He/Him
-> **Occupation:** Priest, Umbral
-> **Affiliation:** [[Campaigns/Faldara/Groups/The Masked Ones|The Masked Ones]]
-> **Current location:** [[Campaigns/Faldara/Places/Lowgates|Lowgates]], [[Campaigns/Faldara/Places/Vualio City|Vualio City]]
-> **Mask:** Purple and black with silver designs
-> **Status:** Active
-> **First seen:** Session 002
+> | | |
+> | --- | --- |
+> | **Pronounced** | Kaz |
+> | **Ancestry** | Gnome |
+> | **Age** | Elderly |
+> | **Pronouns** | He/Him |
+> | **Occupation** | Priest, Umbral |
+> | **Affiliation** | [[Campaigns/Faldara/Groups/The Masked Ones\|The Masked Ones]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Lowgates\|Lowgates]], [[Campaigns/Faldara/Places/Vualio City\|Vualio City]] |
+> | **Mask** | Purple and black with silver designs |
+> | **Status** | Active |
+> | **First seen** | Session 002 |
 
 Umbral Kaz is an elderly gnome priest and member of [[Campaigns/Faldara/Groups/The Masked Ones|The Masked Ones]] in the Lowgates district of [[Campaigns/Faldara/Places/Vualio City|Vualio City]].
 
