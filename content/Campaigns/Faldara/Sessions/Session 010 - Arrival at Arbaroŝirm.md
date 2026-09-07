@@ -44,7 +44,7 @@ They found an abandoned inn instead. During the night, everyone except 27 heard 
 
 ### Continued
 
-- [[Campaigns/Faldara/Threads/Save The Apotheon|Save the Apotheon]].
+- [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
 
 ### New
 
