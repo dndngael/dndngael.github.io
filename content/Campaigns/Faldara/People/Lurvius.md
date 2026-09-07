@@ -25,14 +25,16 @@ last_updated: Session 019
 
 > [!infobox]+ Lurvius
 > ![[4 Assets/LurviusWithMask.png]]
-> **Pronounced:** loor-VEE-oos
-> **Ancestry:** Eladrin Elf
-> **Age:** Adult
-> **Pronouns:** He/Him
-> **Occupation:** Adventurer
-> **Affiliation:** [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]
-> **Status:** Active
-> **First seen:** Session 006
+> | | |
+> | --- | --- |
+> | **Pronounced** | loor-VEE-oos |
+> | **Ancestry** | Eladrin Elf |
+> | **Age** | Adult |
+> | **Pronouns** | He/Him |
+> | **Occupation** | Adventurer |
+> | **Affiliation** | [[Campaigns/Faldara/Groups/Dawn's Bane\|Dawn's Bane]] |
+> | **Status** | Active |
+> | **First seen** | Session 006 |
 
 Lurvius is a member and apparent leader of [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]. The party first met his group as rivals during the festival in Vualio City.
 
