@@ -25,15 +25,17 @@ last_updated: Session 012
 # Favaro
 
 > [!infobox]+ Favaro
-> **Pronounced:** fah-VAH-roh
-> **Titles:** Deity of Harvest, Deity of Abundance
-> **Pronouns:** He/Him
-> **Domains:** Life, Nature, Community, Plant
-> **Symbol:** Sickle entwined with wheat and grapevines
-> **Sacred animals:** Oxen, hares
-> **Colors:** Gold, green, brown
-> **Followers:** Favarans
-> **Known follower:** [[Campaigns/Faldara/People/27|27]]
+> | | |
+> | --- | --- |
+> | **Pronounced** | fah-VAH-roh |
+> | **Titles** | Deity of Harvest, Deity of Abundance |
+> | **Pronouns** | He/Him |
+> | **Domains** | Life, Nature, Community, Plant |
+> | **Symbol** | Sickle entwined with wheat and grapevines |
+> | **Sacred animals** | Oxen, hares |
+> | **Colors** | Gold, green, brown |
+> | **Followers** | Favarans |
+> | **Known follower** | [[Campaigns/Faldara/People/27\|27]] |
 
 Favaro is a gentle god of agriculture, fertility, natural abundance, and stewardship. His blessings are associated with successful harvests, healthy livestock, and prosperous communities, but his worship emphasizes caring for the land that provides those gifts.
 
