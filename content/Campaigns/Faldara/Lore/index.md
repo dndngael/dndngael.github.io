@@ -1,5 +1,5 @@
 ---
-title: Faldara Lore
+title: Lore
 campaign: Faldara
 note_type: index
 visibility: player
