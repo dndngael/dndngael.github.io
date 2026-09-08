@@ -1,5 +1,5 @@
 ---
-title: Faldara Items and Resources
+title: Items
 campaign: Faldara
 note_type: index
 visibility: player
