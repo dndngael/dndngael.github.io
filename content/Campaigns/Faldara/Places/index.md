@@ -1,5 +1,5 @@
 ---
-title: Faldara Places
+title: Places
 campaign: Faldara
 note_type: index
 visibility: player
