@@ -14,16 +14,12 @@ Welcome. Choose the campaign you play in, then use that campaign home page to fi
 - [[Campaigns/Faldara/index|Faldara]]
 - [[Campaigns/The Forgotten Realms/index|The Forgotten Realms]]
 
-## Shared Table Info
+## House Rules
 
-- [[Shared/Table Rules|Table Rules]]
-- [[Shared/House Rules|House Rules]]
-- [[Shared/Character Creation|Character Creation]]
-- [[Shared/Scheduling|Scheduling]]
+- [[House Rules|House Rules]]
 
 ## Temporary Backups
 
 The older note structure is preserved while notes are migrated into the campaign-first layout.
 
-- [[Faldara-backup/Faldara|Faldara backup]]
 - [[The Forgotten Realms-backup/The Forgotten Realms|The Forgotten Realms backup]]
