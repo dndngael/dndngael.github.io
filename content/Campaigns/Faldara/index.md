@@ -42,5 +42,3 @@ See [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]] for the curren
 
 - [[Shared/Table Rules|Table Rules]]
 - [[Shared/House Rules|House Rules]]
-- [[Shared/Character Creation|Character Creation]]
-- [[Shared/Scheduling|Scheduling]]
