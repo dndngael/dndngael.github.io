@@ -1,5 +1,5 @@
 ---
-title: Faldara Open Threads
+title: Threads
 campaign: Faldara
 note_type: index
 visibility: player
