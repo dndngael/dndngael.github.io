@@ -54,7 +54,7 @@ The various dwarven communities of the North are the heirs and survivors of Delz
 
 Holds that survive from the days of Delzoun include Mithral Hall, Citadel Adbar, and Citadel Felbarr. The fabled city of Gauntlgrym, built by the Delzoun dwarves and recently taken back from the drow, stands as a beacon of resurgent dwarven strength in the North. Stoneshaft Hold and Ironmaster are lonely settlements continually girding themselves for threats real and imagined. Sundabar and Mirabar are also generally considered dwarfholds, despite their substantial human populations.
 
-![[4 Assets/SCAG/scag01-02.webp|center|500]]
+![[Assets/SCAG/scag01-02.webp|center|500]]
 
 Until recently, many of the dwarfholds were members of the Silver Marches (also known as Luruar), an alliance of cities that provided mutual protection across the North. Disagreements and failed obligations during a war with the orc kingdom of Many-Arrows destroyed the remaining trust between members of the Marches, and that pact is no more. The dwarfholds still ally with one another, and individually with nearby human realms, but no longer pledge to stand unified with all their neighbors.
 
@@ -82,13 +82,13 @@ Among the lands of the Underdark beneath the North are the svirfneblin city of B
 
 Toril is a vast and wondrous world, filled with an immense diversity of peoples and a rich, full history. For most folk of the Sword Coast, however, knowledge doesn't extend much beyond the confines of the North, and anything "known" outside of Faerûn proper is based more in rumor than in fact.
 
-![[4 Assets/SCAG/scag01-03.webp|center|400]]
+![[Assets/SCAG/scag01-03.webp|center|400]]
 
 ### Faerûn
 
 The vast central continent of Toril, Faerûn is a land mass divided by a great sea known as the Inner Sea, or the Sea of Fallen Stars. The lands beyond the North can be roughly divided into those to the south and those to the east, becoming more foreign to the folk of the Sword Coast and the North the farther away they are.
 
-![[4 Assets/SCAG/northern-faerun-map.webp|center]]
+![[Assets/SCAG/northern-faerun-map.webp|center]]
 
 > [!note] Regions of the Realms
 > 
@@ -246,7 +246,7 @@ Some of Tymanther's dragonborn have spread across Faerûn and gained reputations
 
 Trapped in another world, the people of Unther had succumbed to domination by others. Then among them arose one who called himself Gilgeam, and he reminded them of their former greatness. Under the leadership of this reincarnated god, the people of Unther rose up as an army to face their masters. On the eve of a great battle, the people of Unther were miraculously returned to their home, and Gilgeam wasted no time in leading them against the dragonborn occupying their ancestral lands. The Untherites have retaken much of the land they formerly held, while seeking to wipe out the "godless lizards" they blame for their time of oppression in Abeir.
 
-![[4 Assets/SCAG/scag01-04.webp|center|400]]
+![[Assets/SCAG/scag01-04.webp|center|400]]
 
 Gilgeam wants nothing short of a complete return to Unther's former glory. This achievement will require utterly destroying Tymanther, of course, and eventual war with Mulhorand to reclaim lands lost centuries ago, but as every Untherite knows, the great God-King is patient, for he is eternal.
 
@@ -853,7 +853,7 @@ aliases:
 
 *The keeper of the eternal sun, the light of law, the yellow god*
 
-![[4 Assets/SCAG/scag01-05.webp|center|200]]
+![[Assets/SCAG/scag01-05.webp|center|200]]
 
 The rule of law and the glory of the sun are both in Amaunator's dominion. His priests help establish bureaucracies and lawful order in communities. They often witness contracts and signed agreements, stamping such documents with the sun-symbol of Amaunator to signify their validity.
 
@@ -865,7 +865,7 @@ Farmers and travelers beseech him when they pray for rain or sun, as do any othe
 
 *The lord of the ninth, the cloven, old hoof and horn*
 
-![[4 Assets/SCAG/scag01-06.webp|center|200]]
+![[Assets/SCAG/scag01-06.webp|center|200]]
 
 Open worship of Asmodeus began roughly a century ago when small cults with charismatic leaders sprang up in the aftermath of the Spellplague. That catastrophe left many asking why the gods were angry or had abandoned them. To those questioners, the faithful of Asmodeus provided answers and a god who would forgive all their faults. Still, for the next few decades, the Cult of Asmodeus struggled for acceptance.
 
@@ -881,7 +881,7 @@ Today, shrines to Asmodeus are still rare and temples are almost unheard of, but
 
 *The Frostmaiden, lady Frostkiss, Icedawn*
 
-![[4 Assets/SCAG/scag01-07.webp|center|200]]
+![[Assets/SCAG/scag01-07.webp|center|200]]
 
 Auril, the merciless goddess of cold and winter, is worshiped mostly in regions that are affected by deep winters. Folk propitiate Auril with offerings and prayers for mercy. Her priests warn others to prepare for winter, and to stock extra provisions in order to have some to spare as offerings to the goddess.
 
@@ -893,7 +893,7 @@ Luskan has a temple dedicated to Auril, the whitespired Winter Palace. The struc
 
 *The high one, the lord of spellcraft, the first magister*
 
-![[4 Assets/SCAG/scag01-08.webp|center|200]]
+![[Assets/SCAG/scag01-08.webp|center|200]]
 
 Few pay homage to Azuth aside from wizards. For them, the High One is the ultimate embodiment of all that they hold dear.
 
@@ -905,7 +905,7 @@ Temples dedicated to Azuth are scarce, and clerics of the deity are extremely ra
 
 *The black hand, the lord of darkness*
 
-![[4 Assets/SCAG/scag01-09.webp|center|200]]
+![[Assets/SCAG/scag01-09.webp|center|200]]
 
 Bane has a simple ethos: the strong have not just the right but the duty to rule over the weak. A tyrant who is able to seize power must do so, for not only does the tyrant benefit, but so do those under the tyrant's rule. When a ruler succumbs to decadence, corruption, or decrepitude, a stronger and more suitable ruler will rise.
 
@@ -917,7 +917,7 @@ At many times and in many places in Faerûn, the faithful of Bane have been seen
 
 *The maid of misfortune, lady doom, black bess*
 
-![[4 Assets/SCAG/scag01-10.webp|center|200]]
+![[Assets/SCAG/scag01-10.webp|center|200]]
 
 Beshaba is the counterpoint to Tymora and is just as frequently acknowledged in daily life as is her more benevolent "sister." She is seen as a cruel and capricious goddess who must be propitiated to avoid attracting her attention and interest in a negative way.
 
@@ -939,7 +939,7 @@ Few dare to take Beshaba as a patron. The rare clerics of the Maid of Misfortune
 
 *The lord of murder*
 
-![[4 Assets/SCAG/scag01-11.webp|center|200]]
+![[Assets/SCAG/scag01-11.webp|center|200]]
 
 The folk of Faerûn don't normally pray to or acknowledge Bhaal. He is seen as a deeply evil and destructive deity who hungers for death—meaning the death of any sentient beings through unlawful means.
 
@@ -951,7 +951,7 @@ Murder cults of Bhaal have arisen in the past, each led by a charismatic, self-s
 
 *The great mother, the grain goddess*
 
-![[4 Assets/SCAG/chauntea.webp|center|200]]
+![[Assets/SCAG/chauntea.webp|center|200]]
 
 Chauntea is goddess of agriculture: sowing and reaping, seeding and harvest, breeding and butchery, shearing and weaving. In this aspect she is a rural deity rarely prayed to behind the walls of a city except by kitchen gardeners. But Chauntea is also the Great Mother, a goddess of crib, hearth, and home. And as such she is welcomed into all homes at mealtimes and at the birth of children, and folk give her thanks whenever they experience the pleasure of settling by a fire and feeling safe and loved.
 
@@ -968,7 +968,7 @@ Temples of Chauntea maintain a great body of lore about farming and cultivation.
 
 *The prince of lies, the dark sun*
 
-![[4 Assets/SCAG/scag01-12.webp|center|200]]
+![[Assets/SCAG/scag01-12.webp|center|200]]
 
 The worship of Cyric derives directly from the story of his ascension to godhood. Cyric was a mortal during the Time of Troubles and the key to how that chaotic period resolved, but he was also a selfish traitor and a murderer. When he became a god, Cyric continued to work various plots of deceit and murder—the most famous of which is that, according to legend, Cyric murdered Mystra and thus caused the Spellplague over a century ago.
 
@@ -982,7 +982,7 @@ Cyric's church works openly in Amn, where the citizens espouse the principles of
 
 *The lord of all glyphs and images, the first scribe, the scribe of Oghma*
 
-![[4 Assets/SCAG/denier.webp|center|200]]
+![[Assets/SCAG/denier.webp|center|200]]
 
 Deneir is the god of literature and literacy, the patron of the artist and the scribe. His is the power to accurately render and describe, to write and to read, and to pass on information. In legend, Deneir is often portrayed as being a scribe in service to Oghma, and he is sometimes thought of as Oghma's right hand.
 
@@ -996,7 +996,7 @@ The god's followers tend to be individualists, united by their shared faith but 
 
 *The quiet one, the guardian of groves, the mother of the waters*
 
-![[4 Assets/SCAG/eldath.webp|center|200]]
+![[Assets/SCAG/eldath.webp|center|200]]
 
 Eldath is the goddess of waterfalls, springs, pools, stillness, peace, and quiet glades. She is thought to be present at many such places, particularly those that serve as druid groves. Eldath is a goddess of comfort, healing, and calm. Her blessed waters heal the sick, cure madness, and comfort the dying.
 
@@ -1008,7 +1008,7 @@ Eldath's priests don't organize into large sects. Indeed, many are itinerant, wa
 
 *The Wonderbringer, the inspiration divine, the holy maker of all things*
 
-![[4 Assets/SCAG/scag01-13.webp|center|200]]
+![[Assets/SCAG/scag01-13.webp|center|200]]
 
 Gond is the god of artifice, craft, and construction. He is revered by blacksmiths, woodworkers, engineers, and inventors. Anyone who is crafting something might say a prayer to Gond to guide the work, but folk know that Gond smiles most brightly upon new inventions that others find useful.
 
@@ -1032,7 +1032,7 @@ Gwaeron has no temples, but shrines dedicated to him can be found in many places
 
 *The watcher, he of the unsleeping eyes, the vigilant one*
 
-![[4 Assets/SCAG/scag01-14.webp|center|200]]
+![[Assets/SCAG/scag01-14.webp|center|200]]
 
 The god of vigilance and protection, Helm is seen as the epitome of the guardian, the watcher, and the guard. He is venerated by those who need to remain watchful for enemies or danger. Helm is a favorite deity of people who make a living by protecting someone or something, such as bodyguards, members of the city watch, and the guards of a treasury vault.
 
@@ -1046,7 +1046,7 @@ Helm's priests teach that one must be ever vigilant, ever aware, ever prepared f
 
 *The Doombringer, poet of justice*
 
-![[4 Assets/SCAG/scag01-15.webp|center|200]]
+![[Assets/SCAG/scag01-15.webp|center|200]]
 
 Hoar, known in the lands along the Inner Sea as Assuran, is a god of revenge and retribution. He isn't typically worshiped habitually, but his name is invoked by those who seek vengeance. When a guilty party falls prey to fate—such as when a murderer escapes prosecution, but is then accidentally slain himself—the hand of Hoar is given credit. When one hears three rolls of thunder in succession, it is thought to be a sign from Hoar that some act of vengeance has been performed. Many human societies have the custom of ringing a bell or a gong three times when judgment of a crime is rendered or an execution takes place.
 
@@ -1058,7 +1058,7 @@ Hoar became a member of the Faerûnian pantheon when his worship extended beyond
 
 *The crying god, the rack-broken lord, he who endures*
 
-![[4 Assets/SCAG/scag01-16.webp|center|200]]
+![[Assets/SCAG/scag01-16.webp|center|200]]
 
 Ilmater is the god of suffering, martyrdom, and perseverance, renowned for his compassion and endurance. It is he who offers succor and calming words to those who are in pain, victimized, or in great need. He is the willing sufferer, the one who takes the place of another to heft the other's burden, to take the other's pain. He is the god of the oppressed and the unjustly treated.
 
@@ -1074,7 +1074,7 @@ Most folk deeply respect the work and the sacrifice of Ilmater's faith, and lend
 
 *The final scribe, the pitiless one, the bleak seneschal*
 
-![[4 Assets/SCAG/scag01-17.webp|center|200]]
+![[Assets/SCAG/scag01-17.webp|center|200]]
 
 Legend has it that Jergal is an ancient deity. The story goes that in the time of Netheril he was worshiped as the god of death, murder, and strife. Yet with the passing of time, he became bored with his position. Then one day three mortals, each a powerful adventurer, met Jergal in the lands of the dead, determined to destroy him and take his power. Instead, Jergal calmly abdicated his throne of bones and allowed each of the three mortals to take part of his divinity. Thus it was that Bane assumed the portfolio of strife, Myrkul the rulership of the dead, and Bhaal the portfolio of murder. Jergal lost his former stature and became a scribe of the dead.
 
@@ -1121,7 +1121,7 @@ Few people favor Jergal as a deity, and most who do are concerned with the dispe
 
 *The lord of the dead, the judge of the damned*
 
-![[4 Assets/SCAG/kelemvor.webp|center|200]]
+![[Assets/SCAG/kelemvor.webp|center|200]]
 
 Kelemvor is seen as a just, fair, and comforting god of death. Death comes to all, and when it occurs Kelemvor is there to take each soul by the hand and lead it to the proper afterlife. Kelemvor's priests teach that those who revere the gods according to the rites of their religion have done their proper service and will be offered the afterlife they seek.
 
@@ -1131,7 +1131,7 @@ The faithful of Kelemvor provide people with peaceful transitions into the care 
 
 *The Morninglord, inspiration's dawn, the rose-and-gold god*
 
-![[4 Assets/SCAG/scag01-18.webp|center|200]]
+![[Assets/SCAG/scag01-18.webp|center|200]]
 
 Lathander is the god of the spring, birth, and renewal, a deity of conception, vitality, youth, renewal, and self-perfection. He is god not of the sun but of the dawn, which represents the start of a new day filled with potential.
 
@@ -1145,7 +1145,7 @@ The faithful of Lathander embrace the founding of new communities and the growth
 
 *The lady of the mists, Mistshadow, the lady of deception*
 
-![[4 Assets/SCAG/scag01-19.webp|center|200]]
+![[Assets/SCAG/scag01-19.webp|center|200]]
 
 Leira has worn many masks, and more than once has been thought to be dead or to be another deity altogether. Perhaps such a reputation is only natural for the goddess of illusion and deception. Her faithful agree that whatever the "truth" might be, their Lady takes great delight in the confusion sown by her various incarnations. Even the faithful of Cyric once taught that their god killed Leira, but now they espouse the strange idea that somehow she is his daughter.
 
@@ -1159,7 +1159,7 @@ Her priests wear vestments of white and mist-gray, and their faces are covered b
 
 *Our lady of joy, Joybringer, the mistress of revels*
 
-![[4 Assets/SCAG/scag01-20.webp|center|200]]
+![[Assets/SCAG/scag01-20.webp|center|200]]
 
 Lliira is a beloved goddess, a deity of contentment, release, joy, happiness, dance, and freedom. As the patron of festivals, she is honored at any celebration, and dance is the primary way to worship her. The Mistress of Revels is said to abhor violence, and any fighting or drawing of weapons (except in ceremony) at a celebration will cause her to withhold her favor. Her priests and priestesses, known as joybringers, take it as their mission to make other people happy, even if just for a moment.
 
@@ -1171,7 +1171,7 @@ Lliira's followers aren't frivolous, however. To them, divine joy is a very real
 
 *The maiden of pain, the scourge mistress, the willing whip*
 
-![[4 Assets/SCAG/scag01-21.webp|center|200]]
+![[Assets/SCAG/scag01-21.webp|center|200]]
 
 Pain isn't a means to an end for Loviatar's faithful, but an end unto itself. To them, nothing is as transcendent as suffering, and all pain is holy, from the crudest barbarism, to the most sublime torture, to the emotional suffering of the heartbroken or the betrayed.
 
@@ -1185,7 +1185,7 @@ Worshipers of Loviatar rarely gather in numbers except in the more populous citi
 
 *The Beastlord, the black-blooded one*
 
-![[4 Assets/SCAG/scag01-22.webp|center|200]]
+![[Assets/SCAG/scag01-22.webp|center|200]]
 
 Malar epitomizes the dark side of nature, the world that is red in tooth and claw. His faithful believe the hunt is the center point between life and death—the facing off of hunter and prey, forcing the issue of who lives and who dies. People believe that Malar can't be propitiated and knows no mercy, so he receives prayers only from those engaging in a hunt. Such supplicants pray to Malar for two reasons: to beg the aid of his peerless skill as a hunter, or to adopt his fearsome mantle and thus ward off other predators. Malar is the god of those who delight in the hunt, don't shy from bloodshed, and savor the fear of their prey.
 
@@ -1195,7 +1195,7 @@ Many lycanthropes consider Malar to be their divine father, as do some other int
 
 *The lord of shadows, the master of all thieves*
 
-![[4 Assets/SCAG/scag01-23.webp|center|200]]
+![[Assets/SCAG/scag01-23.webp|center|200]]
 
 Mask is a trickster god, the patron of ne'er-do-wells, spies, and thieves. All that occurs within shadow is in the purview of Mask. People whisper a prayer to Mask whenever stealth is required or intrigue is afoot. Courtiers and diplomats invoke the god's name in hopes of a smooth negotiation.
 
@@ -1207,7 +1207,7 @@ Priests of Mask are usually thieves by profession, and often serve as higher-ups
 
 *Our lady of the forest, the forest queen*
 
-![[4 Assets/SCAG/scag01-24.webp|center|200]]
+![[Assets/SCAG/scag01-24.webp|center|200]]
 
 People rarely speak of Mielikki except in quiet forest spaces. Woodlands that evoke wonder are where she reigns supreme, but she is said to keep watch over good folk in any forest, not matter how dark or cruel. When children are lost in the woods, people beseech Mielikki to protect them until they are found.
 
@@ -1233,7 +1233,7 @@ Like Deneir, Milil is sometimes thought of as being in service to Oghma. In thes
 
 *The lord of bones, old lord skull, the reaper*
 
-![[4 Assets/SCAG/scag01-25.webp|center|200]]
+![[Assets/SCAG/scag01-25.webp|center|200]]
 
 Myrkul is an ancient god, one of three former mortals who were raised to deityhood when Jergal grew weary of his divine duties and distributed his influence between them. Myrkul became the god of death and the dead, and ruled over the City of the Dead for centuries until he, in turn, was slain. In time Myrkul returned, for can death itself truly ever die? Myrkul's faithful see him as the Reaper, who lays claim to souls and brings them to Kelemvor to be judged.
 
@@ -1245,7 +1245,7 @@ Shrines to Myrkul or engravings of his holy symbol appear in many places where h
 
 *The lady of mysteries, our lady of spells, the mother of all magic*
 
-![[4 Assets/SCAG/scag01-26.webp|center|200]]
+![[Assets/SCAG/scag01-26.webp|center|200]]
 
 Mystra is the goddess of magic, and with that the goddess of possibilities. She is venerated by mages and by those who use magic or magical objects in their daily lives. She also receives the prayers of those who find magic wondrous or encounter magic they fear. Mystra is the goddess of the essential force that makes all spellcasting possible. She provides and tends the Weave, the conduit through which mortal spellcasters and magical crafters can safely access the raw force of magic.
 
@@ -1255,7 +1255,7 @@ The faith of Mystra is pervasive in Faerûn, which is to be expected for a land 
 
 *The binder, the lord of knowledge*
 
-![[4 Assets/SCAG/scag01-27.webp|center|200]]
+![[Assets/SCAG/scag01-27.webp|center|200]]
 
 Oghma is the god of inspiration, invention, and knowledge. Above all else, Oghma represents knowledge in its most supreme, raw form—the idea. An aphorism cited by his faithful about this concept serves them as a prayer when it is repeated aloud: "An idea has no heft but it can move mountains. An idea has no authority but it can dominate people. An idea has no strength but it can push aside empires. Knowledge is the greatest tool of the mortal mind, outweighing anything made by mortal hands. Before anything else can exist, the idea must exist."
 
@@ -1267,7 +1267,7 @@ Folk of many professions favor the Binder: wizards, cartographers, artists, bard
 
 *The lady of strategy, the crimson general, the grandmaster of the lanceboard*
 
-![[4 Assets/SCAG/scag01-28.webp|center|200]]
+![[Assets/SCAG/scag01-28.webp|center|200]]
 
 The Red Knight is the goddess of planning and strategy. Those who favor her call themselves the Red Fellowship. They believe wars are won by the best planning, strategy, and tactics. The worship of the Red Knight is filled with doctrine about strategy, such as: "Every war is a series of battles. Losing one doesn't mean losing the war." "In war, plan for peace. In peace, plan for war." "Seek allies among your enemy's enemies."
 
@@ -1279,7 +1279,7 @@ Today, followers of the Red Knight can be found in nearly any land that has seen
 
 *The all-seeing, the third eye, divination's lord*
 
-![[4 Assets/SCAG/scag01-29.webp|center|200]]
+![[Assets/SCAG/scag01-29.webp|center|200]]
 
 Savras is a god of divination and fortunetelling. Few people worship him, but many pray to him when performing small rituals of foresight. For example, young men and women sometimes attempt to divine the names of their future spouses by saying a rhyming chant that calls upon Savras while gazing in a mirror.
 
@@ -1289,7 +1289,7 @@ Savras has no currently active temples in Faerûn, and his shrines are few and f
 
 *Our lady of silver, the Moonmaiden, the night white lady*
 
-![[4 Assets/SCAG/scag01-30.webp|center|200]]
+![[Assets/SCAG/scag01-30.webp|center|200]]
 
 Selûne is thought to be among the most ancient of Faerûn's deities. Most humans in Faerûn consider the moon in the sky to literally be the goddess gazing down on the world, and the trailing motes of light behind it her tears. She is also a goddess of stars and navigation as well as motherhood and reproductive cycles. She is seen as a calm power, frequently venerated by female humans as well as by a mix of other folk: navigators and sailors, those who work honestly at night, those seeking protection in the dark, the lost, and the questing.
 
@@ -1309,7 +1309,7 @@ Shar is revered by those who must venture into dark places and so pray to her fo
 
 *Oak father, the old oak, old father tree*
 
-![[4 Assets/SCAG/scag01-31.webp|center|200]]
+![[Assets/SCAG/scag01-31.webp|center|200]]
 
 Silvanus represents the entirety of nature, deserts as well as forests, sharks as much as deer. But folk in the North, who contend with the dangers of forests, mountains, and plains, see Silvanus more as a god of those places. Silvanus is thought of as a grim and severe father figure who metes out flood and drought, fire and ice, and life and death in the wilderness. In legends he often commands other nature deities, dealing out rewards and punishments to them as is fitting.
 
@@ -1323,7 +1323,7 @@ Silvanus often receives veneration from travelers in wild lands, explorers, and 
 
 *Lady Firehair, the lady of love, the princess of passion*
 
-![[4 Assets/SCAG/scag01-32.webp|center|200]]
+![[Assets/SCAG/scag01-32.webp|center|200]]
 
 Sune Firehair is a deity of passion and the delights of the senses. She is the goddess of beauty in all its forms—not just pleasing sights, but also enchanting sounds, luxurious tastes and scents, and the exquisite pleasures of the flesh, from a lover's caress to the brush of silk on the skin. Her worshipers seek out these pleasures in life, not out of mere decadence, but because the experience of pleasure is the touch of Sune herself.
 
@@ -1339,7 +1339,7 @@ Temples dedicated to Sune are common in human lands, and they frequently serve a
 
 *Lady of poison, mistress of disease, the plague-crone*
 
-![[4 Assets/SCAG/scag01-33.webp|center|200]]
+![[Assets/SCAG/scag01-33.webp|center|200]]
 
 One of the most often beseeched of Faerûn's deities, Talona is the goddess of disease and poison, blamed for everything from common illnesses to crop failure to brackish wells to plague. Depicted in temple iconography as a withered crone with a cup or a vase that holds all the varieties of disease and poison, Talona is a fearsome goddess, and many are the prayers that beg her for protection from illness and poison. Various rituals to placate her involve the use of three drops of blood or three tears—to be dropped into a well that has gone bad, dripped into the handkerchief of someone beset by coughing, dropped into a fire made by burning a withered crop, dripped into the mouth of a plague sufferer, and so on. It's common practice to mark a container of poison with her holy symbol, three droplets in a triangle, and during epidemics folk paint the same image on the homes of the infected.
 
@@ -1349,7 +1349,7 @@ Though she is often the recipient of prayers, Talona has almost no temples and f
 
 *Stormlord, the destroyer*
 
-![[4 Assets/SCAG/scag01-34.webp|center|200]]
+![[Assets/SCAG/scag01-34.webp|center|200]]
 
 Talos is the dark side of nature, the uncaring and destructive force that might strike at any time. He is the god of storms, forest fires, earthquakes, tornadoes, and general destruction. He counts the ravager, the raider, the looter, and the brigand among his followers. Those who favor him see life as a succession of random effects in a sea of chaos, so the devout should grab what they can, when they can—for who can say when Talos will strike and send them into the afterlife?
 
@@ -1361,7 +1361,7 @@ Although Talos is a popular deity, his name is invoked more often out of fear th
 
 *The Foehammer, the lord of battles*
 
-![[4 Assets/SCAG/scag01-35.webp|center|200]]
+![[Assets/SCAG/scag01-35.webp|center|200]]
 
 Tempus is a war god concerned with brave conduct during war, using force of arms over talk for settling disputes, and encouraging bloodshed. The god of war is random in his favors, meaning that his chaotic nature favors all sides equally. Lord Tempus might be an army's ally one day, and its enemy the next. He might seem to manifest before a battle, appearing to one side or the other. If he is seen riding a white mare (Veiros), then the army will succeed. If he rides a black stallion (Deiros), then defeat is certain. Most often he appears to be riding with one foot in each mount's stirrup, signifying the unpredictable nature of battle. In such visions, Tempus is always a powerfully built warrior dressed for battle in the style of those who envision him.
 
@@ -1373,7 +1373,7 @@ Worshipers of Tempus are legion, and his name is often on the lips of soldiers. 
 
 *The loyal fury, the true, the hand of righteousness*
 
-![[4 Assets/SCAG/scag01-36.webp|center|200]]
+![[Assets/SCAG/scag01-36.webp|center|200]]
 
 Torm is the god of duty and loyalty, revered by those who face danger to bring about a greater good. Those who favor Torm believe that one's salvation can be found through service, that every failure to perform one's duty diminishes Torm, and that every success adds to his luster. Those who take Torm to heart must strive to fulfill his commandment to go out into the world and be an active force for good, to right wrongs, and to help the hopeless. They must strive to maintain peace and order while opposing unjust laws. Followers of Torm stand ever alert against corruption and are expected to strike quickly and hard against any evidence of rot in the hearts of mortals. As the sword arm of justice, Torm's faithful are expected to bring quick deaths to betrayers. Considering these tenets, it should be no surprise that most human paladins have Torm as their patron.
 
@@ -1410,7 +1410,7 @@ Priests of Tymora and temples devoted to Lady Luck are scarce, since her faith t
 
 *Grimjaws, the maimed god, the evenhanded*
 
-![[4 Assets/SCAG/scag01-37.webp|center|200]]
+![[Assets/SCAG/scag01-37.webp|center|200]]
 
 Tyr Grimjaws, Tyr the Evenhanded, Wounded Tyr, the Maimed God, the Blind, Blind Tyr, the Lord of Justice—all of these names speak to the nature of the Faerûnian god of justice. Tyr appears as a noble warrior missing his right hand, which he lost to Kezef the Chaos Hound in an act of bravery and sacrifice, and with his eyes wrapped in cloth to signify his blindness, caused by a wound dealt to him by Ao when he questioned the justice of the Overgod's actions.
 
@@ -1422,7 +1422,7 @@ Many orders of knighthood are devoted to Tyr, including the Knights of Holy Judg
 
 *The bitch queen, the queen of the depths, the Wavemother*
 
-![[4 Assets/SCAG/scag01-38.webp|center|200]]
+![[Assets/SCAG/scag01-38.webp|center|200]]
 
 No community that lives by the sea can ignore the influence of Umberlee, the furious goddess whose tempestuous nature reflects and is reflected by the waters of the deep. Any such community makes sure to host festivals to propitiate the Wavemother and seek her favor. Although mercurial in temperament, she can be generous to those who do her honor, as is any great queen.
 
@@ -1434,7 +1434,7 @@ There is little in the way of an organized clergy of Umberlee. Her priests roam 
 
 *Our lady of gold, the Coinmaiden, the merchant's friend*
 
-![[4 Assets/SCAG/scag01-39.webp|center|200]]
+![[Assets/SCAG/scag01-39.webp|center|200]]
 
 Waukeen is the goddess of wealth and trade, on both sides of the law. Her most ardent worshipers include shopkeepers, members of trading costers, wealthy merchants, caravan guides, itinerant peddlers, moneychangers, and smugglers. She is interested in anything that increases trade and the flow of money, whether new trade routes, new inventions, or the whim of changing fashion. Those who take Waukeen as a patron can be reliably thought of as greedy, but the Coinmaiden is said to frown upon misers and smile upon the industrious and the profligate, and thus priests who bear her holy symbol find themselves welcome in many towns and cities.
 

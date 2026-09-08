@@ -9,7 +9,7 @@ publish: true
 tags:
   - "#Item"
 status: in use
-art: "[[4 Assets/Silentstone.webp]]"
+art: "[[Assets/Silentstone.webp]]"
 item_type: Wondrous item
 rarity: Very Rare
 current_holder: "[[Campaigns/Faldara/People/Fineks|Fineks]]"
@@ -20,7 +20,7 @@ last_updated: Session 015
 # Silentstone
 
 > [!infobox]+ Silentstone
-> ![[4 Assets/Silentstone.webp]]
+> ![[Assets/Silentstone.webp]]
 > | | |
 > | --- | --- |
 > | **Type** | Wondrous item |

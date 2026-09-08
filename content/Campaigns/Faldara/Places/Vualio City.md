@@ -11,7 +11,7 @@ tags:
   - "#Location"
   - "#Settlement"
 status: active
-art: "[[4 Assets/vualio no districts.png]]"
+art: "[[Assets/vualio no districts.png]]"
 location_type: Metropolis
 parent_location: Faldara
 authority: Kingdom of Vualio
@@ -27,7 +27,7 @@ last_updated: Session 006
 # Vualio City
 
 > [!infobox]+ Vualio City
-> ![[4 Assets/vualio no districts.png]]
+> ![[Assets/vualio no districts.png]]
 > | | |
 > | --- | --- |
 > | **Pronounced** | voo-AHL-ee-oh |
@@ -45,7 +45,7 @@ The city is arranged in a broad circular pattern with major gates, bridges, dist
 
 ## City Map
 
-![[4 Assets/vualio districts.png]]
+![[Assets/vualio districts.png]]
 
 ## Masks and Religion
 

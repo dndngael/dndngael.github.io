@@ -11,7 +11,7 @@ tags:
   - "#Character"
   - "#Mystery"
 status: unknown
-art: "[[4 Assets/Velmian.png]]"
+art: "[[Assets/Velmian.png]]"
 pronouns: He/Him
 ancestry: High Elf Spirit
 age: "Ancient; appears as a child"
@@ -22,7 +22,7 @@ last_updated: Session 019
 # Velmian
 
 > [!infobox]+ Velmian
-> ![[4 Assets/Velmian.png]]
+> ![[Assets/Velmian.png]]
 > | | |
 > | --- | --- |
 > | **Pronounced** | VEHL-mee-ihn |

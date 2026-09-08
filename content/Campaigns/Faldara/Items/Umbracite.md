@@ -11,7 +11,7 @@ tags:
   - "#Item"
   - "#Mystery"
 status: discovered
-art: "[[4 Assets/Umbracite.png]]"
+art: "[[Assets/Umbracite.png]]"
 item_type: Strange crystalline material
 rarity: Mythic
 first_seen: Session 014
@@ -21,7 +21,7 @@ last_updated: Session 015
 # Umbracite
 
 > [!infobox]+ Umbracite
-> ![[4 Assets/Umbracite.png]]
+> ![[Assets/Umbracite.png]]
 > | | |
 > | --- | --- |
 > | **Type** | Strange crystalline material |

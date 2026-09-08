@@ -10,7 +10,7 @@ tags:
   - "#Character"
   - "#NPC"
 status: active
-art: "[[4 Assets/Astra.png]]"
+art: "[[Assets/Astra.png]]"
 pronouns: He/Him
 ancestry: Drow Elf
 age: Adult
@@ -26,7 +26,7 @@ last_updated: Session 019
 # Astra
 
 > [!infobox]+ Astra
-> ![[4 Assets/Astra.png]]
+> ![[Assets/Astra.png]]
 > | | |
 > | --- | --- |
 > | **Ancestry** | Drow Elf |

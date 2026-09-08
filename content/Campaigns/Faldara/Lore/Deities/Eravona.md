@@ -11,7 +11,7 @@ publish: true
 tags:
   - "#Deity"
 status: worshiped
-art: "[[4 Assets/Eravona.png]]"
+art: "[[Assets/Eravona.png]]"
 pronouns:
   - She/Her
   - They/Them
@@ -27,7 +27,7 @@ symbol: Trident crossing a bolt of lightning
 # Eravona
 
 > [!infobox]+ Eravona
-> ![[4 Assets/Eravona.png]]
+> ![[Assets/Eravona.png]]
 > | | |
 > | --- | --- |
 > | **Pronounced** | air-ah-VOH-nah |

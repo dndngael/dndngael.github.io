@@ -10,7 +10,7 @@ tags:
   - "#Character"
   - "#NPC"
 status: active
-art: "[[4 Assets/LurviusWithMask.png]]"
+art: "[[Assets/LurviusWithMask.png]]"
 pronouns: He/Him
 ancestry: Eladrin Elf
 age: Adult
@@ -24,7 +24,7 @@ last_updated: Session 019
 # Lurvius
 
 > [!infobox]+ Lurvius
-> ![[4 Assets/LurviusWithMask.png]]
+> ![[Assets/LurviusWithMask.png]]
 > | | |
 > | --- | --- |
 > | **Pronounced** | loor-VEE-oos |

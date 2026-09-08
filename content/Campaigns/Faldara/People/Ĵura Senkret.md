@@ -14,7 +14,7 @@ tags:
   - "#Character"
   - "#NPC"
 status: active
-art: "[[4 Assets/Ĵura.png]]"
+art: "[[Assets/Ĵura.png]]"
 pronouns: He/Him
 ancestry: Human
 age: Mature Adult
@@ -29,7 +29,7 @@ last_updated: Session 019
 # Ĵura Senkret
 
 > [!infobox]+ Ĵura Senkret
-> ![[4 Assets/Ĵura.png]]
+> ![[Assets/Ĵura.png]]
 > | | |
 > | --- | --- |
 > | **Pronounced** | JXOO-ruh SEHN-kret |

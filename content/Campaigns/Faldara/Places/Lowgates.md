@@ -10,7 +10,7 @@ tags:
   - "#Location"
   - "#District"
 status: active
-art: "[[4 Assets/lowgates.png]]"
+art: "[[Assets/lowgates.png]]"
 location_type: District
 parent_location: "[[Campaigns/Faldara/Places/Vualio City|Vualio City]]"
 first_seen: Session 001
@@ -20,7 +20,7 @@ last_updated: Session 006
 # Lowgates
 
 > [!infobox]+ Lowgates
-> ![[4 Assets/lowgates.png]]
+> ![[Assets/lowgates.png]]
 > | | |
 > | --- | --- |
 > | **Type** | District |

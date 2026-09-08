@@ -10,7 +10,7 @@ tags:
   - "#Character"
   - "#NPC"
 status: active
-art: "[[4 Assets/Fineks.png]]"
+art: "[[Assets/Fineks.png]]"
 pronouns: She/Her
 ancestry: Tiefling
 age: Young Adult
@@ -26,7 +26,7 @@ last_updated: Session 019
 # Fineks
 
 > [!infobox]+ Fineks
-> ![[4 Assets/Fineks.png]]
+> ![[Assets/Fineks.png]]
 > | | |
 > | --- | --- |
 > | **Pronounced** | FEE-niks |
