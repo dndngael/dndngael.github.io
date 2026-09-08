@@ -1,5 +1,5 @@
 ---
-title: Faldara Groups
+title: Groups
 campaign: Faldara
 note_type: index
 visibility: player
