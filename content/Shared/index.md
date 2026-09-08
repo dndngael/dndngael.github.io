@@ -11,7 +11,5 @@ These notes apply across campaigns.
 
 - [[Shared/Table Rules|Table Rules]]
 - [[Shared/House Rules|House Rules]]
-- [[Shared/Character Creation|Character Creation]]
-- [[Shared/Scheduling|Scheduling]]
 
 Return to [[index|D&D Campaign Notes]].
