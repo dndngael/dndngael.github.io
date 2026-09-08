@@ -1,5 +1,5 @@
 ---
-title: Deities of Faldara
+title: Deities
 campaign: Faldara
 note_type: index
 visibility: player
