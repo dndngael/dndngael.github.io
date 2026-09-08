@@ -38,7 +38,6 @@ The latest fully documented events take place deep inside [[Campaigns/Faldara/Pl
 
 See [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]] for the current cliffhanger.
 
-## Shared Table Info
+## House Rules
 
-- [[Shared/Table Rules|Table Rules]]
-- [[Shared/House Rules|House Rules]]
+- [[House Rules|House Rules]]
