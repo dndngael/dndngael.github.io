@@ -1,5 +1,5 @@
 ---
-title: Faldara Session Recaps
+title: Sessions
 campaign: Faldara
 note_type: index
 visibility: player
