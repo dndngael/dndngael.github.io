@@ -37,7 +37,8 @@ tags:
 - [[Campaigns/Faldara/Sessions/Session 017 - A Symphony of Headaches|Session 17: A Symphony of Headaches]]
 - [[Campaigns/Faldara/Sessions/Session 018 - The Moss Collector Massacre|Session 18: The Moss Collector Massacre]]
 - [[Campaigns/Faldara/Sessions/Session 019 - The Sad Water and the Spicy Air|Session 19: The Sad Water and the Spicy Air]]
-- Sessions 20-21: archival recap gap. Existing files are mostly DM prep and do not reliably record the actual play. Faylen's defeat is established by the beginning of Session 22.
+- [[Campaigns/Faldara/Sessions/Session 020 - All Choices Echo|Session 20: All Choices Echo]]
+- Session 21: archival recap gap. Faylen's defeat is established by the beginning of Session 22, but the surviving record does not yet reliably preserve the confrontation itself.
 - [[Campaigns/Faldara/Sessions/Session 022 - The Rift Crisis|Session 22: The Rift Crisis]]
 - Sessions 23-24: legacy files exist but contain no substantive event record.
 
