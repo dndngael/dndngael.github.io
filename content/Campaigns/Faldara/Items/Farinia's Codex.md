@@ -11,7 +11,7 @@ tags:
   - "#Artifact"
 status: found
 first_seen: Session 015
-last_updated: Session 019
+last_updated: Session 020
 ---
 
 # Farinia's Codex
@@ -24,4 +24,10 @@ Nephil asked the party to recover the Codex in exchange for the [[Campaigns/Fald
 
 After navigating Tur'Farinil's puzzles and discovering the hidden library, the party finally recovered the Codex in Session 19.
 
-What knowledge the Codex contains, and what Nephil can learn from it, remains an important unanswered question.
+In Session 20, Nephil discovered that the Codex contained a clue about an atrium that would yield to a tune beginning at its root, along with words hidden in its margins. Rearranging those words produced the phrase:
+
+**Don't ever forget. All choices echo.**
+
+[[Campaigns/Faldara/People/Velmian|Velmian]] recognized the words as part of the Farinia song associated with the **D-E-F-A-C-E** melody. Performing the completed song caused a concealed wall in the library to fold away like turning pages, revealing a staircase into a previously unreachable courtyard.
+
+What other knowledge the Codex contains, and what Nephil can learn from it, remains an important unanswered question.
