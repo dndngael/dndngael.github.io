@@ -46,6 +46,12 @@ Before meeting the group, Lheani had been trapped in the temple for roughly five
 
 The party freed him while navigating the temple's early chambers, and he continued deeper into Tur'Farinil with them.
 
+## Tur'Farinil
+
+In Session 20, Lheani was the first to detect open space behind an apparently solid wall in [[Campaigns/Faldara/Places/Tur'Farinil's Library|the Great Library]]. After the party opened the hidden route, he poured water into a pair of silver and gold altar bowls in the pristine courtyard beyond, revealing reflections of Faldara's twin moons.
+
+When [[Campaigns/Faldara/People/Velmian|Velmian]] remembered that Farinia used to meditate there, Lheani tried it first. He encountered a mysterious long-haired, robed being bearing an hourglass symbol, who asked to speak with the whole group rather than Lheani alone.
+
 ## Current Status
 
 In the latest documented events, Lheani is helping the group deal with [[Campaigns/Faldara/Threads/The Rift Crisis|the rift crisis]] after Faylen's defeat.
