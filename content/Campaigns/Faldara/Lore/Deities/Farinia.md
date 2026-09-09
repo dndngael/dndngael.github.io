@@ -21,7 +21,7 @@ domains:
   - Fate
 symbol: Hourglass
 first_seen: Session 006
-last_updated: Session 019
+last_updated: Session 020
 ---
 
 # Farinia
@@ -57,5 +57,7 @@ Farinia has become one of the most important deities in the party's current inve
 - Farinia's riddle guided the party through the early mysteries of the temple.
 - Music, memory, time, resonance, tapestries, and ancient ritual recur throughout Tur'Farinil.
 - The party recovered [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]] from the temple's hidden library.
+- Words recovered from the Codex completed a song Velmian remembered Farinia singing: **"Don't ever forget. All choices echo."**
+- Velmian remembered Farinia meditating in a pristine hidden courtyard within Tur'Farinil. When Lheani meditated there, he encountered a mysterious robed being marked with an hourglass symbol. The session ended before the party learned the figure's identity.
 
 See [[Campaigns/Faldara/Lore/The Riddle of Tur'Farinil|The Riddle of Tur'Farinil]].
