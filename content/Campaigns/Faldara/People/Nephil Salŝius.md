@@ -19,7 +19,7 @@ affiliations:
   - The Nivela Institute
 current_location: "[[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]"
 first_seen: Session 012
-last_updated: Session 019
+last_updated: Session 020
 ---
 
 # Nephil Salŝius
@@ -51,4 +51,4 @@ He also possessed [[Campaigns/Faldara/Items/Silentstone|Silentstone]], a materia
 
 Nephil agreed to give the party use of Silentstone if they helped him recover [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]], an ancient crystal archive believed to store information through psychic frequencies. The party eventually found the Codex inside [[Campaigns/Faldara/Places/Tur'Farinil's Library|Tur'Farinil's hidden library]].
 
-Nephil confirmed the artifact by listening to its resonance.
+Nephil confirmed the artifact by listening to its resonance. In Session 20, his continued study of the Codex uncovered a clue about an atrium and words hidden in its margins. Those clues helped the party complete the Farinia song **"Don't ever forget. All choices echo"** and open a concealed route beyond the library.
