@@ -34,6 +34,10 @@ The party has encountered:
 - Ancient tapestries referencing [[Campaigns/Faldara/Lore/The Dyad War|the Dyad War]], [[Campaigns/Faldara/People/Velmian|Velmian]], and three mysterious altars.
 - A sequence of runestones spelling **D-E-F-A-C-E**. Playing the melody from its root note opened the path deeper into the temple.
 - [[Campaigns/Faldara/Places/Tur'Farinil's Library|the Great Library]], hidden deep beneath the temple.
+- A second use of the DEFACE melody, completed with the lyric **"Don't ever forget. All choices echo,"** which opened a concealed wall in the library.
+- A previously unreachable open-air courtyard that appeared impossibly pristine. Its plants were manicured, bugs stood motionless, and the stars did not match the night sky from when the party entered the temple.
+- A large altar in that courtyard with silver and gold bowls. Water poured into them reflected Farin as full and Zil as a waning crescent.
+- A meditative encounter begun in the courtyard with a mysterious robed figure bearing an hourglass symbol. The session ended before the party learned the figure's identity.
 - A rift associated with the creatures attacking Arbaroŝirm and with [[Campaigns/Faldara/People/Faylen Nemyris|Faylen's]] work.
 
 ## Current Status
