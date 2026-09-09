@@ -13,7 +13,7 @@ tags:
   - "#Library"
 status: discovered
 first_seen: Session 019
-last_updated: Session 019
+last_updated: Session 020
 ---
 
 # Tur'Farinil's Library
@@ -29,5 +29,8 @@ Endless shelves of old books rise into the darkness, carrying the smell of dust,
 - Hidden chambers were concealed behind movable bookshelves.
 - The party recovered [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]] here for [[Campaigns/Faldara/People/Nephil Salŝius|Nephil]].
 - One hidden section contained a surprisingly extensive collection of interdimensional erotica, because ancient libraries apparently contain multitudes.
+- The party realized that one apparently solid stone wall had open space beyond it.
+- Clues from Farinia's Codex tied that hidden route to the **D-E-F-A-C-E** melody and the lyric **"Don't ever forget. All choices echo."**
+- Performing the completed song caused the wall to fold away like rapidly turning pages, revealing stairs into a previously unreachable open-air courtyard.
 
-The library turned the party's questions about Happy, Velmian, and the distant past into much larger mysteries.
+The library turned the party's questions about Happy, Velmian, and the distant past into much larger mysteries, and ultimately became the gateway to an even stranger preserved section of the temple.
