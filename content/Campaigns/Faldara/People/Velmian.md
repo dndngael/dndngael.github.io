@@ -16,7 +16,7 @@ pronouns: He/Him
 ancestry: High Elf Spirit
 age: "Ancient; appears as a child"
 first_seen: Session 011
-last_updated: Session 019
+last_updated: Session 020
 ---
 
 # Velmian
@@ -38,6 +38,14 @@ last_updated: Session 019
 Velmian is the name used by a small, slightly glowing, child-shaped spirit first encountered in an abandoned inn in [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]. He does not wear a mask and claims to remember the area from an impossibly long time ago.
 
 Velmian remembers [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]] as a place associated with Farinia before "weird people" arrived wearing masks. He dislikes Vual and speaks about ancient events with the unreliable sense of time one might expect from a ghost who says things happened a "million billion years ago."
+
+## Farinia and the Old Song
+
+Velmian recognized the **D-E-F-A-C-E** melody as a song Farinia used to sing. In Session 20, words recovered from [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]] completed the remembered lyric:
+
+**Don't ever forget. All choices echo.**
+
+When the song opened a hidden route into an impossibly pristine courtyard, Velmian said the place felt familiar and remembered Farinia meditating there.
 
 ## Lurvius
 
