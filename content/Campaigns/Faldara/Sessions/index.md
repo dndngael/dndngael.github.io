@@ -38,7 +38,7 @@ tags:
 - [[Campaigns/Faldara/Sessions/Session 018 - The Moss Collector Massacre|Session 18: The Moss Collector Massacre]]
 - [[Campaigns/Faldara/Sessions/Session 019 - The Sad Water and the Spicy Air|Session 19: The Sad Water and the Spicy Air]]
 - [[Campaigns/Faldara/Sessions/Session 020 - All Choices Echo|Session 20: All Choices Echo]]
-- Session 21: archival recap gap. Faylen's defeat is established by the beginning of Session 22, but the surviving record does not yet reliably preserve the confrontation itself.
+- [[Campaigns/Faldara/Sessions/Session 021 - Unmake Faylen, Go|Session 21: Unmake Faylen, Go]]
 - [[Campaigns/Faldara/Sessions/Session 022 - The Rift Crisis|Session 22: The Rift Crisis]]
 - Sessions 23-24: legacy files exist but contain no substantive event record.
 
