@@ -13,12 +13,9 @@ quicknote: "Immediately after Faylen's defeat, her stone began moving toward the
 
 # Session Recap: The Rift Crisis
 
-> [!note]
-> Session 20 has now been reconstructed from an actual-play transcript and ends with the party meditating in Tur'Farinil's hidden courtyard. Session 21 remains an archival gap. The surviving record establishes that [[Campaigns/Faldara/People/Faylen Nemyris|Faylen]] had been defeated before Session 22 began, but the confrontation itself is not yet reliably preserved.
-
 ## Previously
 
-Faylen had been defeated in the rift chamber, but the rift itself remained open.
+In [[Campaigns/Faldara/Sessions/Session 021 - Unmake Faylen, Go|Session 21]], the party defeated [[Campaigns/Faldara/People/Faylen Nemyris|Faylen]], freed Lurvius, Ĵura, and Astra from the strange influence affecting them, and ended with Happy holding Faylen's Moon's Tear while the surviving Vesperaŝ focused on it. The rift itself remained open.
 
 ## What Happened
 
