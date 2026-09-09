@@ -42,7 +42,7 @@ Faylen Nemyris was a charismatic preacher and researcher associated with the [[C
 
 Her elegant silver-and-gold mask represented the two moons, with a full silver Farin on one side and a golden crescent Zil on the other. Faint red lines ran across its surface.
 
-Faylen carried a dark stone with a pulsing red light that she called a **Moon's Tear**. Her certainty about the stone and the rift became one of the party's central concerns.
+Faylen carried a dark stone with a pulsing red light that she called a [[Campaigns/Faldara/Items/Moon's Tear|Moon's Tear]]. Her certainty about the stone and the rift became one of the party's central concerns.
 
 ## The Rift
 
@@ -50,8 +50,16 @@ Faylen showed Happy and Alvin a hidden route into Tur'Farinil and argued that th
 
 Her stone could resonate with creatures associated with the temple, and one of the smaller stones she gave Alvin harmed him when he touched it directly.
 
-## Fate
+## Final Confrontation
 
-The party's investigation eventually became a direct confrontation with Faylen inside Tur'Farinil. By the beginning of the latest documented session, Faylen had been defeated and was dead.
+In [[Campaigns/Faldara/Sessions/Session 021 - Unmake Faylen, Go|Session 21]], the party fought Faylen near the rift alongside two Vesperaŝ.
 
-The consequences of her work did not end with her. See [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]].
+Faylen called for "Believers of the Twin Light," and [[Campaigns/Faldara/People/Lurvius|Lurvius]], [[Campaigns/Faldara/People/Ĵura Senkret|Ĵura]], and [[Campaigns/Faldara/People/Astra|Astra]] appeared while under a strange influence that caused them to fight the party. Each eventually returned to himself after the party reached him through personal memories or emotional appeals.
+
+Faylen continued insisting that Farin guided her and used moon-associated magic against the group. During the fight, the party debated whether the old command that "one who believes must be unmade" truly meant Faylen had to die or whether it might mean something else.
+
+Alvin eventually incapacitated Faylen long enough for Paul to remove her Moon's Tear. The party continued the fight, and Faylen was killed.
+
+Her death did not end the strange events around the rift. The Vesperaŝ immediately focused on whoever held the Moon's Tear, and the rift remained open.
+
+See [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]].
