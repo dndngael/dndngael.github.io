@@ -12,7 +12,7 @@ tags:
 status: active
 group_type: Adventuring Party
 first_seen: Session 002
-last_updated: Session 019
+last_updated: Session 021
 ---
 
 # Dawn's Bane
@@ -47,3 +47,11 @@ The two parties first competed against one another during the festival and the f
 They later traveled toward [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] along roughly the same route as You Guys and became increasingly entangled in the same mysteries.
 
 Fineks's illness, Lurvius's resemblance to the ancient figure [[Campaigns/Faldara/People/Velmian|Velmian]], and the dangers of [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]] have made Dawn's Bane much more than simple festival rivals.
+
+### Session 21
+
+During the confrontation with [[Campaigns/Faldara/People/Faylen Nemyris|Faylen]], Lurvius, Ĵura, and Astra appeared through a magical doorway under an apparent outside influence and fought against You Guys. The session does not establish that any of them willingly joined Faylen or the Twinlight Wake.
+
+The party managed to bring all three back to themselves through personal emotional appeals rather than killing them. 27 reached Ĵura through their shared history, Happy reminded Lurvius of Fineks and what mattered to him, and Alvin finally reached Astra by appealing to his considerable sense of self-worth.
+
+Fineks did not take part in the confrontation and was understood to be recovering elsewhere.
