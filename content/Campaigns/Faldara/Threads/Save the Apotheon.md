@@ -12,7 +12,7 @@ tags:
   - "#Quest"
 status: active
 first_seen: Session 006
-last_updated: Session 019
+last_updated: Session 020
 ---
 
 # Save the Apotheon
@@ -28,5 +28,7 @@ His clues led the party from an ancient Narvono prayer site toward Farinia, [[Ca
 - The mask design from the vision resembles the [[Campaigns/Faldara/Items/Mask Piece|fragment]] recovered in the grotto.
 - Tur'Farinil contains ancient imagery involving [[Campaigns/Faldara/People/Velmian|Velmian]], a hero described as "apotheosized."
 - Lurvius, ghost-child Velmian, the ancient hero, and Happy's visions all seem to be part of the same growing mystery.
+- In Session 20, the party reached a pristine hidden courtyard in Tur'Farinil containing an altar closely associated with Farinia. Remembering the Apotheon's claim that he once prayed to the Spinner, they suspected this might be the altar from his plea, but they did not confirm the connection.
+- Meditation in the courtyard led Lheani to a mysterious robed figure bearing an hourglass symbol. The session ended before the party learned who the figure was or what they knew about the Apotheon.
 
 The Apotheon has not yet been rescued, and the party still does not understand the full nature of his imprisonment.
