@@ -14,7 +14,7 @@ quicknote: "Immediately after Faylen's defeat, her stone began moving toward the
 # Session Recap: The Rift Crisis
 
 > [!note]
-> The surviving record establishes that [[Campaigns/Faldara/People/Faylen Nemyris|Faylen]] had already been defeated before this session began. The archival notes for Sessions 20-21 do not reliably preserve the fight itself, so this recap begins with the confirmed aftermath.
+> Session 20 has now been reconstructed from an actual-play transcript and ends with the party meditating in Tur'Farinil's hidden courtyard. Session 21 remains an archival gap. The surviving record establishes that [[Campaigns/Faldara/People/Faylen Nemyris|Faylen]] had been defeated before Session 22 began, but the confrontation itself is not yet reliably preserved.
 
 ## Previously
 
