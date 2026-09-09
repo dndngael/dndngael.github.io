@@ -18,7 +18,9 @@ last_updated: Session 022
 
 The latest fully documented events leave the party in the rift chamber of [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]], immediately after the defeat of [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]].
 
-A strange stone associated with the confrontation began floating toward the still-open rift. Ordinary attempts to hold or block it did not stop its movement.
+At the end of [[Campaigns/Faldara/Sessions/Session 021 - Unmake Faylen, Go|Session 21]], the surviving Vesperaŝ had stopped behaving like straightforward attackers and instead focused on whoever held Faylen's [[Campaigns/Faldara/Items/Moon's Tear|Moon's Tear]]. The rift remained open.
+
+In Session 22, the Moon's Tear began floating toward the rift. Ordinary attempts to hold or block it did not stop its movement.
 
 [[Campaigns/Faldara/People/Paul Seragon|Paul]] grabbed the stone while the others tried to help restrain it. [[Campaigns/Faldara/People/Alvin Draper|Alvin]] focused on the magic of the rift and successfully matched its frequency.
 
@@ -28,7 +30,7 @@ The stone was still moving when the session ended.
 
 ## Immediate Questions
 
-- What happens if the stone reaches the rift?
+- What happens if the Moon's Tear reaches the rift?
 - What is the silver thread?
 - Why does it pass through Paul?
 - Can Alvin's resonance with the rift change what happens next?
