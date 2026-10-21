@@ -11,13 +11,11 @@ date: 2026-03-07
 quicknote: "The party spent a frankly impressive amount of time discussing Paul's ass while trying to stop Faylen's Moon's Tear, then smashed the stone, raided her research, and used Alvin's smaller stone to close the rift."
 ---
 
-# Session Recap: The Rift Crisis
-
-*Or: One Ass to Save the City*
+# Session Recap: One Ass to Save the City
 
 ## The Very Short Version
 
-Faylen was dead, a magical stone was drifting toward a hole in reality, and the party had only a handful of turns to prevent whatever the fuck was about to happen. Naturally, this became an extensive tactical symposium on whether **Paul's ass could save Arbaroŝirm**, featuring discussions of clenching strength, magical attunement, interior dimensions, and whether the stone had a flared base. Somehow, between the butt-related research and the occasional actual good idea, the party smashed the dangerous stone, learned what Faylen had really been working on, and **closed the fucking rift**. The city may someday build them a statue. There are several reasons it should not be anatomically accurate.
+Faylen was dead, a magical stone was drifting toward a hole in reality, and the party had only a handful of turns to prevent whatever the fuck was about to happen. Naturally, this became an extensive tactical symposium on whether **Paul's ass could save Arbaroŝirm**, featuring discussions of clenching strength, magical attunement, interior dimensions, and whether the stone had a flared base. Somehow, between the butt-related research and the occasional actual good idea, the party smashed the dangerous stone, learned what Faylen had really been working on, and **closed the rift**. The city may someday build them a statue. There are several reasons it should not be anatomically accurate.
 
 ## Previously
 
@@ -35,7 +33,7 @@ Then the actual problem asserted itself.
 
 The Moon's Tear floated up out of [[Campaigns/Faldara/People/Happy|Happy]]'s hands and started moving toward the open rift. It wasn't moving particularly fast, but it was moving *steadily*, and nothing suggested it planned to stop for a spirited group discussion.
 
-[[Campaigns/Faldara/People/Paul Seragon|Paul]] grabbed it. [[Campaigns/Faldara/People/Lheani|Lheani]] tried to help. [[Campaigns/Faldara/People/27|27]] turned into an ape to contribute the traditional problem-solving technique known as **more fucking muscle**. The stone kept going, carrying its would-be rescuers along with it.
+[[Campaigns/Faldara/People/Paul Seragon|Paul]] grabbed it. [[Campaigns/Faldara/People/Lheani|Lheani]] tried to help. [[Campaigns/Faldara/People/27|27]] turned into an ape to contribute the traditional problem-solving technique known as **more muscle**. The stone kept going, carrying its would-be rescuers along with it.
 
 The party calculated how far it had to travel and how many turns remained. This was good, practical thinking. It was also the last time the conversation would resemble anything from a respectable emergency-response manual.
 
@@ -53,7 +51,7 @@ These were not revelations about Faldara's cosmology. These were actual subjects
 
 The proposed insertion procedure, mercifully, remained hypothetical. The very real plan was to grab onto Paul and use him for leverage, with Paul proudly offering an assortment of limbs and other potential handholds. The party's collective effort produced some excellent imagery and absolutely no meaningful reduction in the stone's speed.
 
-Someone suggested Paul could save the city with his ass. Someone else proposed that the resulting legend might give him a flying speed. The table was laughing so hard that continuing to play became a challenge in its own right. Someone actually declared, **"This is the best session we've ever had."** Another person announced that their head hurt from laughing. It was, by any reasonable standard, a fucking triumph of collaborative storytelling.
+Someone suggested Paul could save the city with his ass. Someone else proposed that the resulting legend might give him a flying speed. The table was laughing so hard that continuing to play became a challenge in its own right. Emily actually declared, **"This is the best session we've ever had."** Gael announced that their head hurt from laughing. It was, by any reasonable standard, a triumph of collaborative storytelling.
 
 And somewhere in the middle of all this, **the stone was still moving**.
 
@@ -81,11 +79,11 @@ Eventually, Lheani landed a mighty final swing. Faylen's floating Moon's Tear sh
 
 One small issue remained.
 
-The rift was **still fucking open**.
+The rift was **still open**.
 
 ### Looting the evil moon lady's laboratory
 
-With the immediate threat no longer trying to drag everyone across the room, the party had a chance to investigate. Paul took Faylen's beautiful silver-and-gold mask. The red veins that had previously glowed across it were now gone, prompting the entirely fair theory that Faylen's mask had simply run out of RGB lighting. Truly, a fallen gamer.
+With the immediate threat no longer trying to drag everyone across the room, the party had a chance to investigate. Happy took Faylen's beautiful silver-and-gold mask. The red veins that had previously glowed across it were now gone, prompting the entirely fair theory that Faylen's mask had simply run out of RGB lighting. Truly, a fallen gamer.
 
 Happy and 27 began sorting through Faylen's messy notes and celestial charts. They found research into how jagged, pitch-black [[Campaigns/Faldara/Items/Umbracite|Umbracite]] might be transformed into a smoother, almost breathing stone like the Moon's Tear, with the rift supplying power for the process.
 
@@ -101,7 +99,7 @@ Freed from turn-by-turn panic, the party continued experimenting. Alvin tried re
 
 Paul tested the barrier with his body and fists. The barrier remained unconvinced. The group also retrieved Nephil from behind the concealed wall, where he had been studying [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]]. Nephil explained that the temple stood in a place of unusual magical power, but even he didn't have a convenient *Close Portal* button hidden in his scholarly pockets.
 
-[[Campaigns/Faldara/People/Velmian|Velmian]] was around to witness the investigation and seemed understandably baffled by some of the party's methods. Lurvius, Ĵura, and Astra were still recovering from their ordeal with Faylen. Fineks remained elsewhere, also recovering.
+[[Campaigns/Faldara/People/Velmian|Velmian]] was around to witness the investigation and seemed understandably baffled by some of the party's methods. Lurvius, Ĵura, and Astra were still recovering from their ordeal with Faylen.
 
 At last, the party decided to try **putting Alvin's smaller stone directly into the rift** using the staff.
 
@@ -127,7 +125,7 @@ With the crisis over, the party searched Faylen's body and the chamber, distribu
 
 There was also a proposal to set the tapestries on fire, because apparently solving the immediate apocalypse had not exhausted everyone's urge to destroy the scenery. No tapestry-burning actually occurred.
 
-By the end of the night, someone even made sure **all the ass stuff had been recorded** for posterity. Historians of Faldara, please forgive us.
+By the end of the night, Emily even made sure **all the ass stuff had been recorded** for posterity. Historians of Faldara, please forgive us.
 
 Several people began expressing the sincere wish to get the hell out of Tur'Farinil. They had found a route connecting the chamber to the earlier pool area and the outside. But the tapestry question remained, and the party hadn't actually left by the time the session ended.
 
@@ -146,10 +144,10 @@ The rift was gone. The dungeon, unfortunately, was not.
 
 ## People Encountered
 
-- [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]]: Deceased, but still ruining everyone's afternoon through her leftover stone, laboratory, and research. Paul collected her mask.
+- [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]]: Deceased, but still ruining everyone's afternoon through her leftover stone, laboratory, and research. Happy collected her mask.
 - [[Campaigns/Faldara/People/Nephil Salŝius|Nephil Salŝius]]: Eventually released from behind his figurative paywall and reunited with the group after studying the Codex.
 - [[Campaigns/Faldara/People/Velmian|Velmian]]: Present for the group's experiments and still involved in the unanswered mysteries of the temple.
-- [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]: Lurvius, Ĵura, and Astra were recovering nearby. Fineks was not in the chamber.
+- [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]: Lurvius, Ĵura, and Astra were recovering nearby.
 
 ## Places Visited
 
@@ -181,7 +179,7 @@ The rift was gone. The dungeon, unfortunately, was not.
 
 ## Loot, Rewards, and Resources
 
-- **Faylen's silver-and-gold mask**, claimed by Paul. Its previously glowing red lines had vanished.
+- **Faylen's silver-and-gold mask**, claimed by Happy. Its previously glowing red lines had vanished.
 - **Celestial charts and research notes** concerning Umbracite refinement, the rift, and Faylen's proposed amplifier.
 - **Potion of Gaseous Form** and **Potion of Water Breathing**.
 - **Potion of Invisibility**, **Ring of Animal Influence**, and **Ring of Shooting Stars**. The group discussed who would take which ring, but not every final handoff is clear from the recording.
