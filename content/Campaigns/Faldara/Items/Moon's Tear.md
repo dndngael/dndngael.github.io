@@ -9,11 +9,11 @@ dg-publish: true
 publish: true
 tags:
   - "#Item"
-status: active
+status: destroyed
 item_type: Mysterious stone
-current_holder: "[[Campaigns/Faldara/People/Paul Seragon|Paul Seragon]]"
+current_holder:
 first_seen: Session 012
-last_updated: Session 022
+last_updated: Session 023
 ---
 
 # Moon's Tear
@@ -24,8 +24,8 @@ last_updated: Session 022
 > | **Type** | Mysterious stone |
 > | **Associated person** | [[Campaigns/Faldara/People/Faylen Nemyris\|Faylen Nemyris]] |
 > | **Associated place** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
-> | **Current holder** | [[Campaigns/Faldara/People/Paul Seragon\|Paul Seragon]] |
-> | **Status** | Active |
+> | **Current holder** | None (destroyed) |
+> | **Status** | Destroyed |
 > | **First seen** | Session 012 |
 
 The **Moon's Tear** is the name [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]] gave to the dark stone she wore around her neck. A red light pulses within it.
@@ -43,17 +43,14 @@ Faylen believed the stone came from the moon and treated it as an important part
 
 ## Current Status
 
-At the end of Session 21, Paul handed the Moon's Tear to Happy while the Vesperaŝ gathered around him.
+Faylen's **larger Moon's Tear was destroyed** in [[Campaigns/Faldara/Sessions/Session 022 - One Ass to Save the City|Session 22]]. It floated toward the rift despite attempts to restrain it, and Lheani shattered it with his warhammer. The rift remained open until Paul used a staff to press **a separate, smaller stone** previously given to Alvin into it. The smaller stone vanished, and the rift closed.
 
-During [[Campaigns/Faldara/Sessions/Session 022 - The Rift Crisis|Session 22]], the stone began moving toward the still-open rift. Paul grabbed it and tried to hold it back while the party searched for another way to interfere with its movement.
-
-A silver thread of energy then appeared connecting the rift and the stone through or along Paul.
+In Session 23, Grand Duke Seren verified the rift's closure. Neither stone is currently known to remain in the party's possession.
 
 ## Open Questions
 
-- What is the Moon's Tear actually made of?
-- Why does it interact with the Vesperaŝ?
-- What was the voice Paul heard coming from it?
-- Why did an intangible image of the stone appear on a pillar?
-- Why is the stone being drawn toward the rift?
-- What is the silver thread connecting the stone and rift?
+- What was the Moon's Tear made of?
+- Why did the Vesperaŝ follow its holder?
+- Whose voice was heard from it?
+- What happened to the separate smaller stone in the rift?
+- What caused the silver and gold threads seen during the closure?
