@@ -20,7 +20,7 @@ occupation:
 affiliations:
   - "[[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]"
 first_seen: Session 002
-last_updated: Session 023
+last_updated: Session 024
 ---
 
 # Fineks
@@ -58,3 +58,9 @@ See [[Campaigns/Faldara/Threads/Cure Fineks's Discord|Cure Fineks's Discord]].
 At [[Campaigns/Faldara/People/Nephil Salŝius|Nephil]]'s workspace, Fineks heard of a passage in [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]] describing an island associated with Favaro's thumbprint and a numerical pattern. Nephil suggested that visiting the place might help her silenced soul song, although no cure is guaranteed.
 
 Fineks initially doubted [[Campaigns/Faldara/People/27|27]]'s declaration that she is the prophesied Zero. She nevertheless chose to pursue the Codex lead and agreed to travel to [[Campaigns/Faldara/Places/Apeiron|Apeiron]] with [[Campaigns/Faldara/Groups/You Guys|You Guys]] as a temporary companion, intending to discuss her decision with Lurvius first. She remains a member of Dawn's Bane.
+
+## Session 24: Choosing Her Own Number
+
+Fineks departed [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] with [[Campaigns/Faldara/Groups/You Guys|You Guys]] toward [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]] and eventually Apeiron. She challenged the suggestion that her role must be **Zero**, wondering aloud whether it could instead be **infinity**. Neither claim has been verified.
+
+During the roadside encounter at a burning cabin, Fineks used wind magic to clear smoke, rescued an unconscious man, and fought attackers who tried to kill the party. A *Fireball* killed the rescued man, but Fineks brought him back with *Revivify* and healing. The survivor introduced himself as [[Campaigns/Faldara/People/Sev|Sev]] and provided leads about the harbor. Fineks helped Lheani bury two of the fallen attackers. Her suppressed soul song remains an unresolved concern.
