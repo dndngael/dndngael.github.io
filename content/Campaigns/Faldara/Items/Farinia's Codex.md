@@ -11,7 +11,7 @@ tags:
   - "#Artifact"
 status: found
 first_seen: Session 015
-last_updated: Session 020
+last_updated: Session 023
 ---
 
 # Farinia's Codex
@@ -31,3 +31,9 @@ In Session 20, Nephil discovered that the Codex contained a clue about an atrium
 [[Campaigns/Faldara/People/Velmian|Velmian]] recognized the words as part of the Farinia song associated with the **D-E-F-A-C-E** melody. Performing the completed song caused a concealed wall in the library to fold away like turning pages, revealing a staircase into a previously unreachable courtyard.
 
 What other knowledge the Codex contains, and what Nephil can learn from it, remains an important unanswered question.
+
+## Session 23: Favaro's Thumbprint
+
+While continuing his research, [[Campaigns/Faldara/People/Nephil Salŝius|Nephil]] found a passage about an island associated with **Favaro's thumbprint** and the sequence **1, 1, 2, 3, 5, 8, 13**. [[Campaigns/Faldara/People/27|27]] recognized the pattern and believes it points toward his homeland, [[Campaigns/Faldara/Places/Apeiron|Apeiron]]. Nephil hopes its association with Favaro could provide a lead for restoring [[Campaigns/Faldara/People/Fineks|Fineks's]] silenced soul song.
+
+Neither the island's identification nor any cure has been confirmed.
