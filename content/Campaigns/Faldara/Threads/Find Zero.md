@@ -16,7 +16,7 @@ last_updated: Session 024
 
 # Find Zero
 
-[[Campaigns/Faldara/People/27|27]] left his home island seeking a prophesied figure called Zero. The island's current leader is **Eight (8)**, superseding older notes about Seven.
+[[Campaigns/Faldara/People/27|27]] left his home island seeking a prophesied figure called Zero. The island's current leader is **Eight (8)**.
 
 The island is in danger, and 27 was told to seek a prophesied hero called **Zero**, who is believed to be important to saving it.
 
