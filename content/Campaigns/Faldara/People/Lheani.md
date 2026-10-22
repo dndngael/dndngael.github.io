@@ -17,9 +17,9 @@ ancestry: Tortle
 age: Young Adult
 class: Barbarian
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
-current_location: "[[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]"
+current_location: "On the road to Stormwatch Harbor"
 first_seen: Session 016
-last_updated: Session 023
+last_updated: Session 024
 ---
 
 # Lheani
@@ -34,7 +34,7 @@ last_updated: Session 023
 > | **Class** | Barbarian |
 > | **Occupation** | Adventurer |
 > | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
-> | **Current location** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] |
+> | **Current location** | Road to Stormwatch Harbor |
 > | **Status** | Active |
 > | **First seen** | Session 016 |
 
@@ -54,8 +54,12 @@ When [[Campaigns/Faldara/People/Velmian|Velmian]] remembered that Farinia used t
 
 ## Current Status
 
-Lheani helped resolve the rift crisis and returned with the party to Arbaroŝirm.
+Lheani helped resolve the rift crisis and returned to Arbaroŝirm before setting out with the party toward Stormwatch Harbor.
 
 ## Session 23: Home, Faith, and Doubt
 
 Lheani spoke about the **Dolian Coast**, the **Skykin**, and a sun-and-two-moons design on his shell that reflects his faith. He also voiced discomfort with the choice to kill Faylen rather than spare her. Other geographic or cultural details discussed at the table have not all been finalized.
+
+## Session 24: Mercy on the Road
+
+Traveling south, Lheani spotted a concealed spike pit before Fineks stepped onto it. At a burning cabin, he attempted to subdue hostile spellcasters without killing them, despite the danger. A *Fireball* knocked him unconscious, but he was healed after the fighting. He later joined Fineks in burying two of the slain attackers. He considered buying a costly returning handaxe in Arbaroŝirm but did not purchase it.
