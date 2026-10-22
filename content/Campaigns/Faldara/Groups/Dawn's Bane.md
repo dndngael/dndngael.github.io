@@ -12,7 +12,7 @@ tags:
 status: active
 group_type: Adventuring Party
 first_seen: Session 002
-last_updated: Session 023
+last_updated: Session 024
 ---
 
 # Dawn's Bane
@@ -59,3 +59,7 @@ Fineks did not take part in the confrontation and was understood to be recoverin
 ### Session 23
 
 Lurvius, Astra, and Ĵura recovered enough to return to Tur'Farinil with You Guys and Grand Duke Seren to verify the rift's closure. [[Campaigns/Faldara/People/Fineks|Fineks]] chose to travel temporarily with You Guys toward [[Campaigns/Faldara/Places/Apeiron|Apeiron]] to pursue a possible lead for restoring her soul song. She planned to speak with Lurvius before departure and remains a member of Dawn's Bane.
+
+### Session 24: A Temporary Parting
+
+At the gates of Arbaroŝirm, Lurvius, Ĵura, and Astra saw Fineks off as she departed with You Guys toward Apeiron. Ĵura said the remaining members intended to help [[Campaigns/Faldara/People/Seren Kaŭro|Grand Duke Seren]] with further temple work and then head for **Lakeville**. Lurvius expressed interest in joining Fineks but remained with Dawn's Bane. Those plans are intentions, not confirmed later outcomes. Fineks continues to be a member of Dawn's Bane while traveling separately.
