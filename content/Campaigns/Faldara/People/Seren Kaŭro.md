@@ -24,7 +24,7 @@ affiliations:
   - House Kaŭro
 current_location: "[[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]"
 first_seen: Session 010
-last_updated: Session 016
+last_updated: Session 023
 ---
 
 # Seren Kaŭro
@@ -54,3 +54,9 @@ Seren's first impression of the group deteriorated after their fight with a drun
 Seren knows a great deal about the temple and its dangers. He provided information that led the group to [[Campaigns/Faldara/People/Nephil Salŝius|Nephil Salŝius]] and shared a partial map of Tur'Farinil.
 
 As conditions worsened, Seren eventually declared Tur'Farinil officially off-limits. The party continued investigating despite the order, putting their urgent goals in tension with his responsibility for the city's safety.
+
+## Session 23: The Empty Rift
+
+After the party said the rift was closed, Seren personally accompanied them back into Tur'Farinil. He inspected the former rift chamber and saw what the adventurers had achieved. Overcome by the realization that a threat his family had resisted for generations might be gone, he fell to his knees.
+
+Seren rewarded **each member of You Guys with 100 gp** and promised to inform the king, recording their official full name as **You Guys, You Can't Ask Me for Names**. The city was already experiencing an unusual absence of attacks, although its long-term future remains to be seen.
