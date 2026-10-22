@@ -41,6 +41,9 @@ tags:
 - [[Campaigns/Faldara/Sessions/Session 021 - Unmake Faylen, Go|Session 21: Unmake Faylen, Go]]
 - [[Campaigns/Faldara/Sessions/Session 022 - One Ass to Save the City|Session 22: One Ass to Save the City]]
 - [[Campaigns/Faldara/Sessions/Session 023 - You Guys, You Can't Ask Me for Names|Session 23: You Guys, You Can't Ask Me for Names]]
-- Session 24: an archival file exists, but no substantive session events have been reconstructed.
+## Road to Stormwatch Harbor
+
+- [[Campaigns/Faldara/Sessions/Session 024 - Tides of Probability|Session 24: Tides of Probability]]
+- [[Campaigns/Faldara/Sessions/Session 025 - A Pink Dome and a Forgotten Map|Session 25: A Pink Dome and a Forgotten Map]]
 
 Return to [[Campaigns/Faldara/index|Faldara]].
