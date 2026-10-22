@@ -21,7 +21,7 @@ domains:
   - Fate
 symbol: Hourglass
 first_seen: Session 006
-last_updated: Session 020
+last_updated: Session 023
 ---
 
 # Farinia
@@ -61,3 +61,9 @@ Farinia has become one of the most important deities in the party's current inve
 - Velmian remembered Farinia meditating in a pristine hidden courtyard within Tur'Farinil. When Lheani meditated there, he encountered a mysterious robed being marked with an hourglass symbol. The session ended before the party learned the figure's identity.
 
 See [[Campaigns/Faldara/Lore/The Riddle of Tur'Farinil|The Riddle of Tur'Farinil]].
+
+## Session 23: The Apotheon
+
+Farinia appeared before the party with the spirit known as Velmian. They said they had created the ancient tapestries in Tur'Farinil and revealed that their depicted hero, **Velmian**, was [[Campaigns/Faldara/People/The Apotheon|the Apotheon]]. The child spirit and the [[Campaigns/Faldara/Items/Mask Piece|Lazuli Grotto mask piece]] were separate fragments of him.
+
+At Farinia's request, the spirit became a thread and formed the [[Campaigns/Faldara/Items/Velmian Bracelet|Velmian Bracelet]] around Happy's wrist. Farinia urged the adventurers to gather the remaining pieces, while declining to explain Lurvius's resemblance to the ancient hero.
