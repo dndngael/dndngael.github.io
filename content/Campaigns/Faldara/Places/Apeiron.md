@@ -12,7 +12,7 @@ tags:
 status: threatened
 location_type: Island
 first_seen: Session 012
-last_updated: Session 023
+last_updated: Session 024
 ---
 
 # Apeiron
@@ -25,7 +25,7 @@ last_updated: Session 023
 > | **Status** | In danger |
 > | **First mentioned** | Session 012 |
 
-**Apeiron** is the home island of [[Campaigns/Faldara/People/27|27]], a druid who follows [[Campaigns/Faldara/Lore/Deities/Favaro|Favaro]] and believes nature can be understood through mathematics. 27 left because his island faces an unspecified danger. Archdruid 7 instructed him to seek a prophesied figure called **Zero**.
+**Apeiron** is the home island of [[Campaigns/Faldara/People/27|27]], a druid who follows [[Campaigns/Faldara/Lore/Deities/Favaro|Favaro]] and believes nature can be understood through mathematics. 27 left because his island faces an unspecified danger. Apeiron's current leader is **Eight (8)**, as confirmed by Gael's correction to earlier notes. 27 was instructed to seek a prophesied figure called **Zero**.
 
 ## Favaro and the Soul Numbers
 
@@ -35,7 +35,7 @@ In Session 23, [[Campaigns/Faldara/People/Nephil Salŝius|Nephil]] found a passa
 
 ## Planned Journey
 
-The party intends to travel south toward **Stormwatch Harbor**, seek passage by ship, and sail to Apeiron. Sailors have reported strange storms and flames on the water in that direction, but the party has not witnessed these phenomena.
+The party departed Arbaroŝirm in Session 24, heading south toward [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]] to seek passage by ship to Apeiron. Sailors have reported strange storms and flames on the water in that direction, but the party has not witnessed these phenomena.
 
 ## Open Questions
 
@@ -44,3 +44,7 @@ The party intends to travel south toward **Stormwatch Harbor**, seek passage by 
 - Does Favaro's thumbprint truly describe this island?
 - Could the island's powers help Fineks?
 - What do the sailors' accounts of burning seawater mean?
+
+## Session 24: Accounts of Eight
+
+Before departing Arbaroŝirm, 27 described the current leader of Apeiron as **Eight** and spoke of the island's numerical identity traditions. Fineks questioned whether her own number could be infinity rather than zero. This exchange establishes what was discussed, not Fineks's prophetic identity or the full workings of Apeiron's society. The party is still traveling and has not reached the island.
