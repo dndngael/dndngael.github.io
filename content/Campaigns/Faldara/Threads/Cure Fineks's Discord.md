@@ -11,7 +11,7 @@ tags:
   - "#Quest"
 status: active
 first_seen: Session 014
-last_updated: Session 023
+last_updated: Session 024
 ---
 
 # Cure Fineks's Discord
@@ -29,3 +29,7 @@ The immediate symptoms are under control. Whether Fineks has actually been cured
 Nephil found an account in [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]] of an island with a special relationship to Favaro, expressed through the numerical pattern he called **Favaro's thumbprint**. [[Campaigns/Faldara/People/27|27]] recognized this pattern and connected the possible destination with his homeland, **[[Campaigns/Faldara/Places/Apeiron|Apeiron]]**.
 
 Nephil believes the island might offer a path to restore Fineks's soul song. Fineks has agreed to travel with [[Campaigns/Faldara/Groups/You Guys|You Guys]] to investigate. The Codex does not yet establish a cure.
+
+## Session 24: The Journey Begins
+
+Fineks left Arbaroŝirm with You Guys, heading toward Stormwatch Harbor and then Apeiron. She remains interested in restoring her suppressed soul song and questions the assumption that she must be the prophesied Zero. Her successful use of *Revivify* during a roadside fight does not establish any change in the underlying affliction or a cure.
