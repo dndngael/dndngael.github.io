@@ -17,9 +17,9 @@ ancestry: Tortle
 age: Young Adult
 class: Barbarian
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
-current_location: "[[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]"
+current_location: "[[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]"
 first_seen: Session 016
-last_updated: Session 022
+last_updated: Session 023
 ---
 
 # Lheani
@@ -34,7 +34,7 @@ last_updated: Session 022
 > | **Class** | Barbarian |
 > | **Occupation** | Adventurer |
 > | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
-> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] |
 > | **Status** | Active |
 > | **First seen** | Session 016 |
 
@@ -54,4 +54,8 @@ When [[Campaigns/Faldara/People/Velmian|Velmian]] remembered that Farinia used t
 
 ## Current Status
 
-In the latest documented events, Lheani is helping the group deal with [[Campaigns/Faldara/Threads/The Rift Crisis|the rift crisis]] after Faylen's defeat.
+Lheani helped resolve the rift crisis and returned with the party to Arbaroŝirm.
+
+## Session 23: Home, Faith, and Doubt
+
+Lheani spoke about the **Dolian Coast**, the **Skykin**, and a sun-and-two-moons design on his shell that reflects his faith. He also voiced discomfort with the choice to kill Faylen rather than spare her. Other geographic or cultural details discussed at the table have not all been finalized.
