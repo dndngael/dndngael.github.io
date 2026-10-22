@@ -10,8 +10,9 @@ publish: true
 tags:
   - "#Item"
 status: acquired
+current_holder: "[[Campaigns/Faldara/People/Alvin Draper|Alvin Draper]]"
 first_seen: Session 006
-last_updated: Session 019
+last_updated: Session 023
 ---
 
 # Mask Piece
@@ -30,3 +31,7 @@ The item requires attunement.
 - Attunement can only be maintained for two consecutive days. After that, attempts to attune again within the next two days fail.
 
 The design resembles the mask worn by [[Campaigns/Faldara/People/The Apotheon|the Apotheon]] in the vision and another cloaked figure depicted in an ancient Tur'Farinil tapestry.
+
+## Current Holder and the Apotheon
+
+In Session 23, [[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]] confirmed that this fragment is a piece of [[Campaigns/Faldara/People/The Apotheon|the Apotheon]], the ancient hero Velmian. **Alvin currently carries it** because the item cannot remain attuned to one person indefinitely. It allows only two consecutive days of attunement, followed by two days when that wearer cannot attune to it again.
