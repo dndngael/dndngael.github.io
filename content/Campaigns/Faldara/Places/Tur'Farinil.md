@@ -9,9 +9,9 @@ publish: true
 tags:
   - "#Location"
   - "#Temple"
-status: dangerous
+status: rift closed
 first_seen: Session 010
-last_updated: Session 022
+last_updated: Session 023
 ---
 
 # Tur'Farinil
@@ -42,6 +42,10 @@ The party has encountered:
 
 ## Current Status
 
-The latest documented events take place in the rift chamber after Faylen's defeat. Her strange stone is moving toward the open rift, and a silver thread has appeared between them.
+The rift was **closed in Session 22** when Paul used a staff to insert Alvin's smaller stone into it, after Lheani shattered Faylen's larger Moon's Tear. In Session 23, the party returned with Grand Duke Seren Kaŭro, who personally confirmed that the rift was gone. A previously strange pool appeared to behave normally.
+
+[[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]] subsequently revealed the ancient hero depicted in the temple's tapestries as [[Campaigns/Faldara/People/The Apotheon|the Apotheon]] and turned the child-spirit fragment Velmian into a [[Campaigns/Faldara/Items/Velmian Bracelet|bracelet]] carried by Happy. The ancient tapestries remain intact.
+
+The group has returned to Arbaroŝirm. The rift crisis is resolved, although the temple still holds mysteries.
 
 See [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]].
