@@ -1,6 +1,7 @@
 ---
 title: You Guys
 aliases:
+  - You Guys, You Can't Ask Me for Names
   - SPP3 4eva
   - Socialist Pizza Party of 3
   - SPP3 4eva + Happy
@@ -14,7 +15,7 @@ tags:
 status: active
 group_type: Adventuring Party
 first_seen: Session 001
-last_updated: Session 022
+last_updated: Session 023
 ---
 
 # You Guys
@@ -25,7 +26,7 @@ last_updated: Session 022
 > | **Type** | Adventuring party |
 > | **Also known as** | SPP3 4eva, Socialist Pizza Party of 3 |
 > | **Current members** | [[Campaigns/Faldara/People/Paul Seragon\|Paul]], [[Campaigns/Faldara/People/Alvin Draper\|Alvin]], [[Campaigns/Faldara/People/27\|27]], [[Campaigns/Faldara/People/Happy\|Happy]], [[Campaigns/Faldara/People/Lheani\|Lheani]] |
-> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] |
 > | **Status** | Active |
 > | **Formed** | Session 001 |
 
@@ -51,4 +52,4 @@ The party has accumulated several names over time, including **SPP3 4eva**, **So
 
 ## Current Situation
 
-The latest documented events leave the party deep inside [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]], dealing with [[Campaigns/Faldara/Threads/The Rift Crisis|a stone moving toward the open rift]].
+In Session 22 the party closed the rift, and in Session 23 Seren Kaŭro verified their victory. He awarded 100 gp to each member. The party returned to Arbaroŝirm, where Fineks agreed to accompany them temporarily on a journey toward Apeiron. The party's official name is **You Guys, You Can't Ask Me for Names**, usually shortened to **You Guys**.
