@@ -10,7 +10,9 @@ publish: true
 tags:
   - "#Item"
 status: acquired
-item_type: Magical bracelet
+item_type: Wondrous item
+rarity: Uncommon
+attunement: None
 current_holder: "[[Campaigns/Faldara/People/Happy|Happy]]"
 first_seen: Session 023
 last_updated: Session 023
@@ -21,7 +23,9 @@ last_updated: Session 023
 > [!infobox]+ Velmian Bracelet
 > | | |
 > | --- | --- |
-> | **Type** | Magical bracelet |
+> | **Type** | Wondrous item |
+> | **Rarity** | Uncommon |
+> | **Attunement** | None required |
 > | **Current holder** | [[Campaigns/Faldara/People/Happy\|Happy]] |
 > | **First seen** | Session 023 |
 
@@ -29,11 +33,25 @@ The **Velmian Bracelet** appeared in [[Campaigns/Faldara/Sessions/Session 023 - 
 
 ## What the Party Knows
 
-The bracelet is one known fragment of the Apotheon. The [[Campaigns/Faldara/Items/Mask Piece|mask piece]] carried by Alvin is another. Farinia urged the party to seek more fragments. Whether Velmian can speak, reappear, or respond to other fragments has not been established.
+The bracelet is one known fragment of the Apotheon. The [[Campaigns/Faldara/Items/Mask Piece|mask piece]] carried by Alvin is another. Farinia urged the party to seek more fragments. Velmian remains somewhat conscious within the bracelet, although his awareness is limited. He can offer fleeting emotions, images, or a few quiet words. Whether he can manifest separately or respond to other fragments has not been established.
 
-## Known Properties
+## Magic Item Properties
 
-The bracelet is worn by Happy. Its **game mechanics are not yet determined**. Rarity, attunement, abilities, limitations, and precise appearance are pending agreement.
+*Wondrous item, uncommon (does not require attunement)*
+
+### Remember Who You Are
+
+Once per long rest, when Happy or a creature he can see within 30 feet of him makes a saving throw to resist or end the charmed or frightened condition, Happy can use his reaction to add **1d4** to that saving throw. He may do so after seeing the d20 roll but before the DM announces whether the saving throw succeeds or fails.
+
+When Happy calls upon the bracelet in this way, it grows warm and Velmian's faint voice offers reassurance, as though reminding someone of what matters most to them.
+
+## Velmian's Presence
+
+Velmian is still somewhat aware inside the bracelet. He does not speak constantly or serve as a reliable source of ancient knowledge. At times, he communicates in brief whispers, feelings, or fleeting impressions. At other times, the bracelet seems quiet and he appears to be resting.
+
+When Happy falls asleep, Velmian sometimes quietly hums the melody Farinia used to sing.
+
+What Velmian remembers, and how his awareness might change over time, remain mysteries.
 
 ## Current Status
 
@@ -41,7 +59,7 @@ Happy carries the bracelet as the party prepares to leave Arbaroŝirm.
 
 ## Open Questions
 
-- Can the fragment communicate with Happy?
+- What does Velmian remember, and can he eventually speak more clearly?
 - Can Velmian manifest separately from the bracelet?
 - Will it respond to memories, dreams, or other fragments?
 
