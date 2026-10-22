@@ -12,7 +12,7 @@ tags:
 status: active
 group_type: Adventuring Party
 first_seen: Session 002
-last_updated: Session 021
+last_updated: Session 023
 ---
 
 # Dawn's Bane
@@ -55,3 +55,7 @@ During the confrontation with [[Campaigns/Faldara/People/Faylen Nemyris|Faylen]]
 The party managed to bring all three back to themselves through personal emotional appeals rather than killing them. 27 reached Ĵura through their shared history, Happy reminded Lurvius of Fineks and what mattered to him, and Alvin finally reached Astra by appealing to his considerable sense of self-worth.
 
 Fineks did not take part in the confrontation and was understood to be recovering elsewhere.
+
+### Session 23
+
+Lurvius, Astra, and Ĵura recovered enough to return to Tur'Farinil with You Guys and Grand Duke Seren to verify the rift's closure. [[Campaigns/Faldara/People/Fineks|Fineks]] chose to travel temporarily with You Guys toward [[Campaigns/Faldara/Places/Apeiron|Apeiron]] to pursue a possible lead for restoring her soul song. She planned to speak with Lurvius before departure and remains a member of Dawn's Bane.
