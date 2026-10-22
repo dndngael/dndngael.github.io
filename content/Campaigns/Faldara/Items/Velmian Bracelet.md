@@ -49,19 +49,7 @@ When Happy calls upon the bracelet in this way, it grows warm and Velmian's fain
 
 Velmian is still somewhat aware inside the bracelet. He does not speak constantly or serve as a reliable source of ancient knowledge. At times, he communicates in brief whispers, feelings, or fleeting impressions. At other times, the bracelet seems quiet and he appears to be resting.
 
-When Happy falls asleep, Velmian sometimes quietly hums the melody Farinia used to sing.
-
-What Velmian remembers, and how his awareness might change over time, remain mysteries.
-
-## Current Status
-
-Happy carries the bracelet as the party prepares to leave Arbaroŝirm.
-
-## Open Questions
-
-- What does Velmian remember, and can he eventually speak more clearly?
-- Can Velmian manifest separately from the bracelet?
-- Will it respond to memories, dreams, or other fragments?
+*When Happy falls asleep, Velmian sometimes quietly hums the melody Farinia used to sing.*
 
 ## Session History
 
