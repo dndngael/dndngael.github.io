@@ -18,7 +18,7 @@ occupation: Adventurer
 affiliations:
   - "[[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]"
 first_seen: Session 006
-last_updated: Session 021
+last_updated: Session 023
 ---
 
 # Lurvius
@@ -55,3 +55,9 @@ Inside [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]], the party found an 
 Earlier, the ghost-child [[Campaigns/Faldara/People/Velmian|Velmian]] had taken one of Happy's glowing objects and brought it to Lurvius because it somehow felt like it belonged there.
 
 What exactly connects the two remains unknown.
+
+## Session 23: A Scar and a Resemblance
+
+Shown the ancient tapestry in person, Lurvius acknowledged that its depiction of Velmian looks remarkably like him, but he offered no explanation. He also revealed that one of his eyes is blind and the side of his face is scarred. Someone he once considered a dear friend betrayed him and caused the injury more than twenty years ago. Lurvius did not wish to discuss the incident further.
+
+Later, [[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]] said Lurvius is **not the imprisoned Apotheon**, but did not explain why he looks like the ancient hero.
