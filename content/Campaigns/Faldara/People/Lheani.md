@@ -19,7 +19,7 @@ class: Barbarian
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
 current_location: "On the road to Stormwatch Harbor"
 first_seen: Session 016
-last_updated: Session 024
+last_updated: Session 025
 ---
 
 # Lheani
@@ -38,7 +38,7 @@ last_updated: Session 024
 > | **Status** | Active |
 > | **First seen** | Session 016 |
 
-Lheani is a young tortle adventurer who joined [[Campaigns/Faldara/Groups/You Guys|the party]] inside [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]].
+Lheani, who introduced himself as **Lheani of Clan Tortle of the New-Doleh Tribe**, is a young tortle adventurer who joined [[Campaigns/Faldara/Groups/You Guys|the party]] inside [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]].
 
 ## Before the Party
 
@@ -63,3 +63,9 @@ Lheani spoke about the **Dolian Coast**, the **Skykin**, and a sun-and-two-moons
 ## Session 24: Mercy on the Road
 
 Traveling south, Lheani spotted a concealed spike pit before Fineks stepped onto it. At a burning cabin, he attempted to subdue hostile spellcasters without killing them, despite the danger. A *Fireball* knocked him unconscious, but he was healed after the fighting. He later joined Fineks in burying two of the slain attackers. He considered buying a costly returning handaxe in Arbaroŝirm but did not purchase it.
+
+## Session 25: A Formal Introduction
+
+While sheltering from heavy rain with a merchant caravan, Lheani introduced himself as **Lheani of Clan Tortle of the New-Doleh Tribe**. He spoke of adventuring as a way to help people and earn a living, and joined his companions in entertaining the merchant Vuzeevio.
+
+That night, he fought six dire wolves with his greataxe and ancestral defenders. Hearing more howls afterward, he warned that another pack was approaching. Alvin's magical hut sheltered the party until the wolves departed. No further history of the New-Doleh Tribe was confirmed in this encounter.
