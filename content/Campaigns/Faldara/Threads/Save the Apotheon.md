@@ -12,7 +12,7 @@ tags:
   - "#Quest"
 status: active
 first_seen: Session 006
-last_updated: Session 020
+last_updated: Session 023
 ---
 
 # Save the Apotheon
@@ -31,4 +31,6 @@ His clues led the party from an ancient Narvono prayer site toward Farinia, [[Ca
 - In Session 20, the party reached a pristine hidden courtyard in Tur'Farinil containing an altar closely associated with Farinia. Remembering the Apotheon's claim that he once prayed to the Spinner, they suspected this might be the altar from his plea, but they did not confirm the connection.
 - Meditation in the courtyard led Lheani to a mysterious robed figure bearing an hourglass symbol. The session ended before the party learned who the figure was or what they knew about the Apotheon.
 
-The Apotheon has not yet been rescued, and the party still does not understand the full nature of his imprisonment.
+In Session 23, Farinia identified the ancient hero **Velmian** as the Apotheon. The deity confirmed two known fragments: the [[Campaigns/Faldara/Items/Mask Piece|Lazuli Grotto mask piece]] currently carried by Alvin, and the spirit known as [[Campaigns/Faldara/People/Velmian|Velmian]], who became the [[Campaigns/Faldara/Items/Velmian Bracelet|Velmian Bracelet]] around Happy's wrist.
+
+Farinia urged the party to gather the remaining pieces. The Apotheon is **not yet freed**, and the location of other fragments and the nature of his imprisonment remain uncertain. Lurvius's striking resemblance is also unexplained.
