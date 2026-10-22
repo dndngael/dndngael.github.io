@@ -9,29 +9,25 @@ publish: true
 tags:
   - "#Thread"
   - "#Quest"
-status: active
+status: resolved
 first_seen: Session 022
-last_updated: Session 022
+last_updated: Session 023
 ---
 
 # The Rift Crisis
 
-The latest fully documented events leave the party in the rift chamber of [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]], immediately after the defeat of [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]].
+The rift inside [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]] has **closed**. The strange creatures it spawned had threatened [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] for generations.
 
-At the end of [[Campaigns/Faldara/Sessions/Session 021 - Unmake Faylen, Go|Session 21]], the surviving Vesperaŝ had stopped behaving like straightforward attackers and instead focused on whoever held Faylen's [[Campaigns/Faldara/Items/Moon's Tear|Moon's Tear]]. The rift remained open.
+In [[Campaigns/Faldara/Sessions/Session 022 - One Ass to Save the City|Session 22]], Faylen's larger [[Campaigns/Faldara/Items/Moon's Tear|Moon's Tear]] floated toward the rift despite the party's attempts to restrain it. [[Campaigns/Faldara/People/Alvin Draper|Alvin]] discerned a magical frequency, and silver and gold threads appeared between the rift and the stones. [[Campaigns/Faldara/People/Lheani|Lheani]] shattered the larger stone with his warhammer, but the rift remained open.
 
-In Session 22, the Moon's Tear began floating toward the rift. Ordinary attempts to hold or block it did not stop its movement.
+[[Campaigns/Faldara/People/Paul Seragon|Paul]] then pressed **Alvin's separate, smaller stone** into the rift using a staff recovered from Faylen's workshop while the others held onto him. The stone vanished, and the rift brightened, dimmed, contracted, and closed.
 
-[[Campaigns/Faldara/People/Paul Seragon|Paul]] grabbed the stone while the others tried to help restrain it. [[Campaigns/Faldara/People/Alvin Draper|Alvin]] focused on the magic of the rift and successfully matched its frequency.
+In [[Campaigns/Faldara/Sessions/Session 023 - You Guys, You Can't Ask Me for Names|Session 23]], Grand Duke [[Campaigns/Faldara/People/Seren Kaŭro|Seren Kaŭro]] personally visited the chamber and verified the closure. He rewarded each member of [[Campaigns/Faldara/Groups/You Guys|You Guys]] with 100 gp. Soldiers noticed an extraordinary absence of monster attacks.
 
-Then a **silver thread** emerged from the rift and connected to the stone, passing through or along Paul as he held it.
+## What Remains Unknown
 
-The stone was still moving when the session ended.
+- What happened to the smaller stone after it vanished into the rift?
+- What caused the silver and gold threads?
+- Will the rift remain closed, and what longer-term changes will Arbaroŝirm experience?
 
-## Immediate Questions
-
-- What happens if the Moon's Tear reaches the rift?
-- What is the silver thread?
-- Why does it pass through Paul?
-- Can Alvin's resonance with the rift change what happens next?
-- What state is the rift in after Faylen's defeat?
+The immediate rift crisis is **resolved**. These larger questions remain open.
