@@ -11,7 +11,7 @@ tags:
 status: unvisited
 location_type: Harbor settlement
 first_seen: Session 023
-last_updated: Session 024
+last_updated: Session 025
 ---
 
 # Stormwatch Harbor
@@ -43,6 +43,12 @@ A contract recovered from a spellcaster at a burning cabin bore an unusual hoode
 
 See [[Campaigns/Faldara/Threads/Stormwatch Harbor Investigation|Stormwatch Harbor Investigation]].
 
+## Happy's Unexpected Map (Session 25)
+
+Before the party reached the harbor, [[Campaigns/Faldara/People/Happy|Happy]] absentmindedly drew a map of a coastal settlement during a night watch. [[Campaigns/Faldara/People/27|27]] recognized it as Stormwatch Harbor and identified the **Dawn Spire**, the **Church of Solano**, the **Temple of the Deep**, and the coastline in the sketch.
+
+Happy had also **circled a particular building**. Neither he nor 27 explained what the building was, and Happy could not say why he had drawn this place. He felt it was strangely familiar, but the reason remains unknown. The party still has not visited Stormwatch Harbor, so these landmarks are known through 27's interpretation of the drawing, not their own exploration.
+
 ## Open Questions
 
 - What is actually happening to the water around the harbor?
@@ -50,3 +56,4 @@ See [[Campaigns/Faldara/Threads/Stormwatch Harbor Investigation|Stormwatch Harbo
 - Is the reported religious conflict real?
 - What can the party learn from Sev's former office?
 - Will safe passage to Apeiron be available?
+- Why did Happy draw this city, and what is the building he circled?
