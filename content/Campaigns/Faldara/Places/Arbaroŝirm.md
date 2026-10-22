@@ -11,7 +11,7 @@ tags:
   - "#Settlement"
 status: active
 first_seen: Session 010
-last_updated: Session 023
+last_updated: Session 024
 ---
 
 # Arbaroŝirm
@@ -39,3 +39,7 @@ Arbaroŝirm became the center of the party's investigation into [[Campaigns/Fald
 In Session 23, soldiers reported an astonishing morning without any new monster attacks. Grand Duke [[Campaigns/Faldara/People/Seren Kaŭro|Seren Kaŭro]] went to Tur'Farinil with the party and saw the chamber where the rift had been. After generations of his family's efforts to protect the city, the sight overwhelmed him.
 
 Seren rewarded **each member of You Guys with 100 gp** and promised to tell the king. The city's future now that the recurring threat appears to be over remains an open question.
+
+## Session 24: The Departure
+
+With no new attack witnessed from Tur'Farinil during their final preparations, You Guys bought supplies and set out toward Stormwatch Harbor with Fineks. Residents and guards did not all appear to know the rift had closed. Lurvius, Ĵura, and Astra remained, intending to help Grand Duke Seren with further temple work before later traveling toward Lakeville. Their intended work and departure are not confirmed outcomes.
