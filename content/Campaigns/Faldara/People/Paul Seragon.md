@@ -21,9 +21,9 @@ class: Monk
 level: 5
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
 home: Lakeville
-current_location: "[[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]"
+current_location: "[[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]"
 first_seen: Session 001
-last_updated: Session 022
+last_updated: Session 023
 ---
 
 # Paul Seragon
@@ -40,7 +40,7 @@ last_updated: Session 022
 > | **Occupation** | Noble |
 > | **Title** | Earl of Lakeville |
 > | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
-> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] |
 > | **Status** | Active |
 > | **First seen** | Session 001 |
 
@@ -58,4 +58,10 @@ During the pre-festival games, Paul won the Dragon Cake eating competition in sp
 
 Paul was the person who first touched the object that triggered the [[Campaigns/Faldara/Lore/Vision in the Lazuli Grotto|Vision in the Lazuli Grotto]], and he became closely associated with the mysterious [[Campaigns/Faldara/Items/Mask Piece|mask fragment]] found there.
 
-In the latest documented events in [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]], Paul grabbed the strange stone moving toward the rift. A silver thread appeared linking the rift and the stone through him.
+In Session 22, Paul used a staff and a smaller stone to close the rift. In Session 23, he helped guide Grand Duke Seren back to the sealed chamber. The original Lazuli Grotto mask piece is currently held by Alvin during the item's attunement rotation.
+
+## Session 23
+
+Seren rewarded Paul and each other member of You Guys with **100 gp**. The party returned to Arbaroŝirm and began preparing for the journey toward Apeiron.
+
+**Lakeville continuity:** Paul's established title and family history are known, but additional geography, politics, and administration discussed this session are still being developed and are not established campaign facts.
