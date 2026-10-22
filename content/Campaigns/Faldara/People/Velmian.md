@@ -10,13 +10,13 @@ publish: true
 tags:
   - "#Character"
   - "#Mystery"
-status: unknown
+status: bracelet fragment
 art: "[[Assets/Velmian.png]]"
 pronouns: He/Him
 ancestry: High Elf Spirit
 age: "Ancient; appears as a child"
 first_seen: Session 011
-last_updated: Session 020
+last_updated: Session 023
 ---
 
 # Velmian
@@ -32,7 +32,7 @@ last_updated: Session 020
 > | **Appearance** | Small, faintly glowing, purple-eyed |
 > | **Mask** | None |
 > | **Known location** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] / [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
-> | **Status** | Unknown |
+> | **Status** | Fragment carried by Happy |
 > | **First seen** | Session 011 |
 
 Velmian is the name used by a small, slightly glowing, child-shaped spirit first encountered in an abandoned inn in [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]. He does not wear a mask and claims to remember the area from an impossibly long time ago.
@@ -60,3 +60,9 @@ The child-spirit also resembles a younger version of the same figure.
 Happy has described a near-death vision in which an adult, whole-looking version of Velmian called him **"brother."**
 
 No one yet knows how these pieces fit together.
+
+## Session 23: The Apotheon's Piece
+
+[[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]] confirmed that the ancient hero Velmian depicted in the tapestries is [[Campaigns/Faldara/People/The Apotheon|the Apotheon]]. Farinia explained that the child spirit is only one piece of that imprisoned hero, and the [[Campaigns/Faldara/Items/Mask Piece|Lazuli Grotto mask fragment]] is another.
+
+Shortly beforehand, the child said he felt unwell and sought refuge with Happy when startled by Lheani. Later, at Farinia's request, he became a thread and wrapped around [[Campaigns/Faldara/People/Happy|Happy]]'s wrist as the [[Campaigns/Faldara/Items/Velmian Bracelet|Velmian Bracelet]]. Whether he can speak or manifest in that form is not yet known.
