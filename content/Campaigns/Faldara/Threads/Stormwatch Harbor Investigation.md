@@ -12,7 +12,7 @@ tags:
   - "#Quest"
 status: open
 first_seen: Session 024
-last_updated: Session 024
+last_updated: Session 025
 ---
 
 # Stormwatch Harbor Investigation
@@ -34,12 +34,19 @@ The party's rescue of [[Campaigns/Faldara/People/Sev|Sev]] in Session 24 opened 
 
 These reports are **canonically known to the party as hearsay**. They are not yet independent confirmation of a Faceless organization, a burning sea, or the alleged political and religious circumstances.
 
+## Separate Lead: Happy's Map (Session 25)
+
+During a later camp watch, [[Campaigns/Faldara/People/Happy|Happy]] drew a coastal map seemingly without knowing what he was drawing. [[Campaigns/Faldara/People/27|27]] recognized [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]], including the Dawn Spire, Church of Solano, and Temple of the Deep. A specific building was marked with a circle, but Happy did not recognize it or know why he had drawn it.
+
+This is a **separate, unexplained personal lead** for Happy. No connection between his drawing, Sev's investigation, or the alleged Faceless has been established.
+
 ## Possible Next Steps
 
 - Find Sev's former office and read the notes he described.
 - Ask Gladys about the office and Sev's tenancy.
 - Examine the contract's mark and determine who issued it.
 - Decide whether this mystery affects the planned voyage to [[Campaigns/Faldara/Places/Apeiron|Apeiron]].
+- Once in the harbor, compare Happy's sketch with the city and identify the circled building.
 
 ## Open Questions
 
@@ -47,3 +54,4 @@ These reports are **canonically known to the party as hearsay**. They are not ye
 - Was Sev the intended target of the cabin attack?
 - Is the gray-coated woman connected to the attackers?
 - How much of Sev's account will hold up once the party reaches the harbor?
+- What, if anything, explains Happy's apparent familiarity with the harbor and its circled building?
