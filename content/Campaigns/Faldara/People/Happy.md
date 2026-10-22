@@ -19,9 +19,9 @@ class: Artificer
 subclass: Armorer
 level: 5
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
-current_location: "[[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]"
+current_location: "[[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]]"
 first_seen: Session 009
-last_updated: Session 022
+last_updated: Session 023
 ---
 
 # Happy
@@ -38,7 +38,7 @@ last_updated: Session 022
 > | **Level** | 5 |
 > | **Occupation** | Merchant, artisan, mask maker |
 > | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
-> | **Current location** | [[Campaigns/Faldara/Places/Tur'Farinil\|Tur'Farinil]] |
+> | **Current location** | [[Campaigns/Faldara/Places/Arbaroŝirm\|Arbaroŝirm]] |
 > | **Status** | Active |
 > | **First seen** | Session 009 |
 
@@ -55,3 +55,11 @@ During a near-death vision, Happy saw a young man who resembled an adult, whole 
 ## Fineks
 
 Happy used [[Campaigns/Faldara/Items/Silentstone|Silentstone]] to modify [[Campaigns/Faldara/People/Fineks|Fineks's]] mask, suppressing the whispers and shadowy manifestations that had been tormenting her. The treatment also muted what [[Campaigns/Faldara/People/Nephil Salŝius|Nephil]] calls her [[Campaigns/Faldara/Lore/Soul Songs|soul song]].
+
+## Session 23: A Fragment to Carry
+
+Happy's known personal history remains established: he remembers waking in the woods around twenty years ago, without memories of his earlier life. His ability to read ancient writing in Tur'Farinil remains unexplained. The party discussed these mysteries again at the tapestries.
+
+[[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]] then revealed that the child spirit [[Campaigns/Faldara/People/Velmian|Velmian]] is a piece of the imprisoned Apotheon. At Farinia's request, Velmian became a thread and wrapped around Happy's wrist as the [[Campaigns/Faldara/Items/Velmian Bracelet|Velmian Bracelet]]. Its additional abilities remain unknown.
+
+Happy also supplied the name chosen for the party's official recognition: **You Guys, You Can't Ask Me for Names**.
