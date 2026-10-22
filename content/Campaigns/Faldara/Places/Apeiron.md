@@ -25,7 +25,7 @@ last_updated: Session 024
 > | **Status** | In danger |
 > | **First mentioned** | Session 012 |
 
-**Apeiron** is the home island of [[Campaigns/Faldara/People/27|27]], a druid who follows [[Campaigns/Faldara/Lore/Deities/Favaro|Favaro]] and believes nature can be understood through mathematics. 27 left because his island faces an unspecified danger. Apeiron's current leader is **Eight (8)**, as confirmed by Gael's correction to earlier notes. 27 was instructed to seek a prophesied figure called **Zero**.
+**Apeiron** is the home island of [[Campaigns/Faldara/People/27|27]], a druid who follows [[Campaigns/Faldara/Lore/Deities/Favaro|Favaro]] and believes nature can be understood through mathematics. 27 left because his island faces an unspecified danger. Apeiron's current leader is **Eight (8)**. 27 was instructed to seek a prophesied figure called **Zero**.
 
 ## Favaro and the Soul Numbers
 
