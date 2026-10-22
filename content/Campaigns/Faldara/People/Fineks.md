@@ -20,7 +20,7 @@ occupation:
 affiliations:
   - "[[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]"
 first_seen: Session 002
-last_updated: Session 024
+last_updated: Session 025
 ---
 
 # Fineks
@@ -64,3 +64,11 @@ Fineks initially doubted [[Campaigns/Faldara/People/27|27]]'s declaration that s
 Fineks departed [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] with [[Campaigns/Faldara/Groups/You Guys|You Guys]] toward [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]] and eventually Apeiron. She challenged the suggestion that her role must be **Zero**, wondering aloud whether it could instead be **infinity**. Neither claim has been verified.
 
 During the roadside encounter at a burning cabin, Fineks used wind magic to clear smoke, rescued an unconscious man, and fought attackers who tried to kill the party. A *Fireball* killed the rescued man, but Fineks brought him back with *Revivify* and healing. The survivor introduced himself as [[Campaigns/Faldara/People/Sev|Sev]] and provided leads about the harbor. Fineks helped Lheani bury two of the fallen attackers. Her suppressed soul song remains an unresolved concern.
+
+## Session 25: Circle of Embersong
+
+Around the campfire on the road to [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]], Fineks shared a little of her history before [[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]. She named her former druidic circle, the **Circle of Embersong**, and said she met Lurvius and Ĵura when they were traveling together. Astra joined their company later.
+
+Fineks was reluctant to elaborate on the circle or her past. The reason has not been established.
+
+She also helped entertain a wealthy merchant named **Vuzeevio**, attempting a magical display with fire and wind, and fought alongside the party against dire wolves that attacked their camp. Her soul song remains suppressed, and the journey to Apeiron continues.
