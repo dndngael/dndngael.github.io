@@ -15,7 +15,7 @@ pronouns: He/Him
 ancestry: Unknown
 age: Ancient
 first_seen: Session 006
-last_updated: Session 019
+last_updated: Session 023
 ---
 
 # The Apotheon
@@ -49,6 +49,12 @@ He also spoke of having prayed to **the Spinner**, [[Campaigns/Faldara/Lore/Deit
 
 The party's attempt to understand and rescue the Apotheon led from the hidden prayer site in the [[Campaigns/Faldara/Places/Lazuli Grotto|Lazuli Grotto]] to [[Campaigns/Faldara/Places/Arbaroŝirm|Arbaroŝirm]] and eventually deep inside [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]].
 
-His true identity, exact location, and the nature of his imprisonment remain unresolved.
+Farinia identified the ancient hero **Velmian** as the Apotheon during Session 23. The hero's imprisonment and the means to free him remain unresolved.
 
 See [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]].
+
+## Session 23: Identity Revealed
+
+[[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]] confirmed that the hero called **Velmian** in Tur'Farinil's ancient tapestries is the Apotheon. Farinia named the spirit known as [[Campaigns/Faldara/People/Velmian|Velmian]] and the [[Campaigns/Faldara/Items/Mask Piece|Lazuli Grotto mask piece]] as two of the hero's scattered fragments. The spirit transformed into the [[Campaigns/Faldara/Items/Velmian Bracelet|Velmian Bracelet]] worn by Happy.
+
+The party knows the hero's name, but the location of other pieces and the path to freeing him remain unknown.
