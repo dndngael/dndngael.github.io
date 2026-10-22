@@ -39,7 +39,8 @@ tags:
 - [[Campaigns/Faldara/Sessions/Session 019 - The Sad Water and the Spicy Air|Session 19: The Sad Water and the Spicy Air]]
 - [[Campaigns/Faldara/Sessions/Session 020 - All Choices Echo|Session 20: All Choices Echo]]
 - [[Campaigns/Faldara/Sessions/Session 021 - Unmake Faylen, Go|Session 21: Unmake Faylen, Go]]
-- [[Campaigns/Faldara/Sessions/Session 022 - The Rift Crisis|Session 22: The Rift Crisis]]
-- Sessions 23-24: legacy files exist but contain no substantive event record.
+- [[Campaigns/Faldara/Sessions/Session 022 - One Ass to Save the City|Session 22: One Ass to Save the City]]
+- [[Campaigns/Faldara/Sessions/Session 023 - You Guys, You Can't Ask Me for Names|Session 23: You Guys, You Can't Ask Me for Names]]
+- Session 24: an archival file exists, but no substantive session events have been reconstructed.
 
 Return to [[Campaigns/Faldara/index|Faldara]].
