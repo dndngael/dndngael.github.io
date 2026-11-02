@@ -35,6 +35,10 @@ tags:
 - [[Campaigns/Faldara/People/Faylen Nemyris|Faylen Nemyris]]
 - [[Campaigns/Faldara/People/Velmian|Velmian]]
 
+## Along the Southern Road
+
+- [[Campaigns/Faldara/People/The Keeper|The Keeper]]
+
 ## Earlier Connections
 
 - [[Campaigns/Faldara/People/Umbral Kaz|Umbral Kaz]]
