@@ -45,5 +45,6 @@ tags:
 
 - [[Campaigns/Faldara/Sessions/Session 024 - Tides of Probability|Session 24: Tides of Probability]]
 - [[Campaigns/Faldara/Sessions/Session 025 - A Pink Dome and a Forgotten Map|Session 25: A Pink Dome and a Forgotten Map]]
+- [[Campaigns/Faldara/Sessions/Session 026 - The Keeper's Moths|Session 26: The Keeper's Moths]]
 
 Return to [[Campaigns/Faldara/index|Faldara]].
