@@ -199,7 +199,7 @@ With a new mystery accompanying them, the adventurers prepared to begin the fift
 
 ### New
 
-- **Happy's forgotten map:** Discover why Happy unconsciously drew Stormwatch Harbor and whether the circled building holds a clue to his missing memories.
+- [[Campaigns/Faldara/Threads/Find the Circled Building|Find the Circled Building]]: Discover why Happy unconsciously drew Stormwatch Harbor and whether the circled building holds a clue to his missing memories.
 
 ### Resolved
 
