@@ -13,7 +13,13 @@ tags:
 
 ## Active
 
-- [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]]
+### Road to Stormwatch Harbor
+- [[Campaigns/Faldara/Threads/Stormwatch Harbor Investigation|Stormwatch Harbor Investigation]]
+- [[Campaigns/Faldara/Threads/Find the Circled Building|Find the Circled Building]]
+- [[Campaigns/Faldara/Threads/The Keeper's Moths|The Keeper's Moths]]
+- [[Campaigns/Faldara/Threads/Roadside Ambush|Roadside Ambush]]
+
+### Longer-Running Mysteries
 - [[Campaigns/Faldara/Threads/Save the Apotheon|Save the Apotheon]]
 - [[Campaigns/Faldara/Threads/Cure Fineks's Discord|Cure Fineks's Discord]]
 - [[Campaigns/Faldara/Threads/The Other Altars|The Other Altars]]
@@ -21,6 +27,7 @@ tags:
 
 ## Resolved or Materially Advanced
 
+- [[Campaigns/Faldara/Threads/The Rift Crisis|The Rift Crisis]]: The rift was closed in Session 22 and confirmed closed in Session 23.
 - Paul's stolen mask was recovered.
 - The party became Champions of the Lowgates.
 - The crying in the abandoned inn led the party to Velmian.
