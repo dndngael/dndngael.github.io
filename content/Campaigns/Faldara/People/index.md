@@ -38,6 +38,7 @@ tags:
 ## Along the Southern Road
 
 - [[Campaigns/Faldara/People/The Keeper|The Keeper]]
+- [[Campaigns/Faldara/People/Lucille|Lucille]]
 
 ## Earlier Connections
 

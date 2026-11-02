@@ -21,7 +21,7 @@ level: 5
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
 current_location: "On the road to Stormwatch Harbor"
 first_seen: Session 009
-last_updated: Session 026
+last_updated: Session 027
 ---
 
 # Happy
@@ -79,3 +79,9 @@ While traveling south, Happy investigated a living moth with a deliberately pain
 Happy also glimpsed eyes within the shadowed forest, though the creature or person behind them was not identified. Later, when the party tried to rescue an apparent halfling trapped under a tree, Happy noticed the absence of blood on his supposed injuries. The figure dissolved into an illusion as armed attackers emerged.
 
 The [[Campaigns/Faldara/Threads/Find the Circled Building|building circled on Happy's Session 25 map]] remains unexplained, and no connection to the Keeper has been established.
+
+## Session 27: A Rope to Carry
+
+After the party recovered a farmer's stolen animals without fighting, the farmer rewarded them with a **Rope of Climbing**, which **Happy now carries**. The rope can bind a target on command, as established by Ryan at the table. Other proposed uses, including pursuing teleporting targets, were jokes rather than established item rules.
+
+The circled building from Happy's Stormwatch Harbor map remains unidentified. The session ended with the party camped one night before entering the city.

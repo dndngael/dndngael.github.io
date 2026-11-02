@@ -11,7 +11,7 @@ tags:
 status: unvisited
 location_type: Harbor settlement
 first_seen: Session 023
-last_updated: Session 025
+last_updated: Session 027
 ---
 
 # Stormwatch Harbor
@@ -42,6 +42,16 @@ Sailors' earlier stories described frightening weather and water that appeared t
 A contract recovered from a spellcaster at a burning cabin bore an unusual hooded, blank-faced emblem. Sev said he recognized the mark and connected it to something he called **the Faceless**. The physical contract is real, but its meaning, the existence and nature of the Faceless, and Sev's explanation remain unverified.
 
 See [[Campaigns/Faldara/Threads/Stormwatch Harbor Investigation|Stormwatch Harbor Investigation]].
+
+## Religious Leads Heard on the Road (Session 27)
+
+**Fisherman Mac**, an Eravona devotee, described the seaside [[Campaigns/Faldara/Places/Churning Temple|Churning Temple]] and said its associated **Churning Church** is headed by **Captain Lannery**, his former captain. Mac attributed the harbor's reported troubles to Eravona's anger with Solano's influence. That is his belief, not an independently verified cause.
+
+A Solano pilgrim, [[Campaigns/Faldara/People/Lucille|Lucille]], told the travelers that the [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]] is a cathedral and huge lighthouse in Stormwatch Harbor. She said **Cardinal Pedro**, reportedly from **New-Doleh**, is based there. After Lheani helped her care for an injured wolf, she gave him a medal permitting him to attempt a trial for an audience.
+
+The party has not entered either religious site or met either leader. Keep the **Tidal Spire** distinct from the **Dawn Spire** and **Church of Solano** identified from Happy's sketch, and the **Churning Temple** distinct from the **Temple of the Deep**, until an actual-play identification is made.
+
+Session 27 ended with the party camped for **one final night before arriving at Stormwatch Harbor**.
 
 ## Happy's Unexpected Map (Session 25)
 

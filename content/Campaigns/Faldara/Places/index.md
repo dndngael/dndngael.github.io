@@ -30,4 +30,10 @@ tags:
 - [[Campaigns/Faldara/Places/Tur'Farinil|Tur'Farinil]]
 - [[Campaigns/Faldara/Places/Tur'Farinil's Library|Tur'Farinil's Library]]
 
+## Stormwatch Harbor (Reported Locations)
+
+- [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]]
+- [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]]
+- [[Campaigns/Faldara/Places/Churning Temple|Churning Temple]]
+
 Return to [[Campaigns/Faldara/index|Faldara]].

@@ -12,7 +12,7 @@ tags:
   - "#Quest"
 status: open
 first_seen: Session 024
-last_updated: Session 026
+last_updated: Session 027
 ---
 
 # Stormwatch Harbor Investigation
@@ -39,6 +39,15 @@ These reports are **canonically known to the party as hearsay**. They are not ye
 During a later camp watch, [[Campaigns/Faldara/People/Happy|Happy]] drew a coastal map seemingly without knowing what he was drawing. [[Campaigns/Faldara/People/27|27]] recognized [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]], including the Dawn Spire, Church of Solano, and Temple of the Deep. A specific building was marked with a circle, but Happy did not recognize it or know why he had drawn it.
 
 This is a **separate, unexplained personal lead** for Happy, now tracked in [[Campaigns/Faldara/Threads/Find the Circled Building|Find the Circled Building]]. No connection between his drawing, Sev's investigation, or the alleged Faceless has been established. The Session 26 forest encounter and the Keeper's moths have likewise not been connected to Sev's reports.
+
+## Additional Religious Leads (Session 27)
+
+These are separate reports and contacts, not verified proof of Sev's theory, the existence of the Faceless, or the cause of the burning-water reports.
+
+- **Fisherman Mac**, who follows Eravona, referred the group to **Captain Lannery** at the seaside [[Campaigns/Faldara/Places/Churning Temple|Churning Temple]]. He said she leads the **Churning Church**, served as his captain, and should receive his regards.
+- [[Campaigns/Faldara/People/Lucille|Lucille]], a pilgrim of Solano, referred Lheani to **Cardinal Pedro**, reportedly from **New-Doleh**, at the [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]]. She gave Lheani a medal that she said would permit him to attempt a trial for an audience.
+
+Neither location has been visited. Neither is proven identical to a landmark from Happy's earlier map.
 
 ## Possible Next Steps
 

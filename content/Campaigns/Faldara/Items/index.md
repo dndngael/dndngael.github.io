@@ -16,5 +16,6 @@ tags:
 - [[Campaigns/Faldara/Items/Silentstone|Silentstone]]
 - [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]]
 - [[Campaigns/Faldara/Items/Really Cool Cloak|Really Cool Cloak]]
+- [[Campaigns/Faldara/Items/Eye-Bearing Sapphire|Eye-Bearing Sapphire]]
 
 Return to [[Campaigns/Faldara/index|Faldara]].

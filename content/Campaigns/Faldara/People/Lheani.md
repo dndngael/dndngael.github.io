@@ -19,7 +19,7 @@ class: Barbarian
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
 current_location: "On the road to Stormwatch Harbor"
 first_seen: Session 016
-last_updated: Session 025
+last_updated: Session 027
 ---
 
 # Lheani
@@ -69,3 +69,9 @@ Traveling south, Lheani spotted a concealed spike pit before Fineks stepped onto
 While sheltering from heavy rain with a merchant caravan, Lheani introduced himself as **Lheani of Clan Tortle of the New-Doleh Tribe**. He spoke of adventuring as a way to help people and earn a living, and joined his companions in entertaining the merchant Vuzeevio.
 
 That night, he fought six dire wolves with his greataxe and ancestral defenders. Hearing more howls afterward, he warned that another pack was approaching. Alvin's magical hut sheltered the party until the wolves departed. No further history of the New-Doleh Tribe was confirmed in this encounter.
+
+## Session 27: An Invitation from Solano
+
+Lheani calmed a wounded wolf while [[Campaigns/Faldara/People/Lucille|Lucille]], a traveling devotee of Solano, treated it. When she heard that he came from **New-Doleh**, she suggested **Cardinal Pedro**, a Solano leader reportedly from the same place, might recognize the painting on Lheani's shell. Lucille did not recognize it herself.
+
+She gave him a sun-emblem **Medal of Solano**, described as permission to attempt a trial at the [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]] before seeking a meeting with Pedro. The trial and meeting have not happened. Later in the session, Lheani healed a farmer and carried the sleepy Fineks while the party recovered six cows and five goats for the farmer.

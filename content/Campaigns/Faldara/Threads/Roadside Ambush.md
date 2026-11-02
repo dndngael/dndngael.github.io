@@ -10,9 +10,9 @@ publish: true
 tags:
   - "#Quest"
   - "#Thread"
-status: active
+status: archived
 first_seen: Session 026
-last_updated: Session 026
+last_updated: Session 027
 ---
 
 # Roadside Ambush
@@ -25,7 +25,7 @@ The party worked to free the apparent victim. When [[Campaigns/Faldara/People/Fi
 
 ## Current Objective
 
-Survive or otherwise escape the ambush. If circumstances allow, discover who arranged the illusion and what the attackers want.
+**No active objective.** The incident was forgotten between sessions. No in-world outcome was established, and it will not be tracked as an active quest.
 
 ## What the Party Knows
 
@@ -41,7 +41,11 @@ Survive or otherwise escape the ambush. If circumstances allow, discover who arr
 - The illusion was discovered and the ambush began.
 - Session ended at initiative, before any recorded resolution.
 
-## Open Questions
+### Session 027 - A Fish, Two Faiths, and a Questionable Rope
+- The session resumed with road travel but did not revisit the ambush.
+- Gael confirmed that it was forgotten between sessions and should be **archived without an invented in-world resolution**.
+
+## Unanswered Questions (archived, no ongoing follow-up)
 
 - Who prepared or maintained the illusion?
 - Who are the armed figures, and why are they attacking travelers?

@@ -20,7 +20,7 @@ occupation:
 affiliations:
   - "[[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]"
 first_seen: Session 002
-last_updated: Session 026
+last_updated: Session 027
 ---
 
 # Fineks
@@ -82,3 +82,9 @@ At an ancient forest reached by following the moth, Fineks inspected a tree and 
 During subsequent travel the party gathered **15 gp worth of herbalism supplies**, with no completed potion confirmed. On approximately day twelve, Fineks tried to heal a halfling supposedly pinned beneath a fallen tree. The healing had no apparent effect, and the halfling was revealed to be an illusion used in a [[Campaigns/Faldara/Threads/Roadside Ambush|roadside ambush]]. The party rolled initiative, and the outcome remains unresolved.
 
 Fineks continues toward Apeiron with the party. Her suppressed soul song was not cured in this session.
+
+## Session 27: A Sapphire in a Fish
+
+While eating a perch bought from Fisherman Mac, Fineks found a [[Campaigns/Faldara/Items/Eye-Bearing Sapphire|clear blue sapphire]] that appeared to contain a moving eye-like image. She recognized the sign as associated with invitations attributed to Eravona, but the stone's true origin and magical properties remain unknown. Fineks quietly pocketed it without telling her companions in character.
+
+She was mostly asleep during the late-night recovery of a farmer's stolen livestock. Her suppressed soul song was not cured during this session.
