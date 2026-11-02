@@ -12,7 +12,7 @@ tags:
   - "#Quest"
 status: open
 first_seen: Session 024
-last_updated: Session 025
+last_updated: Session 026
 ---
 
 # Stormwatch Harbor Investigation
@@ -38,7 +38,7 @@ These reports are **canonically known to the party as hearsay**. They are not ye
 
 During a later camp watch, [[Campaigns/Faldara/People/Happy|Happy]] drew a coastal map seemingly without knowing what he was drawing. [[Campaigns/Faldara/People/27|27]] recognized [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]], including the Dawn Spire, Church of Solano, and Temple of the Deep. A specific building was marked with a circle, but Happy did not recognize it or know why he had drawn it.
 
-This is a **separate, unexplained personal lead** for Happy. No connection between his drawing, Sev's investigation, or the alleged Faceless has been established.
+This is a **separate, unexplained personal lead** for Happy, now tracked in [[Campaigns/Faldara/Threads/Find the Circled Building|Find the Circled Building]]. No connection between his drawing, Sev's investigation, or the alleged Faceless has been established. The Session 26 forest encounter and the Keeper's moths have likewise not been connected to Sev's reports.
 
 ## Possible Next Steps
 
