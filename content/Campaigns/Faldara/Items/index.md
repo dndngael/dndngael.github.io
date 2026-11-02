@@ -17,5 +17,6 @@ tags:
 - [[Campaigns/Faldara/Items/Farinia's Codex|Farinia's Codex]]
 - [[Campaigns/Faldara/Items/Really Cool Cloak|Really Cool Cloak]]
 - [[Campaigns/Faldara/Items/Eye-Bearing Sapphire|Eye-Bearing Sapphire]]
+- [[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]]
 
 Return to [[Campaigns/Faldara/index|Faldara]].

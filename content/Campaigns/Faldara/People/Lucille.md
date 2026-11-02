@@ -27,4 +27,4 @@ Lucille is an older, white-robed pilgrim met on the road to [[Campaigns/Faldara/
 
 She described the [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]] as a Solano cathedral and lighthouse. She said **Cardinal Pedro**, a cleric reportedly from **New-Doleh**, might recognize Lheani's painted shell. She did not recognize it herself.
 
-Lucille gave Lheani a sun-emblem **Medal of Solano**, which she said would allow him to attempt a trial before seeking an audience with Pedro. She asked Lheani to tell him that her pilgrimage continues. Her destination remains unknown.
+Lucille gave Lheani a sun-emblem [[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]], which she said would allow him to attempt a trial before seeking an audience with Pedro. She asked Lheani to tell him that her pilgrimage continues. Her destination remains unknown.

@@ -42,7 +42,7 @@ Later the group came upon an older woman in white robes tending to an injured wo
 
 [[Campaigns/Faldara/People/Lheani|Lheani]] calmed the frightened wolf, allowing Lucille to bandage it and heal its wounds. During their conversation, Lheani mentioned his origins in **New-Doleh** and showed Lucille the painting on his shell. She did not recognize the imagery, but said **Cardinal Pedro**, a Solano cleric at the Tidal Spire who also comes from New-Doleh, might know more.
 
-Lucille handed Lheani a **sun-marked medallion of Solano**. She said it would grant him an invitation into the Tidal Spire, where he would have to pass a trial before being allowed to speak with Cardinal Pedro. She also asked him to tell Pedro that her pilgrimage continues. The Tidal Spire, she explained, is the harbor's enormous lighthouse and should be difficult to miss. Of course, that sounded like a challenge.
+Lucille handed Lheani a sun-marked [[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]]. She said it would grant him an invitation into the Tidal Spire, where he would have to pass a trial before being allowed to speak with Cardinal Pedro. She also asked him to tell Pedro that her pilgrimage continues. The Tidal Spire, she explained, is the harbor's enormous lighthouse and should be difficult to miss. Of course, that sounded like a challenge.
 
 ### The great cattle caper
 
@@ -105,7 +105,7 @@ The party returned to rest, continued along the road, and gathered a little more
 
 - **A large perch:** Bought for **1 sp** and eaten by Fineks.
 - **[[Campaigns/Faldara/Items/Eye-Bearing Sapphire|Eye-bearing sapphire]]:** Found in the perch and kept by Fineks. Its actual properties remain unknown.
-- **Medallion of Solano:** Given to Lheani by Lucille as an invitation to the Tidal Spire's trial.
+- **[[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]]:** Given to Lheani by Lucille as an invitation to the Tidal Spire's trial.
 - **Rope of Climbing:** Given by the rescued farmer and now carried by Happy. It can bind a target on command.
 - **Herbalism materials:** About **6 gp worth** gathered during this session, bringing the previously recorded **15 gp** supply to approximately **21 gp total**. No healing potion was completed.
 
