@@ -21,7 +21,7 @@ level: 5
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
 current_location: "On the road to Stormwatch Harbor"
 first_seen: Session 009
-last_updated: Session 025
+last_updated: Session 026
 ---
 
 # Happy
@@ -71,3 +71,11 @@ On the journey toward [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Ha
 While taking the last watch after a nighttime dire-wolf attack, Happy absentmindedly drew a coastal city in the dirt. [[Campaigns/Faldara/People/27|27]] recognized it as **Stormwatch Harbor**, identifying the Dawn Spire, Church of Solano, Temple of the Deep, and coastline. The drawing also marked an unidentified building with a circle. Happy felt an inexplicable familiarity but could not explain the map or the circled building.
 
 **What this means for Happy's missing history remains unknown.** See [[Campaigns/Faldara/Threads/Stormwatch Harbor Investigation|Stormwatch Harbor Investigation]].
+
+## Session 26: The Keeper's Moths
+
+While traveling south, Happy investigated a living moth with a deliberately painted purple circle, which [[Campaigns/Faldara/People/Fineks|Fineks]] had caught near the campfire. His *Detect Magic* revealed a faint purple aura of **divination magic** on the moth. Happy confirmed that he had a **Ring of Animal Influence**, which he used to speak with the insect. The moth said it was watching for someone known as [[Campaigns/Faldara/People/The Keeper|the Keeper]] and led the party to a forest boundary guarded by an unseen voice.
+
+Happy also glimpsed eyes within the shadowed forest, though the creature or person behind them was not identified. Later, when the party tried to rescue an apparent halfling trapped under a tree, Happy noticed the absence of blood on his supposed injuries. The figure dissolved into an illusion as armed attackers emerged.
+
+The [[Campaigns/Faldara/Threads/Find the Circled Building|building circled on Happy's Session 25 map]] remains unexplained, and no connection to the Keeper has been established.
