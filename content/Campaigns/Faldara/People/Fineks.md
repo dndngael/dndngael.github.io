@@ -79,6 +79,6 @@ On the road toward Stormwatch Harbor, Fineks noticed moths bearing purple circle
 
 At an ancient forest reached by following the moth, Fineks inspected a tree and found marks and structures apparently intended to attract moths. An arrow struck near her, followed by a warning from an unseen speaker calling herself [[Campaigns/Faldara/People/The Keeper|the Keeper]]. The party chose to leave.
 
-During subsequent travel Fineks gathered **15 gp worth of herbalism supplies**, with no completed potion confirmed. On approximately day twelve, Fineks tried to heal a halfling supposedly pinned beneath a fallen tree. The healing had no apparent effect, and the halfling was revealed to be an illusion used in a [[Campaigns/Faldara/Threads/Roadside Ambush|roadside ambush]]. The party rolled initiative, and the outcome remains unresolved.
+During subsequent travel the party gathered **15 gp worth of herbalism supplies**, with no completed potion confirmed. On approximately day twelve, Fineks tried to heal a halfling supposedly pinned beneath a fallen tree. The healing had no apparent effect, and the halfling was revealed to be an illusion used in a [[Campaigns/Faldara/Threads/Roadside Ambush|roadside ambush]]. The party rolled initiative, and the outcome remains unresolved.
 
 Fineks continues toward Apeiron with the party. Her suppressed soul song was not cured in this session.
