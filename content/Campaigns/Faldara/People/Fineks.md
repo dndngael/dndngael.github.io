@@ -20,7 +20,7 @@ occupation:
 affiliations:
   - "[[Campaigns/Faldara/Groups/Dawn's Bane|Dawn's Bane]]"
 first_seen: Session 002
-last_updated: Session 025
+last_updated: Session 026
 ---
 
 # Fineks
@@ -72,3 +72,13 @@ Around the campfire on the road to [[Campaigns/Faldara/Places/Stormwatch Harbor|
 Fineks was reluctant to elaborate on the circle or her past. The reason has not been established.
 
 She also helped entertain a wealthy merchant named **Vuzeevio**, attempting a magical display with fire and wind, and fought alongside the party against dire wolves that attacked their camp. Her soul song remains suppressed, and the journey to Apeiron continues.
+
+## Session 26: The Keeper's Moths
+
+On the road toward Stormwatch Harbor, Fineks noticed moths bearing purple circles. Using *Control Flames* to attract one, she captured a marked moth alive. It could not enter the already-cast magical hut with her, so Fineks waited outside. When two owlbears investigated the shelter, she hid in the tall grass until they left.
+
+At an ancient forest reached by following the moth, Fineks inspected a tree and found marks and structures apparently intended to attract moths. An arrow struck near her, followed by a warning from an unseen speaker calling herself [[Campaigns/Faldara/People/The Keeper|the Keeper]]. The party chose to leave.
+
+During subsequent travel Fineks gathered **15 gp worth of herbalism supplies**, with no completed potion confirmed. On approximately day twelve, Fineks tried to heal a halfling supposedly pinned beneath a fallen tree. The healing had no apparent effect, and the halfling was revealed to be an illusion used in a [[Campaigns/Faldara/Threads/Roadside Ambush|roadside ambush]]. The party rolled initiative, and the outcome remains unresolved.
+
+Fineks continues toward Apeiron with the party. Her suppressed soul song was not cured in this session.
