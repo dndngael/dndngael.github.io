@@ -11,15 +11,9 @@ Welcome. Choose the campaign you play in, then use that campaign home page to fi
 
 ## Campaigns
 
-- [[Campaigns/Faldara/index|Faldara]]
-- [[Campaigns/The Forgotten Realms/index|The Forgotten Realms]]
+- [[Campaigns/Faldara/index|Faldara]] (27, Alvin, Fineks, Happy, Lheani, and Paul)
+- [[Campaigns/Moraeth/index|Moraeth]] (Myrna, Zard, and TBD)
 
 ## House Rules
 
 - [[House Rules|House Rules]]
-
-## Temporary Backups
-
-The older note structure is preserved while notes are migrated into the campaign-first layout.
-
-- [[The Forgotten Realms-backup/The Forgotten Realms|The Forgotten Realms backup]]
