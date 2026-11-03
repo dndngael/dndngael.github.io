@@ -48,8 +48,6 @@ The hallway also contained a Maintenance door, a door belonging to Madame Butter
 
 At last they entered the **Ballroom of Obligatory Merriment**, where a ten-foot, purple-frosted cake stood beneath floating candles and mysteriously self-cleaning confetti.
 
-Happy immediately tried to cut into the cake with an axe.
-
 ### 2. The right to have been born must be earned
 
 A tiny, pink-haired pixie in a fabulous dress intervened before the cake could become a crime scene. This was **Madame Buttercream**, the party's relentlessly enthusiastic birthday administrator.
@@ -68,7 +66,7 @@ The birthday guests were instructed to build Happy presents by hand. Happy was p
 
 **Alvin** produced beautifully fitted **sparkling purple slippers** that shed an apparently inexhaustible quantity of glitter. Happy immediately put them on, then used them to contaminate Paul's tail. The glitter was not coming off. The glitter was never going to come off. Alvin, the Twinkler himself, also acquired a very enthusiastic fan in Madame Buttercream, who briefly made his head her personal VIP seating.
 
-**Lheani** remembered a fancy leatherworking swivel knife Happy had admired and attempted to make a version of it. The resulting object was wooden, meticulously painted, not especially functional, and shaped just unfortunately enough to inspire an entirely separate conversation. Happy appreciated the effort, because sometimes the best present is the one you can never throw away without feeling terrible.
+**Lheani** remembered a fancy leatherworking swivel knife Happy had admired and attempted to make a version of it. The resulting object was wooden, meticulously painted, not especially functional, and shaped just phallic enough to inspire an entirely separate conversation. Happy appreciated the effort, because sometimes the best present is the one you can never throw away without feeling terrible.
 
 **Paul** somehow built Happy an entire **miniature landship**, complete with curtains for privacy. It was large enough for one person, technically moved, made wonderfully convincing engine noises, and required the occupant to propel it with their feet like a child's toy.
 
@@ -93,7 +91,7 @@ When the music stopped, the chairs dodged everyone's attempts to sit down and *g
 The contestants were introduced to:
 
 - **Dame Upholstria**, an elegant, fiercely dignified chair with standards
-- **Lord Sidemus Maximus**, a sturdy aristocrat of considerable cushioning
+- **Lord Sitimus Maximus**, a sturdy aristocrat of considerable cushioning
 - **Sir Lazy Boy**, relaxed, slightly reclined, and apparently not interested in anyone's nonsense
 - **Gerald**, just Gerald, a polite chair who only wanted someone to ask nicely
 
@@ -101,9 +99,9 @@ Paul attempted to win Dame Upholstria's favor after tackling and sitting on her 
 
 **A new political philosophy emerged: consent-based musical chairs.**
 
-Then came ball bearings on the dance floor, chairs sprinting away when the lights flickered, desperate negotiations, rejected advances, and a growing number of situations that could only be described as *complicated relationships with furniture*.
+Then came "Paul" bearings on the dance floor, chairs sprinting away when the lights flickered, desperate negotiations, rejected advances, and a growing number of situations that could only be described as *complicated relationships with furniture*. JD Vance would be proud.
 
-Lheani withdrew into his shell and started spinning. Sir Lazy Boy and Lord Sidemus Maximus climbed aboard. Alvin balanced atop the pair in a display of acrobatics that turned a children's party game into an experimental chair-stacking performance. Gerald expressed discomfort about stacking in public, and his boundaries were respected.
+Lheani withdrew into his shell and started spinning. Sir Lazy Boy and Lord Sitimus Maximus climbed aboard. Alvin balanced atop the pair in a display of acrobatics that turned a children's party game into an experimental chair-stacking performance. Gerald expressed discomfort about stacking in public, and his boundaries were respected.
 
 For a brief, beautiful moment, the whole room seemed to be learning something about kindness, dignity, and upholstery.
 
@@ -123,9 +121,9 @@ Alvin healed Happy. Happy healed Dame Upholstria. Lheani entered a rage and came
 
 Paul tried to survive the consequences of his decisions by casting magical **Darkness**, blinding essentially everyone in the immediate vicinity. It did not stop the furniture.
 
-Dame Upholstria, Lord Sidemus Maximus, Sir Lazy Boy, and Gerald descended upon the earl in a four-chair reckoning. Paul was bitten, grabbed, and eventually knocked unconscious. His Darkness vanished along with his chances of winning any popularity contests.
+Dame Upholstria, Lord Sitimus Maximus, Sir Lazy Boy, and Gerald descended upon the earl in a four-chair reckoning. Paul was bitten, grabbed, and eventually knocked unconscious. His Darkness vanished along with his chances of winning any popularity contests.
 
-The surviving guests stabilized him, then tied him up using **all fifty feet of rope**.
+The surviving guests stabilized him, then tied him up using **all fifty feet of Happy's shibari rope**.
 
 A new birthday tradition was born:
 
@@ -137,7 +135,7 @@ The **Acceptable Amount of Merriment** box was stamped.
 
 ### 5. The piñata passes inspection
 
-Back in the main ballroom, a towering, impossibly thin man with a handsome handlebar mustache and the disposition of an audit introduced himself as **Reginald No-Fun**.
+Back in the main ballroom, a towering, impossibly thin man with a handsome handlebar mustache and the disposition of an audit introduced himself as **Reginald Nofun**.
 
 He inspected the application. Two stamps were present. One remained.
 
@@ -177,7 +175,7 @@ So it had obviously been a dream.
 
 Except all four of them remembered it.
 
-And Happy woke up with **the glittery purple slippers still on their feet**.
+And Happy woke up with **the glittery purple slippers still on his feet**.
 
 The group discussed what had happened. Paul claimed not to remember stabbing Happy, apparently hoping that a lack of recollection would function as a complete legal defense. Some of the others were willing to entertain the possibility that he'd forgotten. Happy was not.
 
@@ -206,7 +204,7 @@ The Department has not issued a statement.
 - **Madame Buttercream:** A tiny, pink-haired pixie who took mandatory joy, stamps, and celebrity dancers very seriously.
 - **Reginald No-Fun:** A towering departmental auditor with an enormous stamp and an alarming willingness to approve unconventional piñatas.
 - **Dame Upholstria:** An aristocratic chair betrayed by a man who should never again be trusted near upholstered furniture.
-- **Lord Sidemus Maximus:** A sturdy, noble chair who eventually joined the anti-Paul coalition.
+- **Lord Sitimus Maximus:** A sturdy, noble chair who eventually joined the anti-Paul coalition.
 - **Sir Lazy Boy:** A reclining chair whose day improved considerably when he climbed onto Lheani's rotating shell.
 - **Gerald:** A genuinely sweet chair. Possibly the healthiest relationship anybody had all evening.
 
@@ -232,13 +230,11 @@ The Department has not issued a statement.
 
 **One-shot objective: Obtain Permission to Have Been Born.** Completed, at least according to the paperwork.
 
-No new quests or consequences are being added to the main campaign. This episode stands alone. The Department's jurisdiction over canon remains **unconfirmed**.
-
 ## Loot, Rewards, and Resources
 
 - **Sparkling purple slippers:** Made for Happy by Alvin. They continued to exist after the apparent dream, which is extremely inconvenient for the dream explanation.
-- **Hand-painted wooden swivel knife:** Lheani's lovingly awkward birthday gift. Its status after returning to camp is unclear.
-- **Miniature foot-powered landship:** Paul's spectacularly impractical present and the gift-contest winner. Its status after returning to camp is unclear.
+- **Hand-painted wooden swivel knife:** Lheani's lovingly awkward birthday gift. It was found in Happy's pocket after he woke up in camp.
+- **Miniature foot-powered landship:** Paul's spectacularly impractical present and the gift-contest winner. Its status after returning to camp is unknown.
 - **One official birthday, shared with Alvin:** The most important reward, assuming the paperwork holds up.
 - **One homemade earl sash, several emotional wounds, and an unspeakable amount of glitter:** Acquired during the proceedings. Their long-term persistence is anybody's guess.
 - **A large quantity of birthday cake:** Enjoyed, weaponized, and possibly stuffed into a shell. None was reliably recovered after waking.
@@ -250,3 +246,5 @@ The four adventurers were back at camp, alive and restored, with memories of an 
 Whether the whole affair actually happened is anyone's guess.
 
 But if Happy's birthday comes around again, **Paul should probably stay away from the chairs.**
+
+# **Happy Birthday, Emily, and Happy Newly-Obtained Birthday, Happy: Vendana 28th!**
