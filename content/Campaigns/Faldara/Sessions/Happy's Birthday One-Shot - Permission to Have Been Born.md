@@ -247,4 +247,4 @@ Whether the whole affair actually happened is anyone's guess.
 
 But if Happy's birthday comes around again, **Paul should probably stay away from the chairs.**
 
-# **Happy Birthday, Emily, and Happy Newly-Obtained Birthday, Happy: Vendana 28th!**
+**Happy Birthday, Emily, and Happy Newly-Obtained Birthday, Happy: Vendana 28th!**
