@@ -26,7 +26,7 @@ first_seen: Session 001
 > | **Status** | Active |
 > | **First seen** | Session 001 |
 
-**Myrna** is a reborn cleric whose faith is associated with joy. She remembers dying before waking in a green, membrane-like pod beside [[Campaigns/Moraeth/Places/Wesmas|Wesmas]].
+**Myrna** is a reborn cleric whose faith is associated with Lliira, the Faerûnian Goddess of Joy. She remembers dying in Baldur's Gate before waking in a green, membrane-like pod beside [[Campaigns/Moraeth/Places/Wesmas|Wesmas]].
 
 ## Session History
 
