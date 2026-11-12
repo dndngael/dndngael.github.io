@@ -12,7 +12,7 @@ Welcome. Choose the campaign you play in, then use that campaign home page to fi
 ## Campaigns
 
 - [[Campaigns/Faldara/index|Faldara]] (27, Alvin, Fineks, Happy, Lheani, and Paul)
-- [[Campaigns/Moraeth/index|Moraeth]] (Myrna, Zard, and Hugh Mann)
+- [[Campaigns/Moraeth/index|Moraeth]] (Hugh, Myrna, and Zard)
 
 ## House Rules
 
