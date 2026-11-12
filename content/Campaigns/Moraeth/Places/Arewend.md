@@ -3,8 +3,8 @@ title: "Arewend"
 campaign: Moraeth
 note_type: location
 visibility: player
-dg-publish: true
-publish: true
+dg-publish: false
+publish: false
 tags:
   - "#Location"
 status: unvisited
