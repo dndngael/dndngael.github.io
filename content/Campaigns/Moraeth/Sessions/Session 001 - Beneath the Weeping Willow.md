@@ -20,21 +20,21 @@ The party died, woke up in plants and a grave, fought a ghost that insisted they
 
 ## Previously
 
-[[Campaigns/Moraeth/People/Myrna|Myrna]] and [[Campaigns/Moraeth/People/Zard|Zard]] remembered dying alongside their companion [[Campaigns/Moraeth/People/Fen|Fen]]. Instead of whatever came next, they awoke in an unfamiliar place enclosed in living green pods. Nearby, someone else pushed his way out of a grave.
+[[Campaigns/Moraeth/People/Myrna|Myrna]] and [[Campaigns/Moraeth/People/Zard|Zard]] remembered dying alongside their party member [[Campaigns/Moraeth/People/Fen|Fen]]. Instead of whatever came next, they awoke in an unfamiliar place enclosed in living green pods. Nearby, someone else pushed his way out of a grave.
 
 ## What Happened
 
 ### A grave opens
 
-A towering, armored stranger emerged from the soil beneath a huge, lifeless willow. Around him were graves, luminous mushrooms, strange floating plants, two glowing green pods, and the badly damaged body of Fen, the party's autognome companion.
+A towering, armored stranger emerged from the soil beneath a huge, lifeless willow. Around him were graves, luminous mushrooms, strange floating plants, two glowing green pods, and the badly damaged body of Fen, the autognome member of the 3 Gay Rezards.
 
-The stranger felt an overwhelming need to protect the two presences inside the pods. When he examined Fen's damaged body, he felt both grief and pride, even though he did not understand the connection.
+The stranger felt an overwhelming need to protect the two presences he felt inside the pods. When he examined Fen's damaged body, he felt both grief and pride, even though he did not understand the connection quite yet.
 
 A floating spirit appeared and spoke directly into his mind: **“You're not supposed to be here.”** It attacked, and the armored stranger answered with his greatsword and a spectral echo of himself. Myrna and Zard tore free of their pods during the fight. Myrna healed the stranger, Zard moved to help, and the stranger ultimately cut the spirit apart.
 
 ### Fen's farewell
 
-The stranger knew Myrna and Zard's names, but neither recognized him. He explained that he was not Fen, even though Fen's final desire to protect them seemed connected to his own existence. He believed Fen had awakened before the others, confronted the spirit, and died trying to protect them. Much about this remains uncertain.
+The stranger knew Myrna and Zard's names, but neither recognized him. He explained that he was not Fen, even though Fen's final desire to protect them seemed connected to his own existence. He believed Fen had awakened before the others, confronted the spirit, and died trying to protect them.
 
 The party gathered some of Fen's belongings and laid his damaged body in the grave from which the stranger had emerged. They offered a few words and a prayer for their fallen companion. Afterward, a faint blue light passed along one of the dry willow's branches and fell as a single tear.
 
@@ -48,7 +48,7 @@ Dust had gathered indoors, and abandoned food had begun to spoil. One table was 
 
 Inside a larger civic-looking building, they searched old records. Among routine trade documents they found an account of a **spirit named Wesmas**, described as a peaceful protector. Its description resembled the being the party had just destroyed. Whether they have understood the full story is another matter.
 
-Throughout the exploration, the plants' glow slowly dimmed. There was no sun or moon overhead, yet the place developed an unmistakable evening darkness. The party also discovered strange edible mushrooms, including dried mushrooms at the inn that tasted surprisingly well seasoned. A bright yellow mushroom picked earlier had lost its light as soon as it was uprooted.
+Throughout the exploration, the plants' glow slowly dimmed. There was no sun or moon overhead, yet the place developed an unmistakable evening darkness. The party also discovered strange edible mushrooms, including dried mushrooms at the inn that tasted surprisingly well seasoned. A bright yellow mushroom picked earlier by Myrna had lost its light as soon as it was uprooted.
 
 ## Defining Choices and Moments
 
@@ -69,7 +69,7 @@ Throughout the exploration, the plants' glow slowly dimmed. There was no sun or 
 
 The world appears to lie beneath a vast ceiling rather than an open sky. Living things provide much of its light. Fen's death, the green pods, Hugh's awakening, the spirit's warning, and the empty village could be connected, but the party does not know how.
 
-The records suggest the defeated spirit may once have protected the settlement. The party has not established what became of the residents or why the spirit attacked.
+The records suggest the defeated spirit may once have protected the settlement. The party has not established what became of the residents or why the spirit attacked them.
 
 ## Open Quests and Threads
 
@@ -79,12 +79,12 @@ The records suggest the defeated spirit may once have protected the settlement. 
 
 ## Rewards and Resources
 
-The party salvaged belongings from Fen, including brewing supplies, and Hugh took a small piece of Fen as a keepsake. Exact transferred inventory and currency amounts were not finalized.
+The party salvaged belongings from Fen, including brewing supplies, and Hugh took a small piece of Fen as a keepsake, a gear and some wire that he made a necklace out of
 
-The group also found food at the inn. The heavy crossbow spotted at the blacksmith's shop was **not** confirmed as taken.
+The group also found food at the inn.
 
 ## Where We Left Off
 
-The party chose to rest in Wesmas's deserted inn. Hugh kept watch for part of the night and spotted unfamiliar, apparently harmless little animals outside. No attack disturbed the rest.
+The party chose to rest in Wesmas's deserted inn. Myrna kept watch for part of the night and spotted unfamiliar, apparently harmless little animals outside. No attack disturbed the rest.
 
 They remain in Wesmas, with empty buildings to explore and more questions than answers.
