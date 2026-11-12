@@ -33,9 +33,9 @@ The nearby graveyard is arranged around an enormous **dead willow tree**. Unmark
 
 ## Important Areas
 
-- **Graveyard:** Where [[Campaigns/Moraeth/People/Hugh Mann|Hugh Mann]] emerged, Fen's body was discovered, and the party fought [[Campaigns/Moraeth/People/Spirit of Wesmas|a spirit]].
+- **Graveyard:** Where [[Campaigns/Moraeth/People/Hugh Mann|Hugh]] emerged, Fen's body was discovered, and the party fought [[Campaigns/Moraeth/People/Spirit of Wesmas|a spirit]].
 - **Inn:** Dusty but serviceable shelter where the party found dried mushrooms and rested.
-- **Blacksmith's workshop:** Contained a half-finished longsword and a heavy crossbow. The crossbow was not confirmed as taken.
+- **Blacksmith's workshop:** Contained a half-finished longsword and a heavy crossbow.
 - **Market and homes:** Apparently deserted, with ordinary possessions and spoiled food left behind.
 - **Larger civic-looking building:** Contained trade records and writing about a protective spirit.
 
