@@ -21,7 +21,7 @@ first_seen: Session 001
 > | **Status** | Destroyed in the confrontation |
 > | **First seen** | Session 001 |
 
-In the graveyard outside [[Campaigns/Moraeth/Places/Wesmas|Wesmas]], a floating spirit appeared before [[Campaigns/Moraeth/People/Hugh Mann|Hugh Mann]] and spoke into his mind: **“You're not supposed to be here.”** It attacked, and Hugh destroyed it during the fight that followed.
+In the graveyard outside [[Campaigns/Moraeth/Places/Wesmas|Wesmas]], a floating spirit appeared before [[Campaigns/Moraeth/People/Hugh Mann|Hugh]] and spoke into his mind: **“You're not supposed to be here.”** It attacked, and Hugh destroyed it during the fight that followed.
 
 Records found later in the village described a peaceful protector spirit named **Wesmas** whose appearance resembled the one the party fought. The similarity prompted the party to suspect it had slain the village's protector. The spirit's reasons for attacking remain unknown.
 
