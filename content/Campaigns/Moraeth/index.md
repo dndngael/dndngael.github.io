@@ -14,7 +14,7 @@ status: active
 
 The party has died before. That does not mean their story is over.
 
-Myrna, Zard, and Hugh Mann awoke in a strange subterranean world of luminous plants, enormous fungi, and unfamiliar life. Their first steps brought them to [[Campaigns/Moraeth/Places/Wesmas|Wesmas]], a deserted settlement whose silence has already raised uncomfortable questions.
+Myrna, Zard, and Hugh awoke in a strange subterranean world of luminous plants, enormous fungi, and unfamiliar life. Their first steps brought them to [[Campaigns/Moraeth/Places/Wesmas|Wesmas]], a deserted settlement whose silence has already raised uncomfortable questions.
 
 ## Explore the Campaign
 
@@ -27,10 +27,8 @@ Myrna, Zard, and Hugh Mann awoke in a strange subterranean world of luminous pla
 
 - [[Campaigns/Moraeth/People/Myrna|Myrna]], a reborn cleric
 - [[Campaigns/Moraeth/People/Zard|Zard]], a lizardfolk warlock
-- [[Campaigns/Moraeth/People/Hugh Mann|Hugh Mann]], a revenant fighter with a powerful protective instinct
+- [[Campaigns/Moraeth/People/Hugh Mann|Hugh Mann]], a revenant fighter
 
 ## Begin Here
 
 [[Campaigns/Moraeth/Sessions/Session 001 - Beneath the Weeping Willow|Session 001: Beneath the Weeping Willow]] records the party's arrival, its confrontation in a graveyard, and the mystery of an abandoned village.
-
-The world is still being discovered. These pages record what the characters have actually encountered, and keep unproven explanations as questions.
