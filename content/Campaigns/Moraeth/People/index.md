@@ -1,5 +1,5 @@
 ---
-title: "People of Moraeth"
+title: "People"
 campaign: Moraeth
 note_type: index
 visibility: player
@@ -9,7 +9,7 @@ tags:
   - "#Character"
 ---
 
-# People and Characters
+# People
 
 ## The Party
 

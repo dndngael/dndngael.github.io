@@ -1,5 +1,5 @@
 ---
-title: "Places of Moraeth"
+title: "Places"
 campaign: Moraeth
 note_type: index
 visibility: player

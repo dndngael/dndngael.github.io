@@ -1,5 +1,5 @@
 ---
-title: "Moraeth Session Recaps"
+title: "Session Recaps"
 campaign: Moraeth
 note_type: index
 visibility: player

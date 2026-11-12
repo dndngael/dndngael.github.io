@@ -1,5 +1,5 @@
 ---
-title: "Open Threads of Moraeth"
+title: "Open Threads"
 campaign: Moraeth
 note_type: index
 visibility: player

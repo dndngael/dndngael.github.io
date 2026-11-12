@@ -19,7 +19,7 @@ Myrna, Zard, and Hugh awoke in a strange subterranean world of luminous plants, 
 ## Explore the Campaign
 
 - [[Campaigns/Moraeth/Sessions/index|Session Recaps]]
-- [[Campaigns/Moraeth/People/index|People and Characters]]
+- [[Campaigns/Moraeth/People/index|People]]
 - [[Campaigns/Moraeth/Places/index|Places]]
 - [[Campaigns/Moraeth/Threads/index|Open Threads]]
 
