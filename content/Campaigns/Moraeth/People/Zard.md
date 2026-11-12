@@ -26,7 +26,7 @@ first_seen: Session 001
 > | **Status** | Active |
 > | **First seen** | Session 001 |
 
-**Zard** is a lizardfolk warlock who remembers dying and then speaking with an unfamiliar being before awakening in a green pod near [[Campaigns/Moraeth/Places/Wesmas|Wesmas]]. The identity of that being remains uncertain.
+**Zard** is a lizardfolk warlock who remembers dying in Baldur's Gate and then speaking with an unfamiliar, undead being before awakening in a green pod near [[Campaigns/Moraeth/Places/Wesmas|Wesmas]]. The identity of that being remains uncertain.
 
 ## Session History
 
