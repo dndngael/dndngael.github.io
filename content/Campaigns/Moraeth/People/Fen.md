@@ -18,13 +18,13 @@ first_seen: Session 001
 > | | |
 > | --- | --- |
 > | **Ancestry** | Autognome |
-> | **Role** | Former companion |
+> | **Role** | Former party member |
 > | **Status** | Dead |
 > | **First seen in Moraeth** | Session 001 |
 
-**Fen** was the party's autognome companion. His badly damaged mechanical body was found beside two green pods near the graveyard outside [[Campaigns/Moraeth/Places/Wesmas|Wesmas]].
+**Fen** was a member of the 3 Gay Rezards, and he died with the rest of the party in Baldur's Gate. His badly damaged mechanical body was found beside two green pods near the graveyard outside [[Campaigns/Moraeth/Places/Wesmas|Wesmas]].
 
-The group mourned him and buried his remains in the disturbed grave from which [[Campaigns/Moraeth/People/Hugh Mann|Hugh Mann]] had emerged. Some of his belongings were recovered, including brewing supplies, and Hugh kept a small component as a remembrance.
+The group mourned him and buried his remains in the disturbed grave from which [[Campaigns/Moraeth/People/Hugh Mann|Hugh]] had emerged. Some of his belongings were recovered, including brewing supplies, and Hugh kept a small component as a remembrance.
 
 Hugh believes that Fen's wish to protect Myrna and Zard somehow played a role in his own awakening. The precise nature of their connection remains unknown.
 
