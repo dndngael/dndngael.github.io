@@ -30,15 +30,15 @@ first_seen: Session 001
 
 ## Fen's Connection
 
-From the moment he awakened, Hugh felt an urgent desire to protect [[Campaigns/Moraeth/People/Myrna|Myrna]] and [[Campaigns/Moraeth/People/Zard|Zard]], though he did not know why. He also felt grief and pride on finding the destroyed body of [[Campaigns/Moraeth/People/Fen|Fen]].
+From the moment he awakened, Hugh felt an urgent desire to protect [[Campaigns/Moraeth/People/Myrna|Myrna]] and [[Campaigns/Moraeth/People/Zard|Zard]], though he did not know why immediately. He also felt grief and pride on finding the destroyed body of [[Campaigns/Moraeth/People/Fen|Fen]].
 
-Hugh explained that he was not Fen, but believed Fen's final wish to protect the others had somehow helped create him. This is Hugh's understanding, not a settled explanation of the magic involved.
+Hugh explained that he was not Fen, but believed Fen's final wish to protect the others had somehow helped create him.
 
 ## Session History
 
 ### [[Campaigns/Moraeth/Sessions/Session 001 - Beneath the Weeping Willow|Session 001]]
 
-Hugh fought and killed a spirit in the graveyard, met the two companions he felt compelled to defend, buried Fen in the grave from which he had arisen, and accompanied the party into the village. He later chose his current name and kept watch while the others rested.
+Hugh fought and killed a spirit in the graveyard, met the two companions he felt compelled to defend, buried Fen in the grave from which he had arisen, and accompanied the party into the village. He later chose his current name.
 
 ## Open Questions
 
