@@ -15,7 +15,9 @@ last_updated: Session 001
 
 # Wesmas
 
-> [!infobox]+ Wesmas
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Wesmas
+> ![](../../../Assets/wesmas.png)
+> 
 > | | |
 > | --- | --- |
 > | **Type** | Village |
@@ -57,3 +59,6 @@ The party awoke near the graveyard, fought the spirit, buried Fen, explored the 
 - Was the defeated spirit the same guardian described in the records?
 - What caused the spirit to warn that the newcomers did not belong?
 - Why did the dead willow shed a tear after Fen's burial?
+
+# The Graveyard Battlemap
+[Wesmas.mp4](../../../attachments/Wesmas.mp4)
