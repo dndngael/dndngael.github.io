@@ -15,7 +15,7 @@ last_updated: Session 001
 
 # Wesmas
 
-> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Wesmas
+> [!infobox]+ Wesmas
 > ![](../../../Assets/wesmas.png)
 > 
 > | | |
