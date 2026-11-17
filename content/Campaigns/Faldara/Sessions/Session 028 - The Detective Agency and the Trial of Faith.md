@@ -33,7 +33,7 @@ The city was not deserted. Merchants set up stalls, townsfolk hurried through th
 
 Following the directions Sev had given them, the group located his second-floor office in the scorched, poorer part of town. There was just one problem: he had not given them a key. Downstairs they met **[[Campaigns/Faldara/People/Nedry|Nedry]]**, a bespectacled gnome who worked for **[[Campaigns/Faldara/People/Gladys|Gladys]]**, the human landlady. Gladys was not especially delighted to learn that Sev had apparently offered his office to another group. She said that, about a week earlier, white-robed visitors had also asked to use the space, without convincing her that Sev had agreed.
 
-Producing Sev's familiar hat helped persuade Gladys that these visitors at least had a legitimate connection to him. She handed over three keys and allowed the group to use the office for the remaining rental period. The office's current rental period is paid through **Vuana 28**. The party is there on **Vuana 26**, with until the **1st of the next month** to pay the **60 gp** rent for the following month. That payment has not been made.
+Producing Sev's familiar hat helped persuade Gladys that these visitors at least had a legitimate connection to him. She handed over three keys and allowed the group to use the office for the remaining rental period. The office's current rental period is paid through **Vuana 28**. The party is there on **Vuana 26**, with until the **1st of the next month** to pay the **60 gp** rent for the following month. That payment has not been made, but It was promised by Paul.
 
 The office itself contained a desk, a sparse bedroom, and a collection of ordinary financial papers. A hidden catch beneath the desk revealed a concealed compartment holding **Sev's latest case file** and **20 gp**. The file described an unnamed, unusually tall woman wearing a gray coat who had hired Sev to investigate a mysterious cult in Stormwatch Harbor.
 
@@ -45,7 +45,7 @@ Another question appeared repeatedly: **“Why do we wear masks?”**
 
 The case turned dangerous after that. Sev wrote that people began conspicuously following him. A severed hand was eventually left at his doorstep. He decided the investigation was no longer worth the risk and fled the city. None of this yet establishes who the gray-coated client was, what happened to Ridge, or who threatened Sev.
 
-There was, at least, one encouraging development for the group's professional future. Outside the office appeared a sign announcing **“Lheani (and You Guys) Detective Agency.”** Nedry offered to direct potential clients their way, keep an eye out for the suspicious visitors, and perhaps meet them for a drink.
+There was, at least, one encouraging development for the group's professional future. Outside the office Lheani produced a sign announcing **“Lheani (and You Guys) Detective Agency.”** Nedry offered to direct potential clients their way, keep an eye out for the suspicious visitors, and perhaps meet them for a drink - a friendly gnome, indeed.
 
 ### A city divided
 
@@ -53,17 +53,17 @@ Nedry gave the party directions to both the Tidal Spire and a cliffside Eravona 
 
 On the way, they encountered an argument about the burning sea that was about to become a fight. Solano's white-robed followers blamed Eravona's worshippers, reasoning that the sea goddess must be responsible for the waters. A fisherman on the other side called the Solano followers cultists and blamed the sun god for the heat and fire. Neither side presented proof.
 
-Lheani planted himself between the factions with a greataxe. A powerful gust drove the opposing groups apart, but some of the crowd turned their anger toward the party. Finally, the magical sound of a cannon blast sent the remaining would-be combatants scattering. No actual battle broke out.
+Lheani planted himself between the factions with a greataxe. A powerful, magical gust cast by Fineks drove the opposing groups apart, but some of the crowd turned their anger toward the party. Finally, the magical sound of a cannon blast from Paul casting Thaumaturgy sent the remaining would-be combatants scattering. No actual battle broke out.
 
-**[[Campaigns/Faldara/People/Captain Exx|Captain Exx]]**, captain of the city watch, arrived with his guards and rewarded the group with **3 gp** for saving them the trouble. He feared that if the crisis continued for weeks, tensions between the city's two faiths could erupt into something much worse. The captain also offered the adventurers places in the watch and volunteered his services if they needed help. Lheani subsequently gave the three gold pieces to [[Campaigns/Faldara/People/Alvin Draper|Alvin]].
+**[[Campaigns/Faldara/People/Captain Exx|Captain Exx]]**, captain of the city watch, arrived with his guards and rewarded Lheani with **3 gp** for saving them the trouble. He feared that if the crisis continued for weeks, tensions between the city's two faiths could erupt into something much worse. The captain also offered the adventurers places in the watch and volunteered his services if they needed help. Lheani subsequently gave the three gold pieces to [[Campaigns/Faldara/People/Alvin Draper|Alvin]], who was more than willing to take them off Lheani's hands.
 
 ### The Triumph of Saint Ludavica
 
 At the towering marble Tidal Spire, guards demanded to know why the party wanted to meet **Cardinal Pedro**. Lheani showed the **[[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]]** received from Lucille after helping her care for an injured wolf. On hearing her name, the guards identified Lucille as a **saint-elect** and admitted the visitors, with the condition that they first face the **Triumph of Saint Ludavica**.
 
-Inside the spire, the party saw statuary, elegant religious artwork, and rooms where healers treated people dressed in everything from expensive fabrics to rags. A pink-haired woman in a blue dress named **[[Campaigns/Faldara/People/Elanora|Elanora]]** examined the medallion and explained that it served not only as an invitation. **Crushing it in one's hand produces the effect of a Greater Healing Potion**, consuming the medallion in the process. The party did not use it.
+Inside the spire, the party saw statuary, elegant religious artwork, and rooms where healers treated people dressed in everything from expensive fabrics to rags. A pink-haired woman in a blue dress named **[[Campaigns/Faldara/People/Elanora|Elanora]]** examined the medallion and explained that it served not only as an invitation. **Crushing it in one's hand produces the effect of a Greater Healing Potion**, consuming the medallion in the process.
 
-The party recalled the legend of **Saint Ludavica**, who confronted an invading warlord and, according to tradition, calmed him with magic and conversation instead of simply defeating him. Elanora explained that passing the saint's trial would permit the group to seek an audience in the upper library, although the cardinal would still decide whether to meet them.
+Elanora recalled the legend of **Saint Ludavica**, who confronted an invading warlord and, according to tradition, calmed him with magic and conversation instead of simply defeating him. Elanora explained that passing the saint's trial would permit the group to seek an audience in the upper library, although the cardinal would still decide whether to meet them.
 
 While escorting them upstairs, Elanora asked what they believed about the origins of divinity. Lheani described the traditions of his homeland, where the gods he knows had once been people. The others offered their own uncertain or skeptical answers. Elanora seemed to value their honesty and offered a final hint: to pass the Triumph, they would need to **extinguish the flames of anger**. Words alone, she warned, are not always enough.
 
@@ -75,7 +75,7 @@ She opened a large stone door on the third floor, revealing a square chamber and
 - Paul's noble credentials prompted a discussion of the **actual Seragon family crest**, a circular ruffled border resembling pie crust with a shield at its center. Predictably, everyone focused on the pie.
 - Lheani started a detective agency with Sev's office, a handmade sign, and approximately zero paying clients.
 - A dangerous argument was ended without actual combat, though the combination of a greataxe, wind, and illusory artillery was not exactly subtle.
-- Captain Exx shared an extremely unfortunate story about the skeletal archer that ended his adventuring career.
+- Captain Exx shared an extremely unfortunate story about the skeletal archer that ended his adventuring career by, well, taking out Exx's party "member."
 - The party received a valuable clue about the trial by answering a question honestly, rather than telling the religious guide what she wanted to hear.
 
 ## People Encountered
@@ -104,6 +104,7 @@ She opened a large stone door on the third floor, revealing a square chamber and
 - Will the two churches turn against one another if the disaster continues?
 - What does the Triumph of Saint Ludavica actually demand, and will its completion earn an audience with Cardinal Pedro?
 - Where is the building Happy circled on his sketch?
+- Where did Happy go?
 
 ## Quests and Open Threads
 
@@ -124,7 +125,7 @@ She opened a large stone door on the third floor, revealing a square chamber and
 
 - **20 gp**: Found in Sev's secret desk compartment and divided evenly: **4 gp each** to Paul, Alvin, Lheani, Fineks, and 27.
 - **3 gp**: Captain Exx gave this to Lheani, who passed it to Alvin.
-- **Three office keys**: Provided by Gladys. The current term is paid through **Vuana 28**, and next month's **60 gp** is unpaid, due by the **1st**.
+- **Three office keys**: Provided by Gladys. The current term is paid through **Vuana 28th**, and next month's **60 gp** is unpaid, due by the **1st**.
 - **[[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]]**: Confirmed to be a one-use Greater Healing Potion when crushed in its holder's hand. It remains unspent.
 - **New information**: Sev's case file, directions to both churches, and guidance on the forthcoming trial.
 
