@@ -13,7 +13,7 @@ tags:
   - "#Thread"
 status: open
 first_seen: Session 025
-last_updated: Session 026
+last_updated: Session 028
 ---
 
 # Find the Circled Building
@@ -22,11 +22,11 @@ last_updated: Session 026
 
 During the final watch of Session 25, [[Campaigns/Faldara/People/Happy|Happy]] began drawing in the dirt without consciously intending to produce a map. [[Campaigns/Faldara/People/27|27]] recognized the sketch as [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]], even though the party had not yet reached it.
 
-Happy had drawn the coastline and landmarks, including the **Dawn Spire**, **Church of Solano**, and **Temple of the Deep**. Most strikingly, he had **circled a building** whose identity neither he nor 27 could explain. Happy felt a strange familiarity with the city.
+Happy had drawn the coastline and landmarks, including the **Tidal Spire**, **Church of Solano**, and **Temple of the Deep**. Most strikingly, he had **circled a building** whose identity neither he nor 27 could explain. Happy felt a strange familiarity with the city.
 
 ## Current Objective
 
-Reach Stormwatch Harbor and try to identify the building marked on Happy's sketch. Determine whether it can shed light on Happy's missing memories.
+Having reached Stormwatch Harbor, identify the building marked on Happy's sketch. Determine whether it can shed light on Happy's missing memories.
 
 ## Leads and Clues
 
@@ -44,6 +44,11 @@ Reach Stormwatch Harbor and try to identify the building marked on Happy's sketc
 ### Session 026 - The Keeper's Moths
 - The group continued toward the harbor but did not reach it.
 - No new explanation for the map or building emerged.
+
+### Session 028 - The Detective Agency and the Trial of Faith
+
+- You Guys reached Stormwatch Harbor. Happy departed before the group entered, for unspecified business.
+- The circled building has not been identified. No new explanation for Happy's map was established.
 
 ## Open Questions
 

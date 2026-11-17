@@ -17,9 +17,9 @@ ancestry: Tortle
 age: Young Adult
 class: Barbarian
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
-current_location: "On the road to Stormwatch Harbor"
+current_location: "[[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]]"
 first_seen: Session 016
-last_updated: Session 027
+last_updated: Session 028
 ---
 
 # Lheani
@@ -34,7 +34,7 @@ last_updated: Session 027
 > | **Class** | Barbarian |
 > | **Occupation** | Adventurer |
 > | **Party** | [[Campaigns/Faldara/Groups/You Guys\|You Guys]] |
-> | **Current location** | Road to Stormwatch Harbor |
+> | **Current location** | [[Campaigns/Faldara/Places/Tidal Spire\|Tidal Spire]] |
 > | **Status** | Active |
 > | **First seen** | Session 016 |
 
@@ -75,3 +75,9 @@ That night, he fought six dire wolves with his greataxe and ancestral defenders.
 Lheani calmed a wounded wolf while [[Campaigns/Faldara/People/Lucille|Lucille]], a traveling devotee of Solano, treated it. When she heard that he came from **New-Doleh**, she suggested **Cardinal Pedro**, a Solano leader reportedly from the same place, might recognize the painting on Lheani's shell. Lucille did not recognize it herself.
 
 She gave him a sun-emblem [[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]], described as permission to attempt a trial at the [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]] before seeking a meeting with Pedro. The trial and meeting have not happened. Later in the session, Lheani healed a farmer and carried the sleepy Fineks while the party recovered six cows and five goats for the farmer.
+
+## Session 28: The Detective Agency
+
+In Stormwatch Harbor, Lheani installed a sign for **“Lheani (and You Guys) Detective Agency”** at Sev's former office. He stepped between two groups of rival worshippers and helped prevent a fight. Captain Exx rewarded the party with **3 gp**, which Lheani gave to Alvin.
+
+Lheani presented Lucille's medallion at the Tidal Spire and discussed the divinities of his homeland with Elanora. He still hopes to speak with Cardinal Pedro, but the group has only reached the trial entrance.

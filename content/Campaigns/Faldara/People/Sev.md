@@ -14,7 +14,7 @@ status: alive
 occupation:
   - Private investigator (self-described)
 first_seen: Session 024
-last_updated: Session 024
+last_updated: Session 028
 ---
 
 # Sev
@@ -44,11 +44,17 @@ He spoke of something called **the Faceless**, a symbol resembling a hooded or m
 
 ## Assistance and Leads
 
-After his rescue, Sev gave the group the combination to a safe beneath his bed. It contained **120 gp** and a **Potion of Invisibility**, which the party recovered. He also told them that his former office in the **Dry Docks District** holds investigation notes and that his landlady **Gladys** had been paid for the current rental period.
+After his rescue, Sev gave the group the combination to a safe beneath his bed. It contained **120 gp** and a **Potion of Invisibility**, which the party recovered. He also told them his former office in the **Dry Docks District** held investigation notes. In Session 28, the party located [[Campaigns/Faldara/Places/Sev's Office|his office]], obtained keys from [[Campaigns/Faldara/People/Gladys|Gladys]], and recovered the files from a concealed desk compartment.
 
 Sev said he did not want to return to Stormwatch Harbor. His whereabouts after leaving the roadside encounter are not established.
 
 See [[Campaigns/Faldara/Threads/Stormwatch Harbor Investigation|Stormwatch Harbor Investigation]].
+
+## Recovered Case File (Session 28)
+
+Sev's notes say that a tall, gray-coated woman hired him to investigate a cult. They describe **Errin Ridge**, who reportedly stole a Tidal Spire relic and tried to sell it through a gambling den associated with **the Perch**. Sev found Ridge dead, apparently hanged, with writings about eyes, ears, mouths, and masks nearby. Sev later noticed he was followed and discovered a severed hand at his door, after which he fled.
+
+These are accounts from Sev's file, not independent confirmation of who committed the crimes, who employed him, or who threatened him. His current whereabouts remain unknown.
 
 ## Open Questions
 
