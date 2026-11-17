@@ -40,6 +40,14 @@ tags:
 - [[Campaigns/Faldara/People/The Keeper|The Keeper]]
 - [[Campaigns/Faldara/People/Lucille|Lucille]]
 
+## Stormwatch Harbor
+
+- [[Campaigns/Faldara/People/Sev|Sev]]
+- [[Campaigns/Faldara/People/Gladys|Gladys]]
+- [[Campaigns/Faldara/People/Nedry|Nedry]]
+- [[Campaigns/Faldara/People/Captain Exx|Captain Exx]]
+- [[Campaigns/Faldara/People/Elanora|Elanora]]
+
 ## Earlier Connections
 
 - [[Campaigns/Faldara/People/Umbral Kaz|Umbral Kaz]]

@@ -30,7 +30,7 @@ With only a few days left on the road, the group discussed what to do in Stormwa
 
 At a well-maintained bridge over a stream, the travelers met **Fisherman Mac**, who was enjoying a good catch. They bought a large perch for **1 sp**. Mac had less reassuring things to say about their destination. As a devotee of [[Campaigns/Faldara/Lore/Deities/Eravona|Eravona]], he believed the reports of burning seawater reflected his goddess's anger, and blamed the influence of [[Campaigns/Faldara/Lore/Deities/Solano|Solano]] and his followers. That was Mac's interpretation, not proof of why anything is happening at the harbor.
 
-Mac pointed them toward the **Churning Temple**, a seaside center of Eravona's worship, and asked them to carry a message to **Captain Lannery**, head of the **Churning Church**. Mac said he used to serve aboard her crew and still prayed daily in her honor.
+Mac pointed them toward the **Churning Chapel**, a seaside center of Eravona's worship, and asked them to carry a message to **Captain Lannery**, head of the **Churning Church**. Mac said he used to serve aboard her crew and still prayed daily in her honor.
 
 That evening Fineks roasted and ate the perch, only to bite into something that was very much not a fish bone: **a clear blue sapphire** containing what looked like a tiny, moving eye when light struck it. Fineks recognized the image as a sign associated with Eravona, one said to be sent as an invitation to certain people. She pocketed the sapphire and kept her discovery to herself.
 
@@ -66,7 +66,7 @@ The party returned to rest, continued along the road, and gathered a little more
 
 ## People Encountered
 
-- **Fisherman Mac:** An Eravona devotee and former crewmate of Captain Lannery who sold the party a fish and described the Churning Temple.
+- **Fisherman Mac:** An Eravona devotee and former crewmate of Captain Lannery who sold the party a fish and described the Churning Chapel.
 - **Captain Lannery:** Head of the Churning Church, whom Mac asked the party to greet. Not yet met.
 - **[[Campaigns/Faldara/People/Lucille|Lucille]]:** A traveling devotee of Solano who healed an injured wolf and gave Lheani a way to seek Cardinal Pedro.
 - **Cardinal Pedro:** A Solano cleric at the Tidal Spire, reportedly from New-Doleh. Not yet met.
@@ -76,7 +76,7 @@ The party returned to rest, continued along the road, and gathered a little more
 ## Places Visited
 
 - **The southern road:** Bridges, small farms, woods, and campsites in the final days before Stormwatch Harbor.
-- **[[Campaigns/Faldara/Places/Churning Temple|The Churning Temple]]:** Described by Mac as a seaside center of Eravona's worship in the harbor. Not yet visited.
+- **[[Campaigns/Faldara/Places/Churning Chapel|The Churning Chapel]]:** Described by Mac as a seaside center of Eravona's worship in the harbor. Not yet visited.
 - **[[Campaigns/Faldara/Places/Tidal Spire|The Tidal Spire]]:** Described by Lucille as a large lighthouse and Solano religious center in the harbor. Not yet visited.
 
 ## Clues, Rumors, and Questions
@@ -85,7 +85,7 @@ The party returned to rest, continued along the road, and gathered a little more
 - Why was an eye-bearing sapphire associated with Eravona inside the fish Fineks bought? What does the alleged invitation mean?
 - What is the Tidal Spire's trial, and what might Cardinal Pedro know about Lheani's home or the markings on his shell?
 - Are the increasing roadside thefts actually a consequence of problems in the harbor, as the farmer believes?
-- The relationship, if any, between the **Tidal Spire** and the **Dawn Spire** previously recognized on Happy's sketch has not been established.
+- The **Tidal Spire** is the established name of the lighthouse landmark recognized from Happy's sketch.
 
 ## Quests and Open Threads
 
@@ -95,7 +95,7 @@ The party returned to rest, continued along the road, and gathered a little more
 - [[Campaigns/Faldara/Threads/Cure Fineks's Discord|Cure Fineks's Discord]] and [[Campaigns/Faldara/Threads/Find Zero|Find Zero]]: Apeiron remains the eventual destination. Fineks's prophesied role has not been established.
 
 ### New
-- **Investigate the Harbor's Competing Faiths:** Mac's Churning Temple lead and Lucille's Tidal Spire invitation offer different perspectives on the same unsettled coast.
+- **Investigate the Harbor's Competing Faiths:** Mac's Churning Chapel lead and Lucille's Tidal Spire invitation offer different perspectives on the same unsettled coast.
 - **Seek Cardinal Pedro:** Lheani has a medallion that Lucille says will allow him to attempt a trial for an audience.
 
 ### Resolved

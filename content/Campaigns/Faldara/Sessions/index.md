@@ -15,6 +15,10 @@ tags:
 
 - [[Campaigns/Faldara/Sessions/Happy's Birthday One-Shot - Permission to Have Been Born|Happy's Birthday One-Shot: Permission to Have Been Born]] (standalone, canon unconfirmed)
 
+## Stormwatch Harbor
+
+- [[Campaigns/Faldara/Sessions/Session 028 - The Detective Agency and the Trial of Faith|Session 28: The Detective Agency and the Trial of Faith]]
+
 ## Road to Stormwatch Harbor
 
 - [[Campaigns/Faldara/Sessions/Session 027 - A Fish, Two Faiths, and a Questionable Rope|Session 27: A Fish, Two Faiths, and a Questionable Rope]]

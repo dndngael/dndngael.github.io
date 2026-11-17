@@ -147,7 +147,7 @@ When 27 noticed the drawing, he recognized the city immediately.
 
 It was **Stormwatch Harbor**.
 
-He identified several landmarks, including the **Dawn Spire**, the **Church of Solano**, and the **Temple of the Deep**.
+He identified several landmarks, including the **Tidal Spire**, the **Church of Solano**, and the **Temple of the Deep**.
 
 But one detail caught his attention.
 
