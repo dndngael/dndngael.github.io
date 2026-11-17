@@ -28,8 +28,8 @@ last_updated: Session 019
 
 # Ĵura Senkret
 
-> [!infobox]+ Ĵura Senkret
-> ![[Assets/Ĵura.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Ĵura Senkret
+> ![](../../../Assets/Ĵura.png)
 > | | |
 > | --- | --- |
 > | **Pronounced** | JXOO-ruh SEHN-kret |

@@ -26,8 +26,8 @@ symbol: Trident crossing a bolt of lightning
 
 # Eravona
 
-> [!infobox]+ Eravona
-> ![[Assets/Eravona.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Eravona
+> ![](../../../../Assets/Eravona.png)
 > | | |
 > | --- | --- |
 > | **Pronounced** | air-ah-VOH-nah |

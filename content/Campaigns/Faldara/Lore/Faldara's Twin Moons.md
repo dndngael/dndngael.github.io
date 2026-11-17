@@ -17,7 +17,7 @@ last_updated: Session 013
 
 # Faldara's Twin Moons
 
-> [!infobox]+ Farin and Zil
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Farin and Zil
 > | | |
 > | --- | --- |
 > | **Farin** | Large, silver, steady cycle |
@@ -30,13 +30,13 @@ Faldara has two moons: **Farin** and **Zil**.
 
 ## Farin
 
-![[Assets/Farin.jpg]]
+![](../../../Assets/Farin.jpg)
 
 Farin is large and silver, with a steady and familiar cycle. Its name is associated with [[Campaigns/Faldara/Lore/Deities/Farinia|Farinia]], deity of time and fate.
 
 ## Zil
 
-![[Assets/Zil.jpg]]
+![](../../../Assets/Zil.jpg)
 
 Zil is smaller and golden, and sometimes disappears from the night sky.
 

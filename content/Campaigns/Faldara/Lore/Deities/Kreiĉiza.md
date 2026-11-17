@@ -27,7 +27,7 @@ last_updated: Session 019
 
 # Kreiĉiza
 
-> [!infobox]+ Kreiĉiza
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Kreiĉiza
 > | | |
 > | --- | --- |
 > | **Pronounced** | krey-CHEEZ-uh |

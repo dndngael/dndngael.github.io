@@ -23,8 +23,8 @@ last_updated: Session 023
 
 # Lurvius
 
-> [!infobox]+ Lurvius
-> ![[Assets/LurviusWithMask.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Lurvius
+> ![](../../../Assets/LurviusWithMask.png)
 > | | |
 > | --- | --- |
 > | **Pronounced** | loor-VEE-oos |

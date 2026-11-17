@@ -24,7 +24,7 @@ last_updated: Session 012
 
 # Favaro
 
-> [!infobox]+ Favaro
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Favaro
 > | | |
 > | --- | --- |
 > | **Pronounced** | fah-VAH-roh |

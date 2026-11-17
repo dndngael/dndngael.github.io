@@ -25,7 +25,7 @@ last_updated: Session 022
 
 # Faylen Nemyris
 
-> [!infobox]+ Faylen Nemyris
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Faylen Nemyris
 > | | |
 > | --- | --- |
 > | **Pronounced** | FEY-lehn neh-MEER-ihs |

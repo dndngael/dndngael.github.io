@@ -17,7 +17,7 @@ first_seen: Session 001
 
 # Myrna
 
-> [!infobox]+ Myrna
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Myrna
 > | | |
 > | --- | --- |
 > | **Played by** | Marina |

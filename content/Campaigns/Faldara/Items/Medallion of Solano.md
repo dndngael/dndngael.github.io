@@ -13,12 +13,12 @@ status: held
 item_type: Medallion
 current_holder: "[[Campaigns/Faldara/People/Lheani|Lheani]]"
 first_seen: Session 027
-last_updated: Session 028
+last_updated: Session 027
 ---
 
 # Medallion of Solano
 
-> [!infobox]+ Medallion of Solano
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Medallion of Solano
 > | | |
 > | --- | --- |
 > | **Type** | Sun-marked medallion |
@@ -39,11 +39,11 @@ In thanks, Lucille gave Lheani this medallion. She also asked him to pass along 
 
 According to Lucille, the medallion serves as an **invitation to the [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]]** in Stormwatch Harbor. There, Lheani may attempt a **trial** before being permitted an audience with Cardinal Pedro.
 
-The medallion does not itself guarantee an audience or success in the trial. In Session 28, [[Campaigns/Faldara/People/Elanora|Elanora]] revealed an additional property: **crushing the medallion in the holder's hand produces the effect of a Greater Healing Potion for the holder and consumes the medallion**. Other magical abilities and attunement requirements have not been established.
+The medallion does not itself guarantee an audience or success in the trial. **No magical powers, rarity, or attunement requirements have been established.**
 
 ## Current Status
 
-**Lheani holds the medallion.** The group entered the Tidal Spire in Session 28 and reached the trial chamber, but has **not begun the trial or met Cardinal Pedro**. The medallion remains **unspent**.
+**Lheani holds the medallion.** The party has not yet visited the Tidal Spire, attempted its trial, or met Cardinal Pedro.
 
 ## Open Questions
 

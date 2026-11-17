@@ -17,7 +17,7 @@ first_seen: Session 001
 
 # Hugh Mann
 
-> [!infobox]+ Hugh Mann
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Hugh Mann
 > | | |
 > | --- | --- |
 > | **Played by** | PJ |

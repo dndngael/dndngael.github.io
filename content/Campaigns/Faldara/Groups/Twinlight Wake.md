@@ -18,7 +18,7 @@ last_updated: Session 022
 
 # Twinlight Wake
 
-> [!infobox]+ Twinlight Wake
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Twinlight Wake
 > | | |
 > | --- | --- |
 > | **Type** | Religious movement |

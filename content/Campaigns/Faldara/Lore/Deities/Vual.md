@@ -24,7 +24,7 @@ last_updated: Session 022
 
 # Vual
 
-> [!infobox]+ Vual
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Vual
 > | | |
 > | --- | --- |
 > | **Pronounced** | voo-AHL |

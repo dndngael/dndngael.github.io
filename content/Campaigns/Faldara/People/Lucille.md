@@ -12,12 +12,12 @@ status: traveling
 pronouns: She/Her
 occupation: Solano pilgrim
 first_seen: Session 027
-last_updated: Session 028
+last_updated: Session 027
 ---
 
 # Lucille
 
-> [!infobox]+ Lucille
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Lucille
 > | | |
 > | --- | --- |
 > | **Role** | Solano pilgrim |
@@ -28,7 +28,3 @@ Lucille is an older, white-robed pilgrim met on the road to [[Campaigns/Faldara/
 She described the [[Campaigns/Faldara/Places/Tidal Spire|Tidal Spire]] as a Solano cathedral and lighthouse. She said **Cardinal Pedro**, a cleric reportedly from **New-Doleh**, might recognize Lheani's painted shell. She did not recognize it herself.
 
 Lucille gave Lheani a sun-emblem [[Campaigns/Faldara/Items/Medallion of Solano|Medallion of Solano]], which she said would allow him to attempt a trial before seeking an audience with Pedro. She asked Lheani to tell him that her pilgrimage continues. Her destination remains unknown.
-
-## News from the Tidal Spire (Session 28)
-
-The Tidal Spire guards referred to Lucille as a **saint-elect**. [[Campaigns/Faldara/People/Elanora|Elanora]] explained that the medallion she gave Lheani can be crushed to provide the effect of a **Greater Healing Potion** to its holder, consuming it. The medallion was not used, and Lucille herself was not encountered this session.

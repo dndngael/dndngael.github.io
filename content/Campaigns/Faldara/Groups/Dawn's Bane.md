@@ -17,7 +17,7 @@ last_updated: Session 024
 
 # Dawn's Bane
 
-> [!infobox]+ Dawn's Bane
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Dawn's Bane
 > | | |
 > | --- | --- |
 > | **Type** | Adventuring party |

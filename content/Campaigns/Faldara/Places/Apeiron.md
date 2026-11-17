@@ -17,7 +17,7 @@ last_updated: Session 024
 
 # Apeiron
 
-> [!infobox]+ Apeiron
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Apeiron
 > | | |
 > | --- | --- |
 > | **Type** | Island |

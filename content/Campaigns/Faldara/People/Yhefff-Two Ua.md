@@ -24,7 +24,7 @@ last_updated: Session 016
 
 # Yhefff-Two Ua
 
-> [!infobox]+ Yhefff-Two Ua
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Yhefff-Two Ua
 > | | |
 > | --- | --- |
 > | **Played by** | PJ |

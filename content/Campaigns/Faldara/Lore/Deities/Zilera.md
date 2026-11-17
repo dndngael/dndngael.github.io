@@ -23,7 +23,7 @@ symbol: Rose entwined around a burning heart
 
 # Zilera
 
-> [!infobox]+ Zilera
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Zilera
 > | | |
 > | --- | --- |
 > | **Pronounced** | zihl-EHR-uh |

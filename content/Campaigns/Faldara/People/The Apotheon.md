@@ -20,7 +20,7 @@ last_updated: Session 023
 
 # The Apotheon
 
-> [!infobox]+ The Apotheon
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> The Apotheon
 > | | |
 > | --- | --- |
 > | **Pronounced** | uh-PAH-THEE-ahn |

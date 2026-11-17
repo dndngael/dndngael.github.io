@@ -29,7 +29,7 @@ last_updated: Session 023
 
 # Seren Kaŭro
 
-> [!infobox]+ Seren Kaŭro
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Seren Kaŭro
 > | | |
 > | --- | --- |
 > | **Pronounced** | SEHR-ehn KAHW-roh |

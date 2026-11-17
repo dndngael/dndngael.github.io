@@ -20,7 +20,7 @@ last_updated: Session 024
 
 # You Guys
 
-> [!infobox]+ You Guys
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> You Guys
 > | | |
 > | --- | --- |
 > | **Type** | Adventuring party |

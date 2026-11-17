@@ -24,7 +24,7 @@ last_updated: Session 006
 
 # Umbral Kaz
 
-> [!infobox]+ Umbral Kaz
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Umbral Kaz
 > | | |
 > | --- | --- |
 > | **Pronounced** | Kaz |

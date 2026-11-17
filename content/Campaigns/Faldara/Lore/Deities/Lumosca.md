@@ -22,7 +22,7 @@ symbol: Shining star surrounded by rays of light
 
 # Lumosca
 
-> [!infobox]+ Lumosca
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Lumosca
 > | | |
 > | --- | --- |
 > | **Pronounced** | loo-MOH-skuh |

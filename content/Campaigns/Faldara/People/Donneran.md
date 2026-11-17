@@ -21,7 +21,7 @@ last_updated: Session 015
 
 # Donneran
 
-> [!infobox]+ Donneran
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Donneran
 > | | |
 > | --- | --- |
 > | **Pronounced** | DAHN-er-ihn |

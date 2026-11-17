@@ -13,7 +13,7 @@ first_seen: Session 001
 
 # Spirit of Wesmas
 
-> [!infobox]+ Spirit of Wesmas
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Spirit of Wesmas
 > | | |
 > | --- | --- |
 > | **Form** | Floating, ghostlike spirit |

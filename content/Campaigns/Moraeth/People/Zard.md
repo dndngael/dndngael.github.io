@@ -17,7 +17,7 @@ first_seen: Session 001
 
 # Zard
 
-> [!infobox]+ Zard
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Zard
 > | | |
 > | --- | --- |
 > | **Played by** | Ky |

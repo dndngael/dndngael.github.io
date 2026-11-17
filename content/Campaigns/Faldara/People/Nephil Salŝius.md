@@ -24,7 +24,7 @@ last_updated: Session 023
 
 # Nephil Salŝius
 
-> [!infobox]+ Nephil Salŝius
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Nephil Salŝius
 > | | |
 > | --- | --- |
 > | **Pronounced** | NEH-fuhl SÆL-shuhs |

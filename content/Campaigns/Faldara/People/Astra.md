@@ -25,8 +25,8 @@ last_updated: Session 019
 
 # Astra
 
-> [!infobox]+ Astra
-> ![[Assets/Astra.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Astra
+> ![](../../../Assets/Astra.png)
 > | | |
 > | --- | --- |
 > | **Ancestry** | Drow Elf |

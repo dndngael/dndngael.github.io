@@ -26,8 +26,8 @@ last_updated: Session 006
 
 # Vualio City
 
-> [!infobox]+ Vualio City
-> ![[Assets/vualio no districts.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Vualio City
+> ![](../../../Assets/vualio%20no%20districts.png)
 > | | |
 > | --- | --- |
 > | **Pronounced** | voo-AHL-ee-oh |
@@ -45,7 +45,7 @@ The city is arranged in a broad circular pattern with major gates, bridges, dist
 
 ## City Map
 
-![[Assets/vualio districts.png]]
+![](../../../Assets/vualio%20districts.png)
 
 ## Masks and Religion
 

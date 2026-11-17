@@ -20,8 +20,8 @@ last_updated: Session 015
 
 # Umbracite
 
-> [!infobox]+ Umbracite
-> ![[Assets/Umbracite.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Umbracite
+> ![](../../../Assets/Umbracite.png)
 > | | |
 > | --- | --- |
 > | **Type** | Strange crystalline material |

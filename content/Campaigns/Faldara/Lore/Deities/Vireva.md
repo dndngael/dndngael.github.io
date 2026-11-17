@@ -23,7 +23,7 @@ symbol: Hammer resting on a coin
 
 # Vireva
 
-> [!infobox]+ Vireva
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Vireva
 > | | |
 > | --- | --- |
 > | **Pronounced** | veer-EH-vah |

@@ -19,8 +19,8 @@ last_updated: Session 015
 
 # Silentstone
 
-> [!infobox]+ Silentstone
-> ![[Assets/Silentstone.webp]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Silentstone
+> ![](../../../Assets/Silentstone.webp)
 > | | |
 > | --- | --- |
 > | **Type** | Wondrous item |

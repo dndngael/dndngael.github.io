@@ -23,7 +23,7 @@ symbol: Radiant sun
 
 # Solano
 
-> [!infobox]+ Solano
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Solano
 > | | |
 > | --- | --- |
 > | **Pronounced** | sohl-AH-noh |

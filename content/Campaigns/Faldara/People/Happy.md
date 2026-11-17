@@ -21,12 +21,12 @@ level: 5
 party: "[[Campaigns/Faldara/Groups/You Guys|You Guys]]"
 current_location: "On the road to Stormwatch Harbor"
 first_seen: Session 009
-last_updated: Session 028
+last_updated: Session 027
 ---
 
 # Happy
 
-> [!infobox]+ Happy
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Happy
 > | | |
 > | --- | --- |
 > | **Played by** | Emily |
@@ -68,7 +68,7 @@ Happy also supplied the name chosen for the party's official recognition: **You 
 
 On the journey toward [[Campaigns/Faldara/Places/Stormwatch Harbor|Stormwatch Harbor]], Happy told the others more about his earliest memories. After waking in the wilderness without clothes or knowledge of his earlier life, he found a vacation cabin and took clothing from a clothesline. He could not remember the first person he met afterward or explain where his name came from. He said that part of the reason he values his magical armor is that it cannot ordinarily be removed against his wishes. He does not want to wake up naked again.
 
-While taking the last watch after a nighttime dire-wolf attack, Happy absentmindedly drew a coastal city in the dirt. [[Campaigns/Faldara/People/27|27]] recognized it as **Stormwatch Harbor**, identifying the Tidal Spire, Church of Solano, Temple of the Deep, and coastline. The drawing also marked an unidentified building with a circle. Happy felt an inexplicable familiarity but could not explain the map or the circled building.
+While taking the last watch after a nighttime dire-wolf attack, Happy absentmindedly drew a coastal city in the dirt. [[Campaigns/Faldara/People/27|27]] recognized it as **Stormwatch Harbor**, identifying the Dawn Spire, Church of Solano, Temple of the Deep, and coastline. The drawing also marked an unidentified building with a circle. Happy felt an inexplicable familiarity but could not explain the map or the circled building.
 
 **What this means for Happy's missing history remains unknown.** See [[Campaigns/Faldara/Threads/Stormwatch Harbor Investigation|Stormwatch Harbor Investigation]].
 
@@ -85,7 +85,3 @@ The [[Campaigns/Faldara/Threads/Find the Circled Building|building circled on Ha
 After the party recovered a farmer's stolen animals without fighting, the farmer rewarded them with a **Rope of Climbing**, which **Happy now carries**. The rope can bind a target on command, as established by Ryan at the table. Other proposed uses, including pursuing teleporting targets, were jokes rather than established item rules.
 
 The circled building from Happy's Stormwatch Harbor map remains unidentified. The session ended with the party camped one night before entering the city.
-
-## Session 28: An Unspecified Departure
-
-Happy left the party's final campsite before it entered Stormwatch Harbor, for unspecified urgent business. His destination and activities have not been established. He did not join the office investigation, street confrontation, or Tidal Spire visit. The building on his unexplained map remains unidentified.

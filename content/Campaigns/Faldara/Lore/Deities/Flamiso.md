@@ -21,7 +21,7 @@ symbol: Salamander
 
 # Flamiso
 
-> [!infobox]+ Flamiso
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Flamiso
 > | | |
 > | --- | --- |
 > | **Pronounced** | flah-MEE-soh |

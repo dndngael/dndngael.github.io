@@ -26,7 +26,7 @@ last_updated: Session 006
 
 # Narvono
 
-> [!infobox]+ Narvono
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Narvono
 > | | |
 > | --- | --- |
 > | **Pronounced** | nahr-VOH-noh |

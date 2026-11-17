@@ -13,7 +13,7 @@ quicknote: "Astra rescued the party on the road, and the journey toward Arbaroŝ
 
 # Session Recap: Session 8
 
-> [!note]
+> [!NOTE] <!--easygit-callout:original=note,collapse=-->
 > The surviving legacy notes for this session are brief. This recap records only the events that are clearly preserved there.
 
 ## What Happened

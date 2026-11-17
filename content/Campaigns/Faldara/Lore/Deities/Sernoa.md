@@ -22,7 +22,7 @@ symbol: Skull with decaying vines growing through it
 
 # Sernoa
 
-> [!infobox]+ Sernoa
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Sernoa
 > | | |
 > | --- | --- |
 > | **Pronounced** | sehr-NOH-uh |

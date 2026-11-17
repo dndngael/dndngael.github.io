@@ -24,7 +24,7 @@ symbol: Sword crossed with a pair of scales
 
 # Vendako
 
-> [!infobox]+ Vendako
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Vendako
 > | | |
 > | --- | --- |
 > | **Pronounced** | vehn-DAH-koh |

@@ -27,7 +27,7 @@ last_updated: Session 023
 
 # Alvin Draper
 
-> [!infobox]+ Alvin Draper
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Alvin Draper
 > | | |
 > | --- | --- |
 > | **Played by** | Haleigh |

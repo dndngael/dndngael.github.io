@@ -21,8 +21,8 @@ last_updated: Session 023
 
 # Velmian
 
-> [!infobox]+ Velmian
-> ![[Assets/Velmian.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Velmian
+> ![](../../../Assets/Velmian.png)
 > | | |
 > | --- | --- |
 > | **Pronounced** | VEHL-mee-ihn |

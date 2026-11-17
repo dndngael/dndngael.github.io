@@ -17,7 +17,7 @@ last_updated: Session 027
 
 # Eye-Bearing Sapphire
 
-> [!infobox]+ Eye-Bearing Sapphire
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Eye-Bearing Sapphire
 > | | |
 > | --- | --- |
 > | **Type** | Sapphire |

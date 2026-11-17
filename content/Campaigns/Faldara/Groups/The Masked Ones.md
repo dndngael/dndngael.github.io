@@ -18,7 +18,7 @@ last_updated: Session 016
 
 # The Masked Ones
 
-> [!infobox]+ The Masked Ones
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> The Masked Ones
 > | | |
 > | --- | --- |
 > | **Type** | Religious organization |

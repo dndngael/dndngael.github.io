@@ -18,7 +18,7 @@ last_updated: Session 023
 
 # Moon's Tear
 
-> [!infobox]+ Moon's Tear
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Moon's Tear
 > | | |
 > | --- | --- |
 > | **Type** | Mysterious stone |

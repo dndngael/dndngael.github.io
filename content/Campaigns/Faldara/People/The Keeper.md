@@ -16,7 +16,7 @@ last_updated: Session 026
 
 # The Keeper
 
-> [!infobox]+ The Keeper
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> The Keeper
 > | | |
 > | --- | --- |
 > | **Known role** | Claimed guardian of a forest boundary |

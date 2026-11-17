@@ -25,8 +25,8 @@ last_updated: Session 027
 
 # Fineks
 
-> [!infobox]+ Fineks
-> ![[Assets/Fineks.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Fineks
+> ![](../../../Assets/Fineks.png)
 > | | |
 > | --- | --- |
 > | **Pronounced** | FEE-niks |

@@ -26,7 +26,7 @@ last_updated: Session 023
 
 # Farinia
 
-> [!infobox]+ Farinia
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Farinia
 > | | |
 > | --- | --- |
 > | **Pronounced** | far-EE-NEE-ah |

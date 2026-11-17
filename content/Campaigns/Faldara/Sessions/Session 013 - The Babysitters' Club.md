@@ -13,7 +13,7 @@ quicknote: "The midnight meeting with Faylen turned violent, and the party's nig
 
 # Session Recap: The Babysitters' Club
 
-> [!note]
+> [!NOTE] <!--easygit-callout:original=note,collapse=-->
 > The surviving legacy file for this session contains extensive encounter preparation but only a short record of the final outcome. This recap intentionally preserves only what the actual-play record supports.
 
 ## Previously

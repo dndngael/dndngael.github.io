@@ -19,8 +19,8 @@ last_updated: Session 006
 
 # Lowgates
 
-> [!infobox]+ Lowgates
-> ![[Assets/lowgates.png]]
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Lowgates
+> ![](../../../Assets/lowgates.png)
 > | | |
 > | --- | --- |
 > | **Type** | District |

@@ -14,7 +14,7 @@ first_seen: Session 001
 
 # Fen
 
-> [!infobox]+ Fen
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Fen
 > | | |
 > | --- | --- |
 > | **Ancestry** | Autognome |

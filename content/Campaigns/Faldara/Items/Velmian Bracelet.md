@@ -20,7 +20,7 @@ last_updated: Session 023
 
 # Velmian Bracelet
 
-> [!infobox]+ Velmian Bracelet
+> [!NOTE] <!--easygit-callout:original=infobox,collapse=+--> Velmian Bracelet
 > | | |
 > | --- | --- |
 > | **Type** | Wondrous item |
