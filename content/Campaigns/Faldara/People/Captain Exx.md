@@ -31,4 +31,4 @@ In Session 28, Exx arrived with guards after You Guys dispersed an angry confron
 
 He worries that continued trouble at sea could deepen religious divisions and eventually provoke widespread violence. This is Exx's fear, not a confirmed future event.
 
-He also told the party a memorable and unfortunate story of an old arrow injury that ended his earlier adventuring career.
+He also told the party a memorable and unfortunate story of an old arrow injury that ended his earlier adventuring career. Shot by a skeletal archer, Exx took an arrow to, not his knee, but rather his "member."
